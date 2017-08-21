@@ -12,6 +12,7 @@
  .navbar-nav .nav-item .nav-link {
   padding-right: .5rem;
   padding-left: .5rem;
-  color: #cdbfe3;
+  color: #fff;
+  opacity: 0.5;
 }
  
