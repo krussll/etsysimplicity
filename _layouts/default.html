@@ -13,59 +13,56 @@
     <![endif]-->
   </head>
   <body>
-  <header class="navbar navbar-light navbar-toggleable-md bd-navbar">
-  <nav class="container">
-
-
-    <div class="d-flex justify-content-between hidden-lg-up">
-      <a class="navbar-brand" href="/">
-        Bootstrap
-      </a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bd-main-nav" aria-controls="bd-main-nav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-    </div>
-
-    <div class="collapse navbar-collapse" id="bd-main-nav">
-      <ul class="nav navbar-nav">
-        <li class="nav-item active">
-          <a class="nav-item nav-link" href="#">Bootstrap</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-item nav-link" href="#">Documentation</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-item nav-link" href="#">Examples</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-item nav-link" href="#">Themes</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-item nav-link" href="#">Jobs</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-item nav-link" href="#">Expo</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-item nav-link" href="#">Blog</a>
-        </li>
-      </ul>
-    </div>
-  </nav>
-</header>
-      <main class="bd-masthead">
-
-      </main>
-      <div class="container">
-
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        {{ content }}
-
+    <header class="navbar navbar-light navbar-toggleable-md bd-navbar">
+    <nav class="container">
+      <div class="d-flex justify-content-between hidden-lg-up">
+        <a class="navbar-brand" href="/">
+          Bootstrap
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bd-main-nav" aria-controls="bd-main-nav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
       </div>
-      <footer>
-        <p><small>Copyright 2017</small></p>
-      </footer>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+      <div class="collapse navbar-collapse" id="bd-main-nav">
+        <ul class="nav navbar-nav">
+          <li class="nav-item active">
+            <a class="nav-item nav-link" href="#">Bootstrap</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-item nav-link" href="#">Documentation</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-item nav-link" href="#">Examples</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-item nav-link" href="#">Themes</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-item nav-link" href="#">Jobs</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-item nav-link" href="#">Expo</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-item nav-link" href="#">Blog</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+    
+  <div class="container">
+    {{ content }}
+  </div>
+
+  <footer class="bd-footer">
+    <div class="container">
+      <p><small>Copyright 2017</small></p>
+    </div>
+  </footer>
+  
+  <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
 
   {% if site.google_analytics %}
