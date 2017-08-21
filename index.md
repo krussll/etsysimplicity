@@ -6,6 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Welcome to Boilerplate
 ---
 
 # Designed for everyone, everywhere.
