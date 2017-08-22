@@ -8,6 +8,9 @@
     <div class="navbar-nav-scroll" id="bd-main-nav">
       <ul class="navbar-nav bd-navbar-nav flex-row">
         <li class="nav-item">
+          <a class="nav-link" href="{{ site.url }}">{{ page.url }}</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ site.url }}">Home</a>
         </li>
         <li class="nav-item">
