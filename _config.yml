@@ -3,4 +3,3 @@ permalink: pretty
 url: https://krussll.github.io/boilerplate/
 plugins:
    - jekyll-admin
-gem: [jekyll-admin]
