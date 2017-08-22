@@ -4,15 +4,17 @@
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.05), inset 0 -1px 0 rgba(0,0,0,.1);
 }
 
-.bd-navbar .navbar-nav .nav-link.active, .bd-navbar .navbar-nav .nav-link:hover, .navbar-brand {
-  color: #fff;
-  background-color: transparent;
-}
-
  .navbar-nav .nav-item .nav-link {
   padding-right: .5rem;
   padding-left: .5rem;
   color: #fff;
   opacity: 0.5;
 }
+
+.bd-navbar .navbar-nav .nav-link.active, .bd-navbar .navbar-nav .nav-link:hover, .navbar-brand {
+  color: #fff;
+  background-color: transparent;
+  opacity: 1;
+}
+
  
