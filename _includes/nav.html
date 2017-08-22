@@ -1,17 +1,23 @@
 
 <header class="navbar navbar-dark navbar-toggleable-md bd-navbar">
   <nav class="container">
-    <a class="navbar-brand" href="{{ site.url }}">
+    <a class="navbar-brand text-center" href="{{ site.url }}">
       Boilerplate
     </a>
     
     <div class="navbar-nav-scroll" id="bd-main-nav">
       <ul class="navbar-nav bd-navbar-nav flex-row">
         <li class="nav-item">
-          <a class="nav-link{% if page.url == '/about/' %} active{% endif %}" href="{{ site.url }}about">About</a>
+          <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ site.url }}">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link{% if page.url == '/lorem-ipsum/ %} active{% endif %}" href="{{ site.url }}#">Lorem Ipsum</a>
+          <a class="nav-link{% if page.url == '/about' %} active{% endif %}" href="{{ site.url }}about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link{% if page.url == '/articles' %} active{% endif %}" href="{{ site.url }}articles">Articles</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link{% if page.url == '/contact' %} active{% endif %}" href="{{ site.url }}contact">Contact</a>
         </li>
       </ul>
     </div>
