@@ -4,13 +4,16 @@
   <body>
     {% include nav.html %}
     <div class="jumbotron">
+      <div class="container text-center">
         <h1>{{ page.title }}</h1>
-        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.</p>
-        <p><a class="btn btn-lg btn-success" href="#" role="button">{{ page.action-text }}</a></p>
+        <p class="lead">{{ page.sub-title }}</p>
+        <p><a class="btn btn-lg btn-success" href="{{ page.action-location }}" role="button">{{ page.action-text }}</a></p>
       </div>
-      <div class="container my-5">
-        {{ content }}
-      </div>
+    </div>
+    
+    <div class="container my-5">
+      {{ content }}
+    </div>
 
   {% include footer.html %}
   {% include scripts.html %}
