@@ -3,8 +3,8 @@ permalink: pretty
 url: https://krussll.github.io/boilerplate/
 style:
   nav:
-    background: #563d7c
-    font: #fff
+    background: #B40604
+    font: #ffffff
   jumbotron:    
     background: #ECEEEF
-    font: #fff
+    font: #ffffff
