@@ -2,3 +2,8 @@ theme: jekyll-theme-minimal
 permalink: pretty
 name: Boilerplate
 url: https://krussll.github.io/boilerplate/
+
+nav-background: #B40604
+nav-font: #fff
+jumbotron-background: #ECEEEF
+jumbotron-font: #fff
