@@ -1,11 +1,11 @@
 ---
 ---
 
-$nav-background: #B40604;
-$nav-font: #fff;
+$nav-background: {{ site.nav-background }};
+$nav-font: {{ site.nav-font }};
 
-$jumbotron-background: #ECEEEF;
-$jumbotron-font: #fff;
+$jumbotron-background: {{ site.jumbotron-background }};
+$jumbotron-font: {{ site.jumbotron-font }};
 
 .bd-navbar {
   min-height: 4rem;
