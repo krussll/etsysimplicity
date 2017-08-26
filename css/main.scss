@@ -15,11 +15,13 @@ $jumbotron-font: #FFF;
 }
 
 .navbar-nav {
+  width: 50%;
+  margin: auto;
   padding-right: .5rem;
   padding-left: .5rem;
 }
 
- .navbar-nav .nav-item .nav-link {
+.navbar-nav .nav-item .nav-link {
   padding-right: .5rem;
   padding-left: .5rem;
   color: $nav-font;
