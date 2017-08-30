@@ -7,6 +7,12 @@ $nav-font: #252525;
 $jumbotron-background: #ECEEEF;
 $jumbotron-font: #FFF;
 
+$content-font: #24292e;
+
+p {
+  color: $content-font;
+}
+
 .bd-navbar {
   min-height: 4rem;
   background-color: $nav-background;
