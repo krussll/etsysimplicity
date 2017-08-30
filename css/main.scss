@@ -2,7 +2,7 @@
 ---
 
 $nav-background: #fff;
-$nav-font: #24292e;
+$nav-font: #0747A6;
 
 $jumbotron-background: #ECEEEF;
 $jumbotron-font: #FFF;
@@ -36,7 +36,7 @@ $jumbotron-font: #FFF;
 .navbar-brand {
   margin-right: 0rem;
   font-family: 'Bitter', serif;
-  color: #0747A6;
+  color: $nav-font;
 } 
 
 .jumbotron {
