@@ -11,7 +11,7 @@ BFEA (formally RBFES) is a leading scientific and professional organization repr
 Our mission is to advance the knowledge of Flat Earth Theory (FET) to benefit society and improve people's lives. We do this by:
 - Advising members to promote FET amongst their peer groups, and strangers alike
 - Using thought experiments pioneered by String Theorists to push the boundaries of knowledge of FET
-- Pressurising local and national government to fully reperent the field of FET
+- Pressurising local and national government to fully accept the field of FET
 
 ## Our Leadership
 
@@ -19,4 +19,4 @@ BFEA is currently run by our committee. We have a strict democratised system to 
 
 ## Royal Recognition
 
-Although not an officially recognised society we feel her royal Highness Queen Elizabeth would appreciate our search for truth.
+Although not an officially recognised society we feel Her Royal Highness Queen Elizabeth would appreciate our search for truth.
