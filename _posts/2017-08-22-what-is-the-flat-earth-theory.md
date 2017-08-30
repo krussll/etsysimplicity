@@ -1,6 +1,5 @@
 ---
-layout: default
+layout: post
 title: What is the Flat Earth Theory?
 ---
 
-# What is the Flat Earth Theory?
