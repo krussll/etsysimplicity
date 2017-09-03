@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-permalink: pretty
+permalink: /resources/:title
 name: BFEA
 url: http://www.bfea.co.uk/
 google_analytics: UA-86474387-2
