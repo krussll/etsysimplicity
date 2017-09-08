@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 permalink: /resources/:title
 name: BFEA
-url: http://www.bfea.co.uk/
+url: http://www.bfea.co.uk
 google_analytics: UA-86474387-2
 
 nav-background: #B40604
