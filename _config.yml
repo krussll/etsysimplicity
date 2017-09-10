@@ -13,3 +13,4 @@ plugins_dir: ./_plugins
 
 gems:
     - jekyll-seo-tag
+    - jekyll-theme-minimal
