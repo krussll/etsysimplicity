@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flat Earth Theory and NASA
-colour: '#85081f'
+colour: black
 ---
 
 
