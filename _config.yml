@@ -12,4 +12,3 @@ plugins_dir: ./_plugins
 
 gems:
     - jekyll-seo-tag
-    - "github-pages", group: :jekyll_plugins
