@@ -9,5 +9,5 @@ nav-font: #fff
 jumbotron-background: #ECEEEF
 jumbotron-font: #fff
 
-plugins_dir:
-  - jekyll-seo-tag
+plugins:
+    - jekyll-seo-tag
