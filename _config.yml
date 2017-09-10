@@ -11,5 +11,5 @@ jumbotron-font: #fff
 
 plugins_dir: ./_plugins
 
-plugins:
+gems:
     - jekyll-seo-tag
