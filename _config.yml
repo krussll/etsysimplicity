@@ -12,4 +12,4 @@ jumbotron-font: #fff
 plugins_dir: ./_plugins
 
 plugins:
-- jekyll-seo-tag
+    - jekyll-seo-tag
