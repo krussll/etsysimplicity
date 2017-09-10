@@ -10,3 +10,6 @@ jumbotron-background: #ECEEEF
 jumbotron-font: #fff
 
 plugins_dir: ./_plugins
+
+plugins:
+- jekyll-seo-tag
