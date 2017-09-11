@@ -13,6 +13,10 @@ p {
   color: $content-font;
 }
 
+#bd-main-nav {
+  display: inline-block;
+}
+
 .bd-navbar {
   min-height: 4rem;
   background-color: $nav-background;
