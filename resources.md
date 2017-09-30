@@ -3,6 +3,6 @@ layout: default
 title: Resources
 ---
 
-# Articles
+# Resources
 
 {% include all-posts.html %}
