@@ -1,5 +1,6 @@
 ---
 layout: post
+category: post
 title: Are Stars Flat Earths?
 colour: yellow
 ---
