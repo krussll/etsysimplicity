@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Resources
+title: Articles
 ---
 
-# Resources
+# Articles
 
 {% include all-posts.html %}
