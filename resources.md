@@ -5,4 +5,4 @@ title: Resources
 
 # Resources
 
-{% include all-posts.html %}
+{% include all-resources.html %}
