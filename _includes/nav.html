@@ -2,7 +2,7 @@
 <header class="navbar navbar-dark navbar-toggleable-md bd-navbar">
   <nav class="container text-center">
     <a class="navbar-brand" href="{{ site.url }}">
-      {{ site.name }}
+      {{ site.name }} {{ page.url }}
     </a>
     
     <div class="navbar-nav-scroll" id="bd-main-nav">
@@ -15,6 +15,9 @@
         </li>
         <li class="nav-item">
           <a class="nav-link{% if page.url == '/articles/' %} active{% endif %}" href="{{ site.url }}/resources">Resources</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link{% if page.url == '/articles/' %} active{% endif %}" href="{{ site.url }}/articles">Articles</a>
         </li>
       </ul>
     </div>
