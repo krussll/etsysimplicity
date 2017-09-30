@@ -1,5 +1,6 @@
 ---
 layout: post
+category: post
 title: What is the Flat Earth Theory?
 colour: black
 ---
