@@ -2,7 +2,7 @@
 <header class="navbar navbar-dark navbar-toggleable-md bd-navbar">
   <nav class="container text-center">
     <a class="navbar-brand" href="{{ site.url }}">
-      {{ site.name }} {{ page.url }}
+      {{ site.name }} 
     </a>
     
     <div class="navbar-nav-scroll" id="bd-main-nav">
@@ -11,13 +11,13 @@
           <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ site.url }}/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link{% if page.url == '/about/' %} active{% endif %}" href="{{ site.url }}/about">About BFEA</a>
+          <a class="nav-link{% if page.url == '/about' %} active{% endif %}" href="{{ site.url }}/about">About BFEA</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link{% if page.url == '/articles/' %} active{% endif %}" href="{{ site.url }}/resources">Resources</a>
+          <a class="nav-link{% if page.url == '/resources' %} active{% endif %}" href="{{ site.url }}/resources">Resources</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link{% if page.url == '/articles/' %} active{% endif %}" href="{{ site.url }}/articles">Articles</a>
+          <a class="nav-link{% if page.url == '/articles' %} active{% endif %}" href="{{ site.url }}/articles">Articles</a>
         </li>
       </ul>
     </div>
