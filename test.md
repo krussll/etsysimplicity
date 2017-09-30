@@ -7,6 +7,6 @@ page: 2
 
 # Test
 
-{% assign resource = site.data.resources[page.resource].pages.2 %}
+{% assign resource = site.data.resources[page.resource].pages.[page.page] %}
 
 {{ resource.content }}
