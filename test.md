@@ -10,3 +10,6 @@ page: 2
 {% assign r = site.data.resources[page.resource] %}
 
 {{ r.name }}
+<div>
+  {{ r.pages[2].content }}
+</div>
