@@ -1,5 +1,6 @@
 ---
 layout: post
+category: post
 title: Flat Earth Theory And Celebrity
 colour: black
 ---
