@@ -80,3 +80,14 @@ p {
 .jumbotron.quote {
   background: #E9E6E9;
 }
+
+ul.posts {
+  list-style-type: none;
+  padding: 0px;
+}
+
+ul.posts h2 {
+  color: #292b2c;
+  font-size: 1rem;
+  font-weight: 600;
+}
