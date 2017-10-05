@@ -9,4 +9,5 @@ jumbotron-background: #ECEEEF
 jumbotron-font: #fff
 
 collections:
-- resources
+  resources:
+    output: true
