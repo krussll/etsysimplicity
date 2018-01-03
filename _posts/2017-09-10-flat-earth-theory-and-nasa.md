@@ -23,6 +23,5 @@ It is a classic detective truism, "if in doubt follow the money". By having a Gl
 1. a gullible government lackeys
 2. copyright
 3. research parifinalia
-4. sales of globes
 
 The list is truly endless.
