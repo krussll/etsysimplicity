@@ -16,12 +16,15 @@ There is much for the US government to gain for having the prevailing theory set
 
 Although we are not followers of conspiracy theories, it must be considered that NASA are covering for the true leaders of this world. This could be the Illuminati, or Icke's great Lizard race.
 
+This is one of the more far fetched theories going! 
+
 ## Money
 
-It is a classic detective truism, "if in doubt follow the money". By having a Globe Theory, NASA (and their leadership) MUST be making great profit from their deception. The sources of their money could be from several locations:
+It is a classic detective truism, "if in doubt follow the money". By having a Globe Theory, NASA (and their leadership) may be making profit from their deception. The sources of their money could be from several locations:
 
-1. a gullible government lackeys
+1. a gullible government
 2. copyright
-3. research parifinalia
 
-The list is truly endless.
+Whilst this list is by no means exhaustive, we believe we have covered what many to be the main ideas.
+
+BFEA doesn't provide funding for any research into this area, as we prefer to remain neutral on the subject, however feel free to investigate and decide what you think is behind the great Globe Hoax.
