@@ -4,7 +4,7 @@ layout: default
 ---
 
 # About BFEA
-BFEA (formally RBFES) is a leading scientific and professional organization representing the Flat Earth theory in the UK, with more than 1,000 researchers, consultants and students as supporters.
+BFEA is a leading scientific and professional organization representing Flat Earth theory in the UK, with more than 1,000 researchers, consultants and students as supporters.
 
 ## Our Work
 
@@ -15,9 +15,4 @@ Our mission is to advance the knowledge of Flat Earth Theory (FET) to benefit so
 
 ## Our Leadership
 
-BFEA is currently run by our committee. We have a strict democratised system to prevent a single person becoming the face of FET.
-
-## Royal Recognition
-
-Although not an officially recognised society we feel Her Royal Highness Queen Elizabeth would appreciate our search for truth.
-
+BFEA is currently run by our committee. We have a strict democratised system to ensure we continue to be run by our full membership base.
