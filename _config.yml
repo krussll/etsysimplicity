@@ -11,4 +11,8 @@ jumbotron-font: #fff
 collections:
   resources:
     output: true
+    permalink: /:collection/:name 
+  about:
+    output: true
     permalink: /:collection/:name
+
