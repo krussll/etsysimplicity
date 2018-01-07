@@ -1,6 +1,7 @@
 ---
 #
 layout: default
+image: coast.jpeg
 ---
 
 # About BFEA
