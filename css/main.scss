@@ -59,6 +59,10 @@ p {
 
 .jumbotron {
   border-radius: 0rem;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .jumbotron.home-image {
