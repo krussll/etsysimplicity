@@ -3,6 +3,10 @@
 layout: default
 ---
 
+<div class="jumbotron post-colour-black dark">
+  <div class="container text-center" style="url(/images/coast.jpeg) no-repeat center center;">
+  </div>
+</div>
 # Vision and Values
 BFEA is the largest Flat Earth Group in the UK
 
