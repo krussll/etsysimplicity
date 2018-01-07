@@ -3,8 +3,8 @@
 layout: default
 ---
 
-<div class="jumbotron post-colour-black dark">
-  <div class="container text-center" style="url(/images/coast.jpeg) no-repeat center center;">
+<div class="jumbotron" style="url(/images/coast.jpeg) no-repeat center center;">
+  <div class="container text-center">
   </div>
 </div>
 # Vision and Values
