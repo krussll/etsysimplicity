@@ -2,6 +2,9 @@
 #
 layout: default
 image: coast.jpeg
+sitemap:
+  changefreq: weekly
+  priority: 1
 ---
 
 # About BFEA
