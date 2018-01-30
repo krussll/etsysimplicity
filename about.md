@@ -3,6 +3,7 @@
 layout: default
 image: coast.jpeg
 sitemap:
+  lastmod: 2017-08-22T00:00:00+00:00
   changefreq: weekly
   priority: 1
 ---
