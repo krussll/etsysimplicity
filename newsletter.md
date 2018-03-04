@@ -1,10 +1,7 @@
 ---
-layout: default
+layout: post
 title: Newsletter
-image: coast.jpeg
 ---
-
-# Newsletter
 
 Sign up to our newsletter for all of the letest updates from BFEA.
 
