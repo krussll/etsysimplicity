@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Newsletter
+colour: black
 ---
 
 <div class="alert alert-success" role="alert">
