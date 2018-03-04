@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Newsletter
+image: coast.jpeg
 ---
 
 # Newsletter
