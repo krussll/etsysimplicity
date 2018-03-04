@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: post
 title: Articles
 ---
-
-# Articles
 
 {% include all-posts.html %}
