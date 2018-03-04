@@ -1,10 +1,7 @@
 ---
-layout: default
+layout: post
 title: Newsletter
-image: coast.jpeg
 ---
-
-# Newsletter
 
 <div class="alert alert-success" role="alert">
   <strong>Thank you!</strong> You successfully signed up to our newsletter
