@@ -2,12 +2,12 @@
 #
 #
 layout: home
-title: British Flat Earth Association
-sub-title: Promoting and furthering the Flat Earth theory in the UK
+title: Bringing Flat Earth to Britian
+sub-title: Promoting and furthering the Flat Earth
 action-text: Get Updates
 action-location: contact
 sitemap:
-  lastmod: 2017-08-22T00:00:00+00:00
+  lastmod: 2018-03-12T00:00:00+00:00
   changefreq: weekly
   priority: 1
 ---
