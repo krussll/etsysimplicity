@@ -7,12 +7,8 @@
     
     <div class="navbar-nav-scroll" id="bd-main-nav">
       <ul class="navbar-nav bd-navbar-nav flex-row">
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About BFEA</a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <a class="dropdown-item" href="{{ site.url }}/about">About</a> 
-            <a class="dropdown-item" href="{{ site.url }}/about/vision-and-values">Vision and values</a>         
-          </div>
+        <li class="nav-item">
+          <a class="nav-link{% if page.url == '/about' %} active{% endif %}" href="{{ site.url }}/about">About</a>
         </li>
         <li class="nav-item">
           <a class="nav-link{% if page.url == '/articles' %} active{% endif %}" href="{{ site.url }}/articles">Articles</a>
