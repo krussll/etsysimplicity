@@ -2,8 +2,8 @@
 #
 #
 layout: home
-title: Bringing Flat Earth to Britian
-sub-title: Promoting and furthering the Flat Earth
+title: Performace Psychology for Grassroots Sports
+sub-title: Allowing amateur athletes to gain the benefits of sport psychology 
 action-text: Get Updates
 action-location: contact
 sitemap:
