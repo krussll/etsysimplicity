@@ -2,8 +2,8 @@
 #
 #
 layout: home
-title: Performace Psychology for Grassroots Sports
-sub-title: Allowing amateur athletes to gain the benefits of sport psychology 
+title: Improving Performance
+sub-title: Mind Coaching. Whatever your level.
 action-text: Get Updates
 action-location: contact
 sitemap:
