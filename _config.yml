@@ -1,18 +1,5 @@
 permalink: /articles/:title
-name: Grassroots Sport Psychology
+name: Grassroot Mind Coaching
 url: https://krussll.github.io/sportpsy/
 google_analytics: 
-
-nav-background: #B40604
-nav-font: #fff
-jumbotron-background: #ECEEEF
-jumbotron-font: #fff
-
-collections:
-  resources:
-    output: true
-    permalink: /:collection/:name 
-  about:
-    output: true
-    permalink: /:collection/:name
 
