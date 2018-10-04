@@ -15,35 +15,11 @@ p {
   display: block;
 }
 
-#bd-main-nav {
-  display: inline-block;
-}
 
-.bd-navbar {
-  min-height: 4rem;
+nav {
   background-color: $nav-background;
-  box-shadow: 0 .5rem 1rem rgba(0,0,0,.05), inset 0 -1px 0 rgba(0,0,0,.1);
-  border-bottom-color: #2e3d54;
 }
 
-.navbar-nav {
-  margin: auto;
-  padding-right: .5rem;
-  padding-left: .5rem;
-}
-
-.navbar-nav .nav-item .nav-link {
-  padding-right: .5rem;
-  padding-left: .5rem;
-  color: $nav-font;
-  opacity: 0.75;
-}
-
-.bd-navbar .navbar-nav .nav-link.active, .bd-navbar .navbar-nav .nav-link:hover, .navbar-brand, .navbar-brand:hover {
-  color: $nav-font;
-  background-color: transparent;
-  opacity: 1;
-}
 .btn.light {
     color: #252525;
     background-image: none;
