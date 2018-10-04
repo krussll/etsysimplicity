@@ -1,13 +1,9 @@
 ---
 ---
 
-$nav-background: #252525;
-$nav-font: #fff;
+// Imports
+@import "config";
 
-$jumbotron-background: #ECEEEF;
-$jumbotron-font: #FFF;
-
-$content-font: #24292e;
 
 p {
   color: $content-font;
