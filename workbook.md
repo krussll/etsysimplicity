@@ -3,4 +3,4 @@
 layout: default
 ---
 
-# Our Work
+# Mind Coaching Workbook
