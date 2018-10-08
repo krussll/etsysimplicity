@@ -3,7 +3,7 @@
 #
 layout: home
 title: Improving Sport Performance
-sub-title: Mind Coaching. Whatever your level.
+sub-title: Mind Coaching at every level.
 action-text: Get Started
 action-location: workbook
 sitemap:
