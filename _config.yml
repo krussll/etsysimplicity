@@ -9,7 +9,6 @@ paginate: 12
 baseurl: 'https://krussll.github.io/holdingshot/'
 email: 'wowthemesnet@gmail.com'
 google_analytics: ''
-disqus: ''
 
 # Authors
 authors:
