@@ -6,7 +6,7 @@ meta_description: "Jekyll theme for blogging."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: '/'
+baseurl: 'http://127.0.0.1:4000/'
 email: 'wowthemesnet@gmail.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -30,23 +30,3 @@ authors:
     web: https://www.wowthemes.net/category/jekyll-themes/
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
-
-# Plugins
-plugins: 
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
-        
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
-    
-# Other
-markdown: kramdown
-highlighter: rouge

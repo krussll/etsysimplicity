@@ -1,0 +1,82 @@
+p {
+  color: #24292e; }
+
+.center-block {
+  margin-left: auto;
+  margin-right: auto;
+  display: block; }
+
+nav, footer {
+  background-color: #00B2D8; }
+
+.footer-copyright {
+  background-color: #24292e;
+  color: #fff; }
+
+footer, footer a {
+  color: #fff; }
+
+.btn.light {
+  color: #252525;
+  background-image: none;
+  background-color: #fff;
+  border-color: transparent; }
+
+.navbar-brand {
+  margin-right: 0rem;
+  font-weight: 700;
+  color: #fff;
+  font-size: 1.45rem; }
+
+.jumbotron {
+  border-radius: 0rem;
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;
+  -o-background-size: cover !important;
+  background-size: cover !important; }
+
+.jumbotron.main {
+  padding: 8rem 1rem; }
+  .jumbotron.main h1 {
+    font-size: 3rem; }
+  .jumbotron.main p.lead {
+    font-size: 2rem; }
+  .jumbotron.main .btn {
+    color: #fff;
+    background-image: none;
+    background-color: #00B2D8;
+    border-color: transparent;
+    font-size: 1.25rem; }
+
+.jumbotron.primary {
+  background-color: #00B2D8; }
+
+.jumbotron.sub-tron {
+  margin-top: 0;
+  background: #fff; }
+  .jumbotron.sub-tron h2 {
+    font-size: 1.5rem; }
+
+.jumbotron.post-colour-black {
+  background: #333333; }
+
+.jumbotron.post-colour-yellow {
+  background: #333333; }
+
+.jumbotron.dark, .jumbotron.dark p {
+  color: #fff; }
+
+.jumbotron.secondary {
+  background: #f6f6f4; }
+
+ul.posts {
+  list-style-type: none;
+  padding: 0px; }
+
+ul.posts h2 > a {
+  color: #292b2c;
+  font-size: 1rem;
+  font-weight: 600; }
+
+i#i-twitter {
+  color: #363636; }
