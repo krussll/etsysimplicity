@@ -1,23 +1,22 @@
 ---
-#
-layout: default
-image: coast.jpeg
-sitemap:
-  lastmod: 2017-08-22T00:00:00+00:00
-  changefreq: weekly
-  priority: 1
+layout: page
+title: About
+comments: true
 ---
 
-# About BFEA
-BFEA is a leading scientific and professional organization representing Flat Earth theory in the UK, with more than 1,000 researchers, consultants and students as supporters.
+This website is built with Jekyll and "Affiliates" (a Jekyll Template designed & developed by WowThemes.net). It is meant for demonstration purposes, so you can have an idea of how this theme looks in action so no real content can be found. Affiliates template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
 
-## Our Work
+**License & Download**
 
-Our mission is to advance the knowledge of Flat Earth Theory (FET) to benefit society and improve people's lives. We do this by:
-- Advising members to promote FET amongst their peer groups, and strangers alike
-- Using thought experiments pioneered by String Theorists to push the boundaries of knowledge of FET
-- Pressurising local and national government to fully accept the field of FET
+"Affiliates" for Jekyll is designed and developed by WowThemes.net and it is *free* for personal use.
 
-## Our Leadership
+<a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip" target="_blank">Download - Affiliates Jekyll Theme</a>
 
-BFEA is currently run by our committee. We have a strict democratised system to ensure we continue to be run by our full membership base.
+![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
+
+![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
+
+![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
+
+![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
+
