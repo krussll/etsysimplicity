@@ -46,7 +46,7 @@
 
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
-          <img src="/assets/images/logo.png" alt="Affiliates Theme for Jekyll">
+          <img src="{{ site.baseurl }}/assets/images/logo.png" alt="Affiliates Theme for Jekyll">
         </a>
         <!-- End Logo -->
 
@@ -57,7 +57,11 @@
             <ul class="navbar-nav ml-auto">
 
                 <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Home</a>
+                <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
+                </li>
+
+                <li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}/all-posts">Articles</a>
                 </li>
 
                 <li class="nav-item">
