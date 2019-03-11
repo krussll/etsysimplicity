@@ -3,10 +3,10 @@
   <channel>
     <title>Affiliates Theme for Jekyll</title>
     <description>Jekyll Theme for Blogging</description>
-    <link>http://localhost:4000//</link>
-    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Mar 2019 21:35:20 +0000</pubDate>
-    <lastBuildDate>Mon, 11 Mar 2019 21:35:20 +0000</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 11 Mar 2019 21:45:07 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Mar 2019 21:45:07 +0000</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -16,8 +16,8 @@
 &lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000//jekyll/tutorial/2018/01/12/we-all-wait-for-summer.html</link>
-        <guid isPermaLink="true">http://localhost:4000//jekyll/tutorial/2018/01/12/we-all-wait-for-summer.html</guid>
+        <link>http://localhost:4000/jekyll/tutorial/2018/01/12/we-all-wait-for-summer.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/tutorial/2018/01/12/we-all-wait-for-summer.html</guid>
         
         
         <category>Jekyll</category>
@@ -42,8 +42,8 @@
 
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000//jekyll/tutorial/2018/01/12/tree-of-codes.html</link>
-        <guid isPermaLink="true">http://localhost:4000//jekyll/tutorial/2018/01/12/tree-of-codes.html</guid>
+        <link>http://localhost:4000/jekyll/tutorial/2018/01/12/tree-of-codes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/tutorial/2018/01/12/tree-of-codes.html</guid>
         
         
         <category>Jekyll</category>
@@ -67,8 +67,8 @@
 &lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000//jekyll/tutorial/2018/01/12/red-riding.html</link>
-        <guid isPermaLink="true">http://localhost:4000//jekyll/tutorial/2018/01/12/red-riding.html</guid>
+        <link>http://localhost:4000/jekyll/tutorial/2018/01/12/red-riding.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/tutorial/2018/01/12/red-riding.html</guid>
         
         
         <category>Jekyll</category>
@@ -107,7 +107,7 @@
 
 &lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//assets/images/3.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/3.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
 
@@ -122,8 +122,8 @@
 &lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000//jekyll/tutorial/2018/01/12/powerful-things-markdown-editor.html</link>
-        <guid isPermaLink="true">http://localhost:4000//jekyll/tutorial/2018/01/12/powerful-things-markdown-editor.html</guid>
+        <link>http://localhost:4000/jekyll/tutorial/2018/01/12/powerful-things-markdown-editor.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/tutorial/2018/01/12/powerful-things-markdown-editor.html</guid>
         
         
         <category>Jekyll</category>
@@ -150,8 +150,8 @@
 
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000//jekyll/tutorial/2018/01/12/is-intelligence-enough.html</link>
-        <guid isPermaLink="true">http://localhost:4000//jekyll/tutorial/2018/01/12/is-intelligence-enough.html</guid>
+        <link>http://localhost:4000/jekyll/tutorial/2018/01/12/is-intelligence-enough.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/tutorial/2018/01/12/is-intelligence-enough.html</guid>
         
         
         <category>Jekyll</category>
@@ -178,8 +178,8 @@
 
 </description>
         <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000//jekyll/tutorial/2018/01/11/markup-example.html</link>
-        <guid isPermaLink="true">http://localhost:4000//jekyll/tutorial/2018/01/11/markup-example.html</guid>
+        <link>http://localhost:4000/jekyll/tutorial/2018/01/11/markup-example.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/tutorial/2018/01/11/markup-example.html</guid>
         
         
         <category>Jekyll</category>
