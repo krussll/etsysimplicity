@@ -2,7 +2,7 @@
 layout: post
 title:  "What is good etiquette in bowls? An why is it important?"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ guide ]
 image: assets/images/3.jpg
 featured: true
 ---
