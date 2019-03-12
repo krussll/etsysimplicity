@@ -5,7 +5,7 @@ title: All Posts
 
 
 <div class="masonrygrid row listrecent">
-    {% for post in site.posts limit:4 %}
+    {% for post in site.posts %}
 
         {% include postbox.html %}
 
