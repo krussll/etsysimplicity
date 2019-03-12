@@ -1,11 +1,10 @@
 # Site
-name: "Affiliates Theme for Jekyll"
-title: "Affiliates Theme for Jekyll"
-description: "Jekyll Theme for Blogging"
-meta_description: "Jekyll theme for blogging."
+name: "Holding Shot"
+title: "Holding Shot indoor and lawn bowls"
+description: "Bringing the best reviews and guides for indoor and lawn bowls"
+meta_description: "Bringing the best reviews and guides for indoor and lawn bowls"
 logo: '/assets/images/logo.png'
 favicon: '/assets/images/favicon.ico'
-paginate: 12
 baseurl: 'https://krussll.github.io/holdingshot/'
 email: 'wowthemesnet@gmail.com'
 google_analytics: ''
@@ -17,4 +16,4 @@ authors:
     display_name: Sal
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "Bringing the best reviews and guides for indoor and lawn bowls."
