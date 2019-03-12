@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Second hand and pre-loved lawn bowls"
-categories: [ Jekyll, tutorial ]
+categories: [ guide ]
 image: assets/images/1.jpg
 featured: true
 ---
