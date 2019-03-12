@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is good etiquette in bowls? An why is it important?"
+title:  "Good etiquette in bowls, and why it's important"
 author: sal
 categories: [ guide ]
 image: assets/images/3.jpg
