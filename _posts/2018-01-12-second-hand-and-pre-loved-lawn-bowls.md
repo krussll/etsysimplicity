@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Second hand and pre-loved lawn bowls"
+title:  "Second hand and pre-loved lawn bowls buying guide"
 categories: [ guide ]
 image: assets/images/1.jpg
 featured: true
