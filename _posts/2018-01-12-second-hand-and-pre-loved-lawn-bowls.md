@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We all wait for summer"
+title:  "Second hand and pre-loved lawn bowls"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 featured: true
