@@ -2,6 +2,7 @@
 layout: post
 title:  "Second hand and pre-loved lawn bowls buying guide"
 categories: [ guide ]
+author: sal
 image: assets/images/1.jpg
 featured: true
 ---
