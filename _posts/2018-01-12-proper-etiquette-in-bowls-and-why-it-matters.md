@@ -2,7 +2,7 @@
 layout: post
 title:  "Proper etiquette in bowls, and why it matters"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ guide ]
 image: assets/images/4.jpg
 featured: true
 ---
