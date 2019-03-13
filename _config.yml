@@ -6,6 +6,7 @@ meta_description: "Bringing the best reviews and guides for indoor and lawn bowl
 logo: '/assets/images/logo.png'
 favicon: '/assets/images/favicon.ico'
 baseurl: 'https://krussll.github.io/holdingshot/'
+permalink: /:categories/:title
 email: 'wowthemesnet@gmail.com'
 google_analytics: ''
 
