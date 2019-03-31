@@ -1,8 +1,5 @@
 /*
 Template Name:Affiliates
-Copyright:WowThemes.net,https://www.wowthemes.net
-Version:1.0.2
-License: https://www.wowthemes.net/freebies-license/
 */
 body {
     font-family: "Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
@@ -182,6 +179,9 @@ section.recent-posts {
 }
 .listfeaturedtag .card-block {
 	padding-left:0;
+}
+.listrecent.all .card {
+	min-height: 538px;
 }
 .listfeaturedtag h2.card-title,.listrecent h2.card-title {
 	font-size:1.3rem;

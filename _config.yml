@@ -1,20 +1,20 @@
 # Site
-name: "Holding Shot"
-title: "Holding Shot indoor and lawn bowls"
+name: "Jack High Bowls"
+title: "Jack High Bowls indoor and lawn bowls"
 description: "Bringing the best reviews and guides for indoor and lawn bowls"
 meta_description: "Bringing the best reviews and guides for indoor and lawn bowls"
 logo: '/assets/images/logo.png'
 favicon: '/assets/images/favicon.ico'
-baseurl: 'https://krussll.github.io/holdingshot/'
+baseurl: ''
 permalink: /:categories/:title
 email: 'wowthemesnet@gmail.com'
 google_analytics: ''
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  reece:
+    name: Reece
+    display_name: Reece
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
     description: "Bringing the best reviews and guides for indoor and lawn bowls."
