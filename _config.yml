@@ -3,12 +3,12 @@ name: "Jack High Bowls"
 title: "Jack High Bowls indoor and lawn bowls"
 description: "Bringing the best reviews and guides for indoor and lawn bowls"
 meta_description: "Bringing the best reviews and guides for indoor and lawn bowls"
-logo: '/assets/images/logo.png'
-favicon: '/assets/images/favicon.ico'
-baseurl: 'https://krussll.github.io/holdingshot'
+logo: ''
+favicon: "/assets/images/favicon.ico"
+baseurl: "https://www.jackhighbowls.com"
 permalink: /:categories/:title
-email: 'wowthemesnet@gmail.com'
-google_analytics: ''
+email: "contact@jackhighbowls.com"
+google_analytics: ""
 
 # Authors
 authors:
@@ -16,5 +16,5 @@ authors:
     name: Reece
     display_name: Reece
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
+    email: "contact@jackhighbowls.com"
     description: "Bringing the best reviews and guides for indoor and lawn bowls."
