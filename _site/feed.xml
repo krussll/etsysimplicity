@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Holding Shot indoor and lawn bowls</title>
+    <title>Jack High Bowls indoor and lawn bowls</title>
     <description>Bringing the best reviews and guides for indoor and lawn bowls</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Mar 2019 20:58:44 +0000</pubDate>
-    <lastBuildDate>Fri, 29 Mar 2019 20:58:44 +0000</lastBuildDate>
+    <link>http://localhost:4000/holdingshot/</link>
+    <atom:link href="http://localhost:4000/holdingshot/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 01 Apr 2019 20:44:19 +0100</pubDate>
+    <lastBuildDate>Mon, 01 Apr 2019 20:44:19 +0100</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -44,8 +44,8 @@
 &lt;p&gt;If you are a lead bowler who plays predominantly indoors, you’d be hard pushed to find a better bowl. With its clean narrow line you can make some real improvements in your draw.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/review/bowls/taylor-vector-vs-review</link>
-        <guid isPermaLink="true">http://localhost:4000/review/bowls/taylor-vector-vs-review</guid>
+        <link>http://localhost:4000/holdingshot/review/bowls/taylor-vector-vs-review</link>
+        <guid isPermaLink="true">http://localhost:4000/holdingshot/review/bowls/taylor-vector-vs-review</guid>
         
         
         <category>review</category>
@@ -117,8 +117,8 @@ What is my maximum budget knowing what you can realistically afford is a good st
 &lt;p&gt;Our recommendation would be to use eBay, as it combines an exhaustive selection, with easy to use filters, as well as the ability to chat with other bowlers about the items the are selling.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/guide/second-hand-and-pre-loved-lawn-bowls</link>
-        <guid isPermaLink="true">http://localhost:4000/guide/second-hand-and-pre-loved-lawn-bowls</guid>
+        <link>http://localhost:4000/holdingshot/guide/second-hand-and-pre-loved-lawn-bowls</link>
+        <guid isPermaLink="true">http://localhost:4000/holdingshot/guide/second-hand-and-pre-loved-lawn-bowls</guid>
         
         
         <category>guide</category>
@@ -161,8 +161,8 @@ What is my maximum budget knowing what you can realistically afford is a good st
 &lt;p&gt;Although it is marketed as “the ideal indoor bowl” it could quite easily be used outdoor if you require a slightly tighter line, if you are playing lead for example. I can highly recommend the d-tec bowl, with the only blemish being the lack of PR50 grip options.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/review/bowls/drakes-pride-d-tech-review</link>
-        <guid isPermaLink="true">http://localhost:4000/review/bowls/drakes-pride-d-tech-review</guid>
+        <link>http://localhost:4000/holdingshot/review/bowls/drakes-pride-d-tech-review</link>
+        <guid isPermaLink="true">http://localhost:4000/holdingshot/review/bowls/drakes-pride-d-tech-review</guid>
         
         
         <category>review</category>
@@ -216,8 +216,8 @@ What is my maximum budget knowing what you can realistically afford is a good st
 &lt;p&gt;In summary, the Dek bowls shoe are a great choice. Their durability means they can handle most things a bowler can throw at them. The vast majority of real customers were very pleased, and they would recommend them to others At this price point I doubt you’ll find a better shoe.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/review/shoes/dek-unisex-bowls-shoes-review</link>
-        <guid isPermaLink="true">http://localhost:4000/review/shoes/dek-unisex-bowls-shoes-review</guid>
+        <link>http://localhost:4000/holdingshot/review/shoes/dek-unisex-bowls-shoes-review</link>
+        <guid isPermaLink="true">http://localhost:4000/holdingshot/review/shoes/dek-unisex-bowls-shoes-review</guid>
         
         
         <category>review</category>
@@ -330,8 +330,8 @@ What is my maximum budget knowing what you can realistically afford is a good st
 &lt;p&gt;To find out more on how to get the best price for your bowls please check out our second hand buyers guide here.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/guide/best-rated-bowls-for-leads</link>
-        <guid isPermaLink="true">http://localhost:4000/guide/best-rated-bowls-for-leads</guid>
+        <link>http://localhost:4000/holdingshot/guide/best-rated-bowls-for-leads</link>
+        <guid isPermaLink="true">http://localhost:4000/holdingshot/guide/best-rated-bowls-for-leads</guid>
         
         
         <category>guide</category>
@@ -480,8 +480,8 @@ Great fit&lt;/p&gt;
 &lt;p&gt;As we can see, there is a wide selection of models and styles to choose from. By using Amazon you are also guaranteed to have the best price possible, which is ideal regardless of the price bracket you are in.&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/guide/best-bowling-shoes-for-ladies</link>
-        <guid isPermaLink="true">http://localhost:4000/guide/best-bowling-shoes-for-ladies</guid>
+        <link>http://localhost:4000/holdingshot/guide/best-bowling-shoes-for-ladies</link>
+        <guid isPermaLink="true">http://localhost:4000/holdingshot/guide/best-bowling-shoes-for-ladies</guid>
         
         
         <category>guide</category>

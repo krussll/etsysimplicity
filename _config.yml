@@ -5,7 +5,7 @@ description: "Bringing the best reviews and guides for indoor and lawn bowls"
 meta_description: "Bringing the best reviews and guides for indoor and lawn bowls"
 logo: '/assets/images/logo.png'
 favicon: '/assets/images/favicon.ico'
-baseurl: ''
+baseurl: '/holdingshot'
 permalink: /:categories/:title
 email: 'wowthemesnet@gmail.com'
 google_analytics: ''
