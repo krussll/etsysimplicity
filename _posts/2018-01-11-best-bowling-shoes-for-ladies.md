@@ -77,11 +77,13 @@ https://www.amazon.co.uk/Ladies-Legend-Dynamics-Leather-Bowling/dp/B016QGYW0U/re
 
 ## Henselite HL72 Bowling Shoes (Grey)
 ### Best for unique design
-£49.99
-5 reviews. 5 stars
-EVA cushioning to allow flex
-Unique design
-Great fit
+
+Who says bowls shoes have to be boring? The HL72 adds some great styling elements to the classic fit of your standard Henselite shoe.
+
+As with all Henselite shoes the HL72 comes with EVA cushioning, this allows greater flexibility through the midfoot avoiding any troublesome pinching.
+
+At £49.99 and with 5 of out 5 stars reviews, there's not much to complain about!
+
 
 > “All my bowling friends keep asking where I got them!!!”
 >
