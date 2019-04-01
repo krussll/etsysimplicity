@@ -8,13 +8,13 @@ favicon: "/assets/images/favicon.ico"
 baseurl: "https://www.jackhighbowls.com"
 permalink: /:categories/:title
 email: "contact@jackhighbowls.com"
-google_analytics: ""
+google_analytics: "UA-86474387-5"
 
 # Authors
 authors:
   reece:
     name: Reece
     display_name: Reece
-    gravatar: 
+    gravatar:
     email: "contact@jackhighbowls.com"
     description: "Bringing the best reviews and guides for indoor and lawn bowls."
