@@ -61,3 +61,15 @@
 	.vi { color: #008080 } /* Name.Variable.Instance */
 	.il { color: #009999 } /* Literal.Number.Integer.Long */
 }
+
+.card-block.guides {
+  border-top: 5px solid #FF5D5B;
+}
+
+.card-block.reviews {
+  border-top: 5px solid #5271FF;
+}
+
+.card-block.help {
+  border-top: 5px solid #FFF100;
+}
