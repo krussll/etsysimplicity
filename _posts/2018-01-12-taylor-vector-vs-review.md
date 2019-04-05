@@ -21,6 +21,14 @@ Price: £350.00
 
 </p>
 
+<div class="stars">
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+</div>
+
 </div>
 
 Taylor have a long history of creating quality bowls, therefore we have high hopes for their principal narrow line bowl, the Vector VS. The Vector VS is currently the best selling indoor bowl and are hugely popular in Australia. Let's see what all the fuss is about...
