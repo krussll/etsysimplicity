@@ -2,7 +2,7 @@
 layout: post
 title:  "World Bowls"
 author: reece
-categories: [ "help and support" ]
+categories: [ "help-and-support" ]
 image: assets/images/world-bowls.jpg
 description: "World bowls is the internationally recognised federation for the Sport of Bowls. It currently looks after the 54 federations which make up it’s membership."
 ---
