@@ -4,6 +4,7 @@ title:  "Best bowling shoes for ladies"
 author: reece
 categories: [ guide ]
 image: assets/images/best-ladies-bowls-shoes.jpg
+description: "Which bowls shoes are the best? Check out our list of the best available. Which lawn bowls shoes will be rated best?"
 ---
 
 | Brand  | Model  | Price  | Buy  |
