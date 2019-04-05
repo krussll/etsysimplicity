@@ -10,14 +10,54 @@ description: "Which bowls shoes are the best? Check out our list of the 6 best a
 
 <div class="overview">
   
-| Brand  | Model  | Price  | Buy  |
-|---|---|---|---|
-| Dek  | Lace Up  | £20-£35  |   |
-| Dek  | Lace Up Trainer  | £18.50 - £28.50  |   |
-| Henselite  |  Tiger Sport | £49.99 - £56.99  |   |
-| Legend  | Dynamics  | £22.99  |   |
-| Henselite  |  HL72 VS | £49.99  |   |
-| Aero  | ComfitPro Champion  | £47.99  |   |
+<table>
+  <thead>
+    <tr>
+      <th>Brand</th>
+      <th>Model</th>
+      <th>Price</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Dek</td>
+      <td>Lace Up</td>
+      <td>£20-£35  </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dek</td>
+      <td>Lace Up Trainer</td>
+      <td>£18.50 - £28.50</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Henselite</td>
+      <td>Tiger Sport</td>
+      <td>£49.99 - £56.99</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Legend</td>
+      <td>Dynamics</td>
+      <td>£22.99</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Henselite</td>
+      <td>HL72 VS</td>
+      <td>£49.99</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Aero</td>
+      <td>ComfitPro Champion</td>
+      <td>£47.99</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
