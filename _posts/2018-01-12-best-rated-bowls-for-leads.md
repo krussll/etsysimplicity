@@ -12,12 +12,42 @@ description: "What are the best rated lawn bowls woods for leads? Check out our 
 
 <div class="overview">
   
-| Brand  | Model  | Price  | Buy  |
-|---|---|---|---|
-| Drakes Pride  | D-Tec  |   |   |
-| Drakes Pride  | Professional  |   |   |
-| Taylor  |  Vector VS |   |   |
-| Aero  | Quantum  |   |   |
+<table>
+  <thead>
+    <tr>
+      <th>Brand</th>
+      <th>Model</th>
+      <th>Price</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Drakes Pride</td>
+      <td>D-Tec</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Drakes Pride</td>
+      <td>Professional</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Taylor</td>
+      <td>Vector VS</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Aero</td>
+      <td>Quantum</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
