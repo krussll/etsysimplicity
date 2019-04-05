@@ -6,10 +6,13 @@ categories: [ review, bowls ]
 image: assets/images/taylor-vs-review.jpg
 description: "The Taylor Vector VS are a premium, narrow lined bowl. Ideal for indoor/fast outdoor greens and front end play in general. Strong second hand marketplace allows this model to be picked up for those on a tighter budget."
 ---
+
 <div class"overview">
+
 Overview: The Taylor Vector VS are a premium, narrow lined bowl. Ideal for indoor/fast outdoor greens and front end play in general. Strong second hand marketplace allows this model to be picked up for those on a tighter budget.
 
 Price: £350.00
+
 </div>
 
 Taylor have a long history of creating quality bowls, therefore we have high hopes for their principal narrow line bowl, the Vector VS. The Vector VS is currently the best selling indoor bowl and are hugely popular in Australia. Let's see what all the fuss is about...
