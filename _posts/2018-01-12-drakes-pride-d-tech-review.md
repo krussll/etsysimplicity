@@ -7,7 +7,7 @@ image: assets/images/d-tec-review.jpg
 description: "The d-tec is one of the best narrow line bowls available. Ideal for either indoor, or outdoor lead bowling, the d-tec offers a consistent flat finishing draw shot"
 ---
 
-<div class"overview">
+<div class="overview">
 
 Overview: The d-tec is one of the best narrow line bowls available. Ideal for either indoor, or outdoor lead bowling, the d-tec offers a consistent flat finishing draw shot. Although it doesn’t come with the latest PRO50 grip option, it does have all of the standard options in place.
 
