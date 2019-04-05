@@ -21,6 +21,14 @@ Price: £28.00
 
 </p>
 
+<div class="stars">
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+</div>
+
 </div>
 
 With the summer fast approaching I recently got my bowls gear out of storage, only to finds my shoes were falling apart. Finding a suitable replacement is now of top priority The shoes you wear never feels like a concern, at least not until you buy the wrong pair!
