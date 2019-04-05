@@ -5,6 +5,7 @@ categories: [ guide ]
 author: reece
 image: assets/images/second-hand-bowls-buyers-guide.jpg
 featured: true
+description: "How do you buy second hand lawn bowls online? Read our in-depth guide to get the best bowls for a fraction of the RRP"
 ---
 
 Buying a new set of woods is always an exciting experience, however for most bowlers buying them brand new from a dedicated bowls shop isn't possible. Unfortunately, woods are expensive! Thankfully gone are the days of asking around your local club to see who's selling, as there are now many sites selling quality second hand and pre-loved bowls online.
