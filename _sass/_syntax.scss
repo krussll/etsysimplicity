@@ -87,3 +87,13 @@
   background: #171E27;
   color: #fff;
 }
+
+.container {
+	table {
+		width:100%;
+	}
+	
+	table, th, td {
+  		border: 1px solid #171E27;
+	}
+}
