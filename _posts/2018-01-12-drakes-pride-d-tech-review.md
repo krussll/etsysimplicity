@@ -21,6 +21,14 @@ Price: £246.00
 
 </p>
 
+<div class="stars">
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+</div>
+
 </div>
 
 There are many offerings for bowlers looking to upgrade their bowls, and the latest offering from one of the most recognised and trusted brands in bowls could help take your game to the next level.
