@@ -9,9 +9,17 @@ description: "Are Dek the best bowls shoe available? See our in-depth review to 
 
 <div class="overview">
   
+<p>
+  
 Overview: The Dek unisex bowls shoe are durable, and cost effective. They offer multiple colour and fastening choices, making them one of the most popular shoes on the market today
 
+</p>
+
+<p>
+
 Price: £28.00
+
+</p>
 
 </div>
 
