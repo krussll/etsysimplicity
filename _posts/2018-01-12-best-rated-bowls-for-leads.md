@@ -8,19 +8,20 @@ featured: true
 description: "What are the best rated lawn bowls woods for leads? Check out our top 4. Are yours on the list?"
 ---
 
-Whether you are an experienced bowler, or a beginner buying your first set of bowls, it's important to get the right woods with the characteristics you need. Being lead comes with a very specific requirements, make sure you have the right model of bowls to perform at your best! The right choice can make your game a whole lot easier!
-
-Here we will be looking at the top 4 models for the biggest brands in bowls, with a variety of styles, and prices to suit any bowler.
-
 ## Top 4 Lawn bowls for leads
-
+<div class="overview">
 | Brand  | Model  | Price  | Buy  |
 |---|---|---|---|
 | Drakes Pride  | D-Tec  |   |   |
 | Drakes Pride  | Professional  |   |   |
 | Taylor  |  Vector VS |   |   |
 | Aero  | Quantum  |   |   |
+</div>
 
+
+Whether you are an experienced bowler, or a beginner buying your first set of bowls, it's important to get the right woods with the characteristics you need. Being lead comes with a very specific requirements, make sure you have the right model of bowls to perform at your best! The right choice can make your game a whole lot easier!
+
+Here we will be looking at the top 4 models for the biggest brands in bowls, with a variety of styles, and prices to suit any bowler.
 
 
 ## How to choose a set of bowls
