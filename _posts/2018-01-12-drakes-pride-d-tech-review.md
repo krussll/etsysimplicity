@@ -6,10 +6,11 @@ categories: [ review, bowls ]
 image: assets/images/d-tec-review.jpg
 description: "The d-tec is one of the best narrow line bowls available. Ideal for either indoor, or outdoor lead bowling, the d-tec offers a consistent flat finishing draw shot"
 ---
+<div class"overview">
 Overview: The d-tec is one of the best narrow line bowls available. Ideal for either indoor, or outdoor lead bowling, the d-tec offers a consistent flat finishing draw shot. Although it doesn’t come with the latest PRO50 grip option, it does have all of the standard options in place.
 
 Price: £246.00
-
+</div>
 
 There are many offerings for bowlers looking to upgrade their bowls, and the latest offering from one of the most recognised and trusted brands in bowls could help take your game to the next level.
 
