@@ -4,9 +4,10 @@ title:  "Taylor Vector VS Review"
 author: reece
 categories: [ review, bowls ]
 image: assets/images/taylor-vs-review.jpg
+description: "The Taylor Vector VS are a premium, narrow lined bowl. Ideal for indoor/fast outdoor greens and front end play in general. Strong second hand marketplace allows this model to be picked up for those on a tighter budget."
 ---
 
-Overview: Premium narrow lined bowl. Ideal for indoor/fast outdoor greens and front end play in general. Strong second hand marketplace allows this model to be picked up for those on a tighter budget.
+Overview: The Taylor Vector VS are a premium, narrow lined bowl. Ideal for indoor/fast outdoor greens and front end play in general. Strong second hand marketplace allows this model to be picked up for those on a tighter budget.
 
 Price: £350.00
 
