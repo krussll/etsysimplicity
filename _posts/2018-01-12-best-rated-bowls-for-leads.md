@@ -5,6 +5,7 @@ author: reece
 categories: [ guide ]
 image: assets/images/best-bowls-for-leads.jpg
 featured: true
+description: "What are the best rated lawn bowls woods for leads? Check out our top 4. Are yours on the list?"
 ---
 
 Whether you are an experienced bowler, or a beginner buying your first set of bowls, it's important to get the right woods with the characteristics you need. Being lead comes with a very specific requirements, make sure you have the right model of bowls to perform at your best! The right choice can make your game a whole lot easier!
