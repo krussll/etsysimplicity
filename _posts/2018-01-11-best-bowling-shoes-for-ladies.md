@@ -4,9 +4,12 @@ title:  "Best bowling shoes for ladies"
 author: reece
 categories: [ guide ]
 image: assets/images/best-ladies-bowls-shoes.jpg
-description: "Which bowls shoes are the best? Check out our list of the best available. Which lawn bowls shoes will be rated best?"
+description: "Which bowls shoes are the best? Check out our list of the 6 best available. Which lawn bowls shoes will be rated best?"
 ---
+## Top 6 bowls shoes for ladies
+
 <div class="overview">
+  
 | Brand  | Model  | Price  | Buy  |
 |---|---|---|---|
 | Dek  | Lace Up  | £20-£35  |   |
@@ -15,6 +18,7 @@ description: "Which bowls shoes are the best? Check out our list of the best ava
 | Legend  | Dynamics  | £22.99  |   |
 | Henselite  |  HL72 VS | £49.99  |   |
 | Aero  | ComfitPro Champion  | £47.99  |   |
+
 </div>
 
 The days are starting to get longer, and the weather is getting a bit warmer. This can mean one thing - bowls season is upon us!
