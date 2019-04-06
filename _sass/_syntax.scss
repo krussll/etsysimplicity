@@ -89,22 +89,22 @@
 }
 
 .container {
+	.btn {
+		background: #E57A00;
+		box-shadow: none;
+		font-size: 19px;
+	}
+
+	.btn::hover {
+		box-shadow: none;
+	}
+	
 	.overview {
 		background: #F1F1F1;
 		padding: 30px;
 		
 		.fas {
 			color: #FFE51F;
-		}
-		
-		.btn {
-			background: #E57A00;
-			box-shadow: none;
-			font-size: 19px;
-		}
-		
-		.btn::hover {
-			box-shadow: none;
 		}
 	}
 	
