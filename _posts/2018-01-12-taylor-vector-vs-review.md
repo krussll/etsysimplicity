@@ -29,6 +29,8 @@ Price: £350.00
   <i class="fas fa-star"></i>
 </div>
 
+<a href="https://www.amazon.co.uk/gp/product/B07J65XHNH/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B07J65XHNH&linkCode=as2&tag=jackhighbowls-21&linkId=557db82f901a42b6c37cf02416e9f52b" class="btn more"  target="_blank">See more</a>
+
 </div>
 
 Taylor have a long history of creating quality bowls, therefore we have high hopes for their principal narrow line bowl, the Vector VS. The Vector VS is currently the best selling indoor bowl and are hugely popular in Australia. Let's see what all the fuss is about...
@@ -58,3 +60,5 @@ You also have the choice of 11 striking colour choices. Solid and speckle colour
 The Vector VS comes in at a slightly higher price point, so could be considered a more “premium” choice, however there is a strong second hand market for them, so you maybe able to get the benefits for a more reasonable price.
 
 If you are a lead bowler who plays predominantly indoors, you'd be hard pushed to find a better bowl. With its clean narrow line you can make some real improvements in your draw.
+
+<a href="https://www.amazon.co.uk/gp/product/B07J65XHNH/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B07J65XHNH&linkCode=as2&tag=jackhighbowls-21&linkId=557db82f901a42b6c37cf02416e9f52b" class="btn more"  target="_blank">See more</a>
