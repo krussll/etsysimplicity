@@ -29,6 +29,8 @@ Price: £28.00
   <i class="fas fa-star"></i>
 </div>
 
+<a href="https://www.amazon.co.uk/gp/product/B06Y67P3FT/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B06Y67P3FT&linkCode=as2&tag=jackhighbowls-21&linkId=042db14bdeee0de79298b6272cab8ccd" class="btn more"  target="_blank">See more</a>
+
 </div>
 
 With the summer fast approaching I recently got my bowls gear out of storage, only to finds my shoes were falling apart. Finding a suitable replacement is now of top priority The shoes you wear never feels like a concern, at least not until you buy the wrong pair!
@@ -66,3 +68,5 @@ Other than a slight sizing issue the others are glowing. One customer wrote “e
 This makes it very easy for me to recommend these shoes.
 
 In summary, the Dek bowls shoe are a great choice. Their durability means they can handle most things a bowler can throw at them. The vast majority of real customers were very pleased, and they would recommend them to others At this price point I doubt you’ll find a better shoe.
+
+<a href="https://www.amazon.co.uk/gp/product/B06Y67P3FT/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B06Y67P3FT&linkCode=as2&tag=jackhighbowls-21&linkId=042db14bdeee0de79298b6272cab8ccd" class="btn more"  target="_blank">See more</a>
