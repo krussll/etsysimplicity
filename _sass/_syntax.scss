@@ -89,13 +89,13 @@
 }
 
 .container {
-	.btn {
+	.btn.more {
 		background: #E57A00;
 		box-shadow: none;
 		font-size: 19px;
 	}
 
-	.btn::hover {
+	.btn::hover, .article-post a:hover {
 		box-shadow: none;
 	}
 	
