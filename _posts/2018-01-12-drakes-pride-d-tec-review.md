@@ -29,6 +29,8 @@ Price: £246.00
   <i class="fas fa-star"></i>
 </div>
 
+<a href="https://www.amazon.co.uk/gp/product/B01JOQBTNM/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01JOQBTNM&linkCode=as2&tag=jackhighbowls-21&linkId=c5a6a26de5112bf2308c36d6e917be1a" class="btn more"  target="_blank">See more</a>
+
 </div>
 
 There are many offerings for bowlers looking to upgrade their bowls, and the latest offering from one of the most recognised and trusted brands in bowls could help take your game to the next level.
@@ -58,3 +60,5 @@ You can pick these bowls up in one of a number of different colours, our persona
 
 ## Overall Verdict
 Although it is marketed as “the ideal indoor bowl” it could quite easily be used outdoor if you require a slightly tighter line, if you are playing lead for example. I can highly recommend the d-tec bowl, with the only blemish being the lack of PR50 grip options.
+
+<a href="https://www.amazon.co.uk/gp/product/B01JOQBTNM/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01JOQBTNM&linkCode=as2&tag=jackhighbowls-21&linkId=c5a6a26de5112bf2308c36d6e917be1a" class="btn more"  target="_blank">See more</a>
