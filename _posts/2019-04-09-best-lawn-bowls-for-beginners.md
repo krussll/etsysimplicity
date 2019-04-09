@@ -11,9 +11,9 @@ description: "What are the best lawn bowls for beginners? We break down the most
 Selecting your first set of bowls can be a bit of a mindfield. With over 30 models currently on sale, all with unique characteristics, in 8 different sizes, and a multitude of colours to choose from it’s no wonder we get intimidated!
 
 Choosing a set of woods will eventually come down to a mixture of personal preference, and the demands of how you play. These demands can include:
-What position you play in teams. The needs of a lead will be very different to those of a skip
-Where you play. Bowls behave very differently on fast indoor greens compared to slower greens outdoors (especially those wet and heavy early months!)
-How you play. Bowls can be designed for all manner of playing styles, understanding what you need can bring out the best in your game
+* What position you play in teams. The needs of a lead will be very different to those of a skip
+* Where you play. Bowls behave very differently on fast indoor greens compared to slower greens outdoors (especially those wet and heavy early months!)
+* How you play. Bowls can be designed for all manner of playing styles, understanding what you need can bring out the best in your game
 
 Buying lawn bowls isn’t cheap with an average set costing in the region of £200-£350, so its great to feel confident in the choice you make. Below we break down the most important questions you will need to ask, as well as some practical advice on what/where to look for your first set of bowls.
 
@@ -67,7 +67,7 @@ You can get second hand bowls from a variety of sources (see our guide to second
 
 As long as the bowls don’t have any major chunks or gauges, they will be fine for using in competition.
 
-##Recommended Models
+## Recommended Models
 
 ### Bowls best for indoor
 
