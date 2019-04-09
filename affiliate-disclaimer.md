@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Us
+title: Disclaimer for Amazon Associates
 ---
 
-If you have any questions about anything on our site, or if you just want to say “Hi!”, you can contact us via the email address below.
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
