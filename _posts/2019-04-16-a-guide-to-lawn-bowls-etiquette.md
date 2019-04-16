@@ -4,6 +4,7 @@ title:  "A Guide on Lawn Bowls Etiquette"
 author: reece
 categories: [ "help" ]
 image: assets/images/a-guide-to-lawn-bowls-etiquette.jpg
+featured: true
 description: "A Guide on Lawn Bowls Etiquette- Learn The Unspoken Rules"
 ---
 
