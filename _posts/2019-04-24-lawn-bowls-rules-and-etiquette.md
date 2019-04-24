@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "A Guide on Lawn Bowls Etiquette"
+title:  "Lawn bowls rules and etiquette"
 author: reece
 categories: [ "help" ]
 image: assets/images/a-guide-to-lawn-bowls-etiquette.jpg
 featured: true
-description: "A Guide on Lawn Bowls Etiquette- Learn The Unspoken Rules"
+description: "A Guide on Lawn bowls rules and etiquette - Learn The Unspoken Rules"
 ---
 
 ### Learn The Unspoken Rules
