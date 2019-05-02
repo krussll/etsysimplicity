@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Ultimate guide to weight control in lawn bowls"
+title:  "Ultimate guide to weight control in lawn bowls. Pendulum swing or delivery stance?"
 author: reece
 categories: [ "help" ]
 image: assets/images/ultimate-guide-to-weight-control.jpg
-description: "Ultimate guide to weight control in lawn bowls. I thought today I'd go through what I believe to be the best guide on shot weight."
+description: "Ultimate guide to weight control in lawn bowls. I thought today I'd go through what I believe to be the best guide on shot weight. Whats the best method?  Pendulum swing oand the delivery stance methods explained"
 ---
 
-In my time as a coach at my local bowls club I have lost track of the number of times I am asked about shot weight. This ranges from “how do I control my weight?”, “why am I always short?” and often with beginners I am asked simply “how do you choose what weight to use?”.
+In my time playing at my local bowls club I have lost track of the number of times I am asked about shot weight. This ranges from “how do I control my weight?”, “why am I always short?” and often with beginners I am asked simply “how do you choose what weight to use?”.
 
 I thought today I'd go through what I believe to be the best guide on shot weight. We will go over:
 * What is weight control? And what makes for good, and bad weight control
@@ -41,7 +41,7 @@ Another way to train your brain is to consider your “rhythm speed”. When you
 
 You will find you will have a couple of natural “rhythm speeds”, once you get an understanding of these you can use them as increments on what you will need to bowl. See the drills and exercises for more information on how to find yours.
 
-## How to control weight theories
+## How to control weight theories (Pendulum swing and delivery stance)
 
 Now we have an understanding of what weight control is, and how we measure it, how do we actually control the damn thing?
 
@@ -49,15 +49,15 @@ One of the issues bowlers have is conflicting advice on how to best control thei
 
 Let's take a look at each in more detail.
 
-### Vary arm speed
+### Pendulum swing - Vary arm speed
 
-Otherwise known as the Ezra Wyth method, the bowler controls all changes in weight through their arm speed. All other aspects of the delivery are the same. This includes the height of the start point, the size of step, and follow through.
+Otherwise known as the Ezra Wyth method, the bowler controls all changes in weight through their arm speed, with their arm acting like a pendulum. All other aspects of the delivery are the same. This includes the height of the start point, the size of step, and follow through.
 
 A fundamental aspect of weight control is consistently. Removing as many variables as possible helps your internal computer calculate the required weight. This is the ideal method to help.
 
 The main issue comes with the strength required to reach on heavy greens. Finding a stance, and a step length which works for all conditions can be tricky, and some kind of strength training may be required to help give you that extra range.
 
-### Vary Step
+### Delivery stance - Vary Step
 
 The other option is you adjust your action to change weight. For example, if a bowler is consistently short, they can stand taller in their stance, or bring the back swing higher, or in extreme cases bending the elbow and flexing the fingers can help get extra length.
 
