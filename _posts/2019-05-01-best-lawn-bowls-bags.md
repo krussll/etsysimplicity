@@ -20,7 +20,11 @@ Here we look at the best bags available, each bag listed is the best in its area
 
 Style: Trolley bag
 Weight; 4kg
-Quote: “An extremely nice Bag, very good value, well designed and built, I am very pleased I bought it.”
+
+> “An extremely nice Bag, very good value, well designed and built, I am very pleased I bought it.”
+>
+> Amazon customer review
+
 Rating: Best for transporting
 
 The Redcar is the largest bag in our list, and as such it offers a very impressive amount of space. With such a large storage area the Redcar remains compact, and is ideal for everyday use.
@@ -33,7 +37,9 @@ At 4kg it is on the heavier side, however it does come with wheels and handle to
 
 Style: Bag
 Weight: 2kg
-Quote: “Great bag ,ideal for carrying bowls, shoes and polish, ideal size. Very highly recommended.”
+> “Great bag ,ideal for carrying bowls, shoes and polish, ideal size. Very highly recommended.”
+>
+> Amazon customer review
 Rating: Best storage size
 
 The Alnwick combines great storage space and a light weight design. It's similar to the Redcar model, except without the trolley mechanism. 
@@ -48,7 +54,9 @@ With a 5 out of 5 rating on many review sites we can all agree this is a top qua
 
 Style: classic style bag
 Weight: 2kg
-Quote: “Excellent quality and really good value. Speedy delivery too. Would recommend without hesitation.”
+> "Excellent quality and really good value. Speedy delivery too. Would recommend without hesitation.”
+>
+> Amazon customer review
 Rating: Best styling
 
 The Staple model is aimed at the bowler who prefers the classic styles. This lightweight bag stays away from the newer luggage style we now see everywhere and stays with the traditional look.
@@ -63,7 +71,10 @@ Bowls have their own zipped section at the bottom of the bag, this will protect 
 
 Style: bag
 Weight: 1.8kg
-Quote: “Bag was as good as described, at a very competitive price. I am over the moon with this purchase”
+> “Bag was as good as described, at a very competitive price. I am over the moon with this purchase”
+>
+> Amazon customer review
+
 Rating: Best all-rounder
 
 If you are looking for a bag that just gets tour gear to the green, without all the added extras then you need look no further than the Taylor Midi.
@@ -78,7 +89,10 @@ The Midi is a great all-rounder, offering great storage space, whilst maintainin
 
 - Style: mini bag
 -Weight: 1.3kg
-- Quote: “Really pleased with the bag. Much better than the grandad bag we previously had. Plenty of room for shoes and bowls”
+> "Really pleased with the bag. Much better than the grandad bag we previously had. Plenty of room for shoes and bowls”
+>
+> Amazon customer review
+
 Rating: Best compact bag
 
 Finally we come to the Taylor Mini. This is the smallest and lightest bag on the market. With a name like Taylor behind it, you are guaranteed it will be top quality.
