@@ -27,6 +27,7 @@ We spent 11.5 hours reading reviews from experts and users. In summary, this is 
 
 </div>
 
+
 ## Bottom line
 
 The PRO-50 has all the benefits of the hugely popular Professional model, with the added benefit of the unique grip.  It is the perfect model for any bowler who wants a versatile bowl. It's just as comfortable on the indoor rinks as it is outdoors. With quality grip options and colours you can be guaranteed to find something to your tastes. 
