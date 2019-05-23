@@ -22,6 +22,7 @@ Get great deals on all models of Aero bowls.
 ## Quantum
 
 <img src="/assets/images/bowls/aero/aero-quantum.jpg" title="Aero Quantum" />
+>> <a href="https://aerobowls.co.uk">Aero Bowls</a>
 
 ## Maxim
 
