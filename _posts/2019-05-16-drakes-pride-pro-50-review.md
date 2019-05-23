@@ -7,11 +7,12 @@ image: assets/images/pro-50-review.jpg
 description: "9 reasons to buy/NOT buy Drakes Pride PRO-50 lawn bowls"
 ---
 
-<div class="overview">
+<div class="overview" markdown="1">
 
 We spent 11.5 hours reading reviews from experts and users. In summary, this is what other bowlers think:
 
 7 reasons to buy:
+
 * Unique grip option only available in this model
 * Extends from hugely popular Professional model
 * Very versatile. Great for indoor and outdoor play
