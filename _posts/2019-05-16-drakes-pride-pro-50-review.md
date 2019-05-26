@@ -3,6 +3,7 @@ layout: post
 title:  "Drakes Pride PRO-50 Review"
 author: reece
 categories: [ review, bowls ]
+ebaylink: "http://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_ff3=9&pub=5575495824&toolid=10001&campid=5338542401&customid=&icep_uq=Drakes+Pride+PRO-50&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=888&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229508&kwid=902099&mtid=824&kw=lg"
 image: assets/images/drakes-pride-pro-50-review.jpeg
 description: "9 reasons to buy/NOT buy Drakes Pride PRO-50 lawn bowls"
 ---
@@ -24,6 +25,17 @@ We spent 11.5 hours reading reviews from experts and users. In summary, this is 
 2 reasons to not buy:
 * Bias may be too narrow on outdoor rinks in late position play
 * Only available in dimple grip, so no ridge grip option
+
+<div class="stars">
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+  <i class="fas fa-star"></i>
+</div>
+
+
+<a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_ff3=9&pub=5575495824&toolid=10001&campid=5338542401&customid=&icep_uq=Drakes+Pride+PRO-50&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=888&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229508&kwid=902099&mtid=824&kw=lg"  class="btn more"  target="_blank">See current deals</a>
 
 </div>
 
