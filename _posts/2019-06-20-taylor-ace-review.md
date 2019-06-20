@@ -33,7 +33,7 @@ We spent  10 hours reading reviews from experts and users. In summary, this is w
 </div>
 
 
-<a href=""  class="btn more"  target="_blank">See current deals</a>
+<a href=""https://www.amazon.co.uk/gp/product/B005HN9CY0/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B005HN9CY0&linkCode=as2&tag=jackhighbowls-21&linkId=d5dddb33904d213c04fa7f413b4e7613"  class="btn more"  target="_blank">See current deals</a>
 
 </div>
 

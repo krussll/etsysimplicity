@@ -33,7 +33,7 @@ Superior grip
 </div>
 
 
-<a href=""  class="btn more"  target="_blank">See current deals</a>
+<a href="https://www.amazon.co.uk/gp/product/B0055ZU6FY/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B0055ZU6FY&linkCode=as2&tag=jackhighbowls-21&linkId=0f6eceda169d1419eb28bf6d677a8117" class="btn more"  target="_blank">See current deals</a>
 
 </div>
 
