@@ -80,5 +80,4 @@ The Taylor Legacy SL comes with Taylor's unique Progrip as standard. The Progrip
 
 The slim line design coupled with the Progrip technology make this the perfect fit for any bowler that struggles to grip their bowls. 
 
-As is the case for all Taylor ranges, the Legacy SL is only available in black. 
-
+You also have the choice of 11 striking colour choices. Solid and speckle colours are available and come in a range from traditional, to spectacular!
