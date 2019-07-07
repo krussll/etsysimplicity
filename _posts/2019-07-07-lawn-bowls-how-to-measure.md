@@ -3,7 +3,7 @@ layout: post
 title:  "Lawn bowls - how to measure?"
 categories: [ help ]
 author: reece
-image: assets/images/lawn-bowls-how-to-measure.jpg
+image: assets/images/lawn-bowls-how-to-measure.jpeg
 featured: true
 description: "Measuring is an important skill that any bowler must learn. Follow our simple step-by-step guide to get you started."
 ---
