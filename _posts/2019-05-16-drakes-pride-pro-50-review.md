@@ -57,7 +57,7 @@ Sizes available: 00-5
 
 ## Line analysis
 
-The PRO-50 is based off of the Professional model with it's “Mid biased” bowl, sitting between the d-tec and XP models. Because if the bias used, the PRO-50 can be played equally on indoor and outdoor rinks. The bias will mean your line will be slightly narrow compared to other models in this price bracket, but will allow for a decent swing on indoor surfaces.
+The PRO-50 is based off of the Professional model with it's “Mid biased” profile, sitting between the d-tec and XP models. Because of the bias used, the PRO-50 can be played equally on indoor and outdoor rinks. The bias will mean your line will be slightly narrow compared to other models in this price bracket, but will allow for a decent swing on indoor surfaces.
 
 This model is ideal for any bowler who plays lead, or even a 2 in a four rink. This is due to the narrow line, and the clean even finish. A gradual draw is the PRO-50's bread and butter!
 
