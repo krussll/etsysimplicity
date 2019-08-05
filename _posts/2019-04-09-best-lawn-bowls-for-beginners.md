@@ -55,7 +55,6 @@ There are four main brands of bowls available.
 * Drakes Pride
 * Taylor
 * Henselite
-* Almark
 
 More experienced bowlers may have personal preference, as certain brands offer unique grips, for example, however, the brand name shouldn’t be a deciding factor in itself.
 
@@ -71,14 +70,40 @@ As long as the bowls don’t have any major chunks or gauges, they will be fine 
 
 ### Bowls best for indoor
 
-* Taylor Bowls (Lazer, Vector VS, Blaze, Ace)
-* Henselite (Dreamline, Tiger II, Classic II)
-* Drakes Pride (Advantage, Fineline)
-* Almark (Arrow, Sterling Slimline)
+#### Taylor Bowls 
+
+* Lazer
+* Vector VS
+* Blaze
+* Ace
+
+#### Henselite 
+
+* Dreamline
+* Tiger II
+* Classic II
+
+#### Drakes Pride 
+
+* Advantage
+* Fineline
+
  
 ### Bowls best for outdoor
 
-* Taylor Bowls (Ace, International, Legacy SL, Lignoid)
-* Henselite (Classic II, Classic, Tiger)
-* Drakes Pride (Professional, Jazz)
-* Almark (Sterling Slimline, Sterling Gold)
+#### Taylor Bowls 
+
+* Vector VS
+* Ace
+* Legacy SL
+
+#### Henselite 
+
+* Tiger
+* Classic
+* Classic II
+
+#### Drakes Pride 
+
+* Professional
+* PRO-50
