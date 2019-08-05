@@ -8,6 +8,49 @@ featured: true
 description: "What are the best lawn bowls for beginners? We break down the most important issues to help make the best choice"
 ---
 
+
+<div class="overview">
+  
+<table>
+  <thead>
+    <tr>
+      <th>Brand</th>
+      <th>Model</th>
+      <th>Price</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Drakes Pride</td>
+      <td>D-Tec</td>
+      <td>£246.00 </td>
+      <td><a href="https://www.amazon.co.uk/gp/product/B01JOQBTNM/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01JOQBTNM&linkCode=as2&tag=jackhighbowls-21&linkId=c5a6a26de5112bf2308c36d6e917be1a" class="btn more"  target="_blank">See more</a></td>
+    </tr>
+    <tr>
+      <td>Drakes Pride</td>
+      <td>Professional</td>
+      <td>£255.00</td>
+      <td><a href="https://www.amazon.co.uk/gp/product/B07BY2MM4L/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B07BY2MM4L&linkCode=as2&tag=jackhighbowls-21&linkId=221174933a36c240ce4eb5653e558d8f" class="btn more"  target="_blank">See more</a></td>
+    </tr>
+    <tr>
+      <td>Taylor</td>
+      <td>Vector VS</td>
+      <td>£350.00 </td>
+      <td><a href="https://www.amazon.co.uk/gp/product/B07J65XHNH/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B07J65XHNH&linkCode=as2&tag=jackhighbowls-21&linkId=557db82f901a42b6c37cf02416e9f52b" class="btn more"  target="_blank">See more</a></td>
+    </tr>
+    <tr>
+      <td>Aero</td>
+      <td>Quantum</td>
+      <td>£335.00</td>
+      <td><a href="" class="btn more"  target="_blank">See more</a></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+
 Selecting your first set of bowls can be a bit of a mindfield. With over 30 models currently on sale, all with unique characteristics, in 8 different sizes, and a multitude of colours to choose from it’s no wonder we get intimidated!
 
 Choosing a set of woods will eventually come down to a mixture of personal preference, and the demands of how you play. These demands can include:
