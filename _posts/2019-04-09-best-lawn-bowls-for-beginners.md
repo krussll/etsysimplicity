@@ -8,6 +8,7 @@ featured: true
 description: "What are the best lawn bowls for beginners? We break down the most important issues to help make the best choice"
 ---
 
+## Top 3 bowls for beginners
 
 <div class="overview">
   
@@ -21,12 +22,6 @@ description: "What are the best lawn bowls for beginners? We break down the most
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Drakes Pride</td>
-      <td>D-Tec</td>
-      <td>£246.00 </td>
-      <td><a href="https://www.amazon.co.uk/gp/product/B01JOQBTNM/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01JOQBTNM&linkCode=as2&tag=jackhighbowls-21&linkId=c5a6a26de5112bf2308c36d6e917be1a" class="btn more"  target="_blank">See more</a></td>
-    </tr>
     <tr>
       <td>Drakes Pride</td>
       <td>Professional</td>
@@ -111,7 +106,7 @@ As long as the bowls don’t have any major chunks or gauges, they will be fine 
 
 ## Recommended Models
 
-### Bowls best for indoor
+### Bowls best for outdoor bowls
 
 #### Taylor Bowls 
 
@@ -119,6 +114,10 @@ As long as the bowls don’t have any major chunks or gauges, they will be fine 
 * Vector VS
 * Blaze
 * Ace
+
+Taylor Bowls offer a great selection on models for the beginner. If you are playing on faster greens the Blaze may be a good choice. If you plan on playing in multiple different positions (e.g. a number 2, or a skip) in the not-to-distant future the Ace is ideal.
+
+However, for its consistency and clean narrow line, we recommend the Vector VS. The Vetor VS is <a href="https://www.amazon.co.uk/gp/product/B07J65XHNH/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B07J65XHNH&linkCode=as2&tag=jackhighbowls-21&linkId=557db82f901a42b6c37cf02416e9f52b" class="btn more"  target="_blank">available on Amazon</a> for a great price, if you are interested.
 
 #### Henselite 
 
@@ -128,25 +127,7 @@ As long as the bowls don’t have any major chunks or gauges, they will be fine 
 
 #### Drakes Pride 
 
-* Advantage
-* Fineline
-
- 
-### Bowls best for outdoor
-
-#### Taylor Bowls 
-
-* Vector VS
-* Ace
-* Legacy SL
-
-#### Henselite 
-
-* Tiger
-* Classic
-* Classic II
-
-#### Drakes Pride 
-
 * Professional
 * PRO-50
+
+ 
