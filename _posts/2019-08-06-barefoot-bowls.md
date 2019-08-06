@@ -2,7 +2,7 @@
 layout: post
 title:  "Guide to Barefoot Bowls"
 author: reece
-categories: [ guide ]
+categories: [ help ]
 image: assets/images/guide-to-barefoot-bowls.jpg
 description: "See our complete guide to barefoot bowls. Covering the rules, benefits, and where to play near you"
 ---
