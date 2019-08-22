@@ -74,5 +74,5 @@ We recommend playing alongside an experienced bowler to help you the rest of the
 
 If you want to find out more about the rules of bowls, and how to play we suggest you look through the following articles:
 
-* What to wear when playing bowls
-* The rules of measuring
+* <a href="https://www.jackhighbowls.com/help/lawn-bowls-dress-code">What to wear when playing bowls</a>
+* <a href="https://www.jackhighbowls.com/help/lawn-bowls-how-to-measure">The rules of measuring</a>
