@@ -4,7 +4,7 @@ title:  "'The Shooter Stance' for lawn bowls"
 categories: [ help ]
 author: reece
 image: assets/images/the-shooter-stance-for-lawn-bowls.jpg
-featured: true
+featured: false
 description: "Is this the best way to improve your line control? Greater balance produces greater control, and repeatability this is the key to the perfect bowls delivery. The core idea behind The Shooter stance is to improve your balance."
 ---
 
