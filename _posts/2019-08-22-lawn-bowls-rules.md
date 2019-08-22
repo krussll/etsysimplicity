@@ -18,9 +18,9 @@ You want to get one or more of your bowls closer to the jack than your opponent
 ## The Equipment
 
 Here are the basic items needed for a game of bowls:
-* The Jack - small ball. Usually white, sometimes yellow. Used as the target in the game. 1 is required <img src="assets/images/white-jack.jpg" height="200px" />
-* Bowls (balls) - these are larger balls (referred to as "bowls" or "woods") that players use to roll towards the jack. They weigh no more than 3.5 pounds and are weighted on one side which allows them to curve. The weighted side has a stamp on it so you know which side is which. The number of bowls each player requires differs depending on the number of players. This is covered later <img src="assets/images/lawn-bowl.jpg" height="200px" />
-* Mats - two mats are required. Usually made of rubber, and are roughly the size 2 of a door mat. <img src="assets/images/lawn-bowl-mat.jpg" height="200px" />
+* The Jack - small ball. Usually white, sometimes yellow. Used as the target in the game. 1 is required <img src="/assets/images/white-jack.jpg" height="200px" />
+* Bowls (balls) - these are larger balls (referred to as "bowls" or "woods") that players use to roll towards the jack. They weigh no more than 3.5 pounds and are weighted on one side which allows them to curve. The weighted side has a stamp on it so you know which side is which. The number of bowls each player requires differs depending on the number of players. This is covered later <img src="/assets/images/lawn-bowl.jpg" height="200px" />
+* Mats - two mats are required. Usually made of rubber, and are roughly the size 2 of a door mat. <img src="/assets/images/lawn-bowl-mat.jpg" height="200px" />
 
 ## Playing the Game
 
