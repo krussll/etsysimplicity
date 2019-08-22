@@ -29,9 +29,10 @@
   ga('send', 'pageview');
 </script>
 {% endif %}
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <script> (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-8543572621618524", enable_page_level_ads: true }); </script>
-
+  
+{% if page.noAds %}
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <script> (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-8543572621618524", enable_page_level_ads: true }); </script>
+{% endif %}
 </head>
 
 
