@@ -4,7 +4,7 @@ title:  "Best rated Lawn Bowls woods for leads"
 author: reece
 categories: [ guide ]
 image: assets/images/best-bowls-for-leads.jpg
-featured: true
+featured: false
 description: "What are the best rated lawn bowls woods for leads? Check out our top 4. Are yours on the list?"
 ---
 
