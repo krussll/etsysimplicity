@@ -52,6 +52,8 @@ All of the bags we have selected have been chosen because of their quality build
 
 ### Drakes Pride trolley bag
 
+<a href="https://www.amazon.co.uk/gp/product/B00UI2ZPM8/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00UI2ZPM8&linkCode=as2&tag=jackhighbowls-21&linkId=eec85a36ecb30ad13a86a351da379fae">Available here</a>
+
 Rating 4.5 out of 5 (47 reviews)
 Price £84.74
 
@@ -66,6 +68,8 @@ Double wheels. This is an upgraded version of the classic Drake's Pride bag. The
 The price is on the higher end, however with the extra quality of buying from Drake's Pride and the extra storage space we feel it's worth it
 
 ### Aero bowls ComfitPro Ultraglide
+
+<a href="https://www.amazon.co.uk/gp/product/B00ZKSU0E8/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00ZKSU0E8&linkCode=as2&tag=jackhighbowls-21&linkId=795a9ea08a2d4541c5734e06fe40b12a">Available here</a>
 
 Rating 5 out of 5 (6 reviews)
 Price £80
@@ -86,7 +90,7 @@ An alternative for the wheeled bag is a bag trolley. This is a metal trolley tha
 
 This is a great budget option, especially if you have a bag already which is in good condition.
 
-If this is something that interests you we would recommend the Drake's Pride "fold flat" trolley. At £23.49 it's nearly a quarter of the price of a brand new wheeled trolley, and with an average of 4 out of 5 stars (from 97 reviews) it's got some great feedback.
+If this is something that interests you we would recommend the Drake's Pride "fold flat" trolley (<a href="https://www.amazon.co.uk/gp/product/B0053PTA12/ref=as_li_tl?ie=UTF8&tag=jackhighbowls-21&camp=1634&creative=6738&linkCode=as2&creativeASIN=B0053PTA12&linkId=178385cf2afe52690811f94b68f6b7db">Available here</a>). At £23.49 it's nearly a quarter of the price of a brand new wheeled trolley, and with an average of 4 out of 5 stars (from 97 reviews) it's got some great feedback.
 
 
 
