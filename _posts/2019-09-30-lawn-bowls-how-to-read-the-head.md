@@ -194,3 +194,32 @@ If we miss we are giving our opponent the chance to draw a third.
 
 As we are down shots, and we already have a bowl covering the opposing back bowl, there is no coverage shot available. 
 
+### Balanced
+
+<img src="/assets/images/reading-the-head-example-balanced.jpg" height="200px" />
+
+In this situation it is a measure for shot, and both you and your opponent have strong second bowls and a covering back bowl.
+
+#### Draw
+
+Could try drawing the shot, but there is very little room 
+
+It's also not clear which hand would be best as any movement could move the jack to an opponent bowl.
+
+#### Weight
+
+A slightly weighted shot could either remove the nearest opponent bowl, or if the line isn't quite right, it could bump our nearest up to take the shot.
+
+If we played too much weight we may remove our nearest completely, give the opposition at least one shot, maybe two, and the chance for a third.
+
+#### Cover
+
+The back of the head is guarded nicely, but we could cover this space more incase our opponent tries a weighted shot - as they have the best back.
+
+## Final points
+
+As we can see reading the head has many elements. However it is best to try and keep things as simple as possible. Having a clear understanding of what you need to achieve before you get to the head can really help narrow your focus.
+
+As with everything with bowls, you will learn from your mistakes. Unfortunately, this is usually the best way to learn!
+
+
