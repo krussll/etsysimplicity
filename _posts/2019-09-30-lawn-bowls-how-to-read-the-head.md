@@ -142,6 +142,8 @@ Remember that there is no "right or wrong" in these examples. The final call wil
 
 ### Holding shots
 
+<img src="/assets/images/reading-the-head-example-holding.jpg" height="200px" />
+
 In this position we are holding two, but we have no back bowls.
 
 #### Draw
@@ -168,6 +170,8 @@ This shot does require the extra weight to get around the head, so line would be
 
 ### Down shots
 
+<img src="/assets/images/reading-the-head-example-down.jpg" height="200px" />
+
 In this situation we are down 2 shots, with one short bowl and one back bowl.
 
 #### Draw
@@ -176,7 +180,7 @@ There is the option to play the draw on the forehand.
 
 We can gain the shot by playing dead weight, or by resting on to one of the shot bowls. At most we will score just the one.
 
-We could miss the draw, giving our oppo the chance to draw a third, or if played in-correctly we could accidentally removing our own closest bowl, giving our oppo three, with the chance of a forth to come.
+We could miss the draw, giving our oppo the chance to draw a third, or if played in-correctly we could accidentally removing our own closest bowl, giving our opponent three, with the chance of a forth to come.
 
 #### Weight
 
