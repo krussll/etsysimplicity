@@ -188,5 +188,5 @@ If we miss we are giving our opponent the chance to draw a third.
 
 #### Cover
 
-As we are down shots, and we already have a bowl covering the opposing back bowl, there is no coverage shot available.
+As we are down shots, and we already have a bowl covering the opposing back bowl, there is no coverage shot available. 
 
