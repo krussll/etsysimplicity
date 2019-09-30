@@ -146,27 +146,25 @@ In this position we are holding two, but we have no back bowls.
 
 #### Draw
 
-Is an opportunity to draw a third
+By playing the draw to the jack we have an opportunity to draw a third shot.
 
-Little danger as oppo shot is behind the jack, so unlikely to knock it in. 
-
-Only danger is knocking jack back
+There is little danger as our opposition's shot is behind the jack, so unlikely to knock it in for the shot. Thee only danger is knocking jack back to the waiting bowls.
 
 #### Weight
 
-There is a chance for 3 or 4 shots if the oppo shot is removed. 
+There is a chance for 3 or 4 shots if the opposing shot is removed. 
 
-Would result in the last shot going in behind the head if successful, giving some coverage
+It would also result in the last shot going in behind the head if successful, giving some coverage to the back bowls.
 
-Danger is the line is too tight and the two shots are disturbed losing the shot
+There is a danger that if the line is too tight and the two shots are disturbed we would lose the shot.
 
 #### Cover
 
 By drawing a shot around the head you can cover the back position. 
 
-Oppo will likely drive so any jack movement would result in it moving into this area
+Our opponent will likely drive, this means any jack movement would result in it moving into this area.
 
-Shot does require the extra weight to get around the head, so line would be important. A tight line would disturb the two shots
+This shot does require the extra weight to get around the head, so line would be important. A tight line would disturb the two shots.
 
 ### Down shots
 
@@ -186,9 +184,9 @@ A weighted shot could be played on either hand.
 
 In the best case scenario we could remove both shots if we play on the backhand. A weighted shot onto the front shot bowl could cannon it into the second shot, removing both. If played on this hand we could also move the jack back towards our own back bowl. In each of these scenarios we could gain 1-3 shots.
 
-If we miss we are giving our oppo the chance that draw. 
+If we miss we are giving our opponent the chance to draw a third.
 
 #### Cover
 
-As we are down shots, and we already have a bowl covering the oppo back bowl, there is no coverage shot available.
+As we are down shots, and we already have a bowl covering the opposing back bowl, there is no coverage shot available.
 
