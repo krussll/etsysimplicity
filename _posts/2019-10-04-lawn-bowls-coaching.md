@@ -15,7 +15,7 @@ Most videos are short, but they will contain a lot of information so it is impor
 
 Here are some ideas on how to process the key ideas and concepts. You don't need to do all of them, but try each one out and find what works best for you.
 
-Take notes
+### Take notes
 
 A simple way to get the benefits of the video is to have the key points Infront of you when you practice. The simplest way to do this is to take notes when you watch the video and then take them next time you go for a roll up.
 
@@ -23,13 +23,13 @@ Taking notes makes it easier for you to organise the key ideas, and for you to w
 
 You can also focus on the information that is important to you. You won't have to keep watching the whole video for the 5 seconds you are interested in.
 
-Play them on the green
+### Play them on the green
 
 Another great way to bring the information with you is to take a portable electronic device to the green with you (e.g. iPad, tablet, or mobile phone).
 
 It is much easier to put the ideas into practice immediately, rather than trying to remember each thing.
 
-Get feedback
+### Get feedback
 
 It can be hard to tell if you are interpreting the video advice correctly unless you get feedback. 
 
@@ -43,18 +43,18 @@ This can be anyone with a keen eye. Maybe someone who is free at the club, or a 
 
 Finally, it's always best to get your club coach to have a look too. It is great to have that skill and knowledge in your club, so it's best to use it when you can.
 
-Beginners series
+## Beginners series
 
-New Zealand bowls coaching series
+### New Zealand bowls coaching series
 
-South Africa bowls coaching series
+### South Africa bowls coaching series
 
-Bowls Australia tippers corner
+### Bowls Australia tippers corner
 
-Intermediate series
+## Intermediate series
 
-Shooter stance
+### Shooter stance
 
-Aim with opposite foot
+### Aim with opposite foot
 
 
