@@ -6,3 +6,55 @@ categories: [ help ]
 image: assets/images/lawn-bowls-coaching.jpg
 description: "The best lawn coaching videos for beginner and intermediate players"
 ---
+
+## How to use coaching videos
+
+Coaching videos can be a great way to get useful information for free. However, if you only watch the videos without taking any appropriate action you won't be able to improve your game.
+
+Most videos are short, but they will contain a lot of information so it is important to plan how you will get the most out of them.
+
+Here are some ideas on how to process the key ideas and concepts. You don't need to do all of them, but try each one out and find what works best for you.
+
+Take notes
+
+A simple way to get the benefits of the video is to have the key points Infront of you when you practice. The simplest way to do this is to take notes when you watch the video and then take them next time you go for a roll up.
+
+Taking notes makes it easier for you to organise the key ideas, and for you to write them down in a way you understand.
+
+You can also focus on the information that is important to you. You won't have to keep watching the whole video for the 5 seconds you are interested in.
+
+Play them on the green
+
+Another great way to bring the information with you is to take a portable electronic device to the green with you (e.g. iPad, tablet, or mobile phone).
+
+It is much easier to put the ideas into practice immediately, rather than trying to remember each thing.
+
+Get feedback
+
+It can be hard to tell if you are interpreting the video advice correctly unless you get feedback. 
+
+Sometimes it's obvious, as your performance may make a dramatic improvement, however it's usually the case you'll need some kind of visual confirmation.
+
+One option is to film yourself trying the new skill, and then watching it back. This may feel strange at first, but it's a great way to try something if no one is around.
+
+Preferably you could get someone to watch you. You'll need to explain what you are trying to achieve and why. Maybe even watch the video together to make sure you are on the same wavelength.
+
+This can be anyone with a keen eye. Maybe someone who is free at the club, or a friend who can come with you. 
+
+Finally, it's always best to get your club coach to have a look too. It is great to have that skill and knowledge in your club, so it's best to use it when you can.
+
+Beginners series
+
+New Zealand bowls coaching series
+
+South Africa bowls coaching series
+
+Bowls Australia tippers corner
+
+Intermediate series
+
+Shooter stance
+
+Aim with opposite foot
+
+
