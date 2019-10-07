@@ -4,7 +4,7 @@ title:  "Lawn bowls coaching"
 author: reece
 categories: [ help ]
 image: assets/images/lawn-bowls-coaching.jpg
-description: "The best lawn coaching videos for beginner and intermediate players"
+description: "The best 20 lawn coaching videos for beginner and intermediate players"
 ---
 
 ## How to use coaching videos
