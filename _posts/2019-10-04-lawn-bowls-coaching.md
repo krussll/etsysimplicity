@@ -88,8 +88,14 @@ Finally, it's always best to get your club coach to have a look too. It is great
 
 ### Shooter stance
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3b9cKvPeWj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jFGjT_AlsVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Aim with opposite foot
 
-### Rythm speed
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UkKgJWDq1GA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Rhythm speed
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Rga5p805mQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
