@@ -82,7 +82,7 @@ Finally, it's always best to get your club coach to have a look too. It is great
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4bTiHGap_mE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Bowls Australia tippers corner
+### Bowls Australia coaches corner
 
 ## Intermediate series
 
