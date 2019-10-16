@@ -26,7 +26,6 @@ The box measure is a common piece of bowls equipment. It acts just like a tape m
 
 It's made with plastic outer and usually string for the measuring and a small button or switch on top to allow the string to come out.
 
-They can be picked up for a very reasonable price on Amazon. <a href="https://www.amazon.co.uk/gp/product/B0056LQHZU/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B0056LQHZU&linkCode=as2&tag=jackhighbowls-21&linkId=4706e0a014c6aee58e9a03e2189c8578" target="_blank">Look here to get the latest offer</a>.
 
 ## How to measure
 
