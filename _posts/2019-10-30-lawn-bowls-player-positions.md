@@ -12,7 +12,8 @@ When we take up bowls and start playing league games we all look to do what we c
 Today we hope to clarify what roles are required for a successful team, so you know what is expected of you next time you play.
 
 Obviously there is more than one way to be successful, and roles can (and will) be interchangeable, however this is the likeliest team format you will see.
-Defining player roles
+
+## Defining player roles
 
 When moving into a team format it's important to have defined player roles. By working together you can operate as a single unit, moving together towards the goal - winning.
 
@@ -25,19 +26,19 @@ These are the basic components required when building a team. We will break thes
 
 For the purpose of this guide we will ignore basic game maintenance tasks, such as placing the mat, and centering the jack, as these don't change, nor do they have an impact on the game itself.
 
-How roles change
+## How roles change
 
 The more players in the team, the more specific the roles become. With fewer shots it's important for a player to stick to a couple of key roles to fulfill.
 
 For example, a lead is generally considered to be in the team to get shots in the head with a great draw shot. However in pairs, due to the extra bowls available, and with only one other player to help them, the lead will have to play other positional shots.
 
-The roles
+## The roles
 
 To describe the roles we will look at a team of fours. Each member of a fours team will only have one or two jobs to fulfill, and will only play a couple of shot types each. 
 
 By looking at a team with its duties spread out we can then see how those will look for other team formats.
 
-The skip
+### The skip
 
 Leads the team, like a captain in football. They set the tone of how the team plays and will took to guide and encourage his team.
 
@@ -45,7 +46,7 @@ On top of leading the team's mindset, the skip will guide the tactics of the tea
 
 A skip should be one of the best players in the team. He should be able to play any shot. This could include draw shots, or weighted drives to cut down losses, add shots, or to turn the head over.
 
-The third
+### The third
 
 Acts as the second in command, therefore he must be on the same wavelength as the skip to help guide him through the shots he must play.
 
@@ -53,7 +54,7 @@ Likely look to play good positional shot player. This will be to either build th
 
 As the last player to play before the skip they must look to get the skip into the best position possible.
 
-The second
+### The second
 
 The second will work in tandem with the lead. His role is to further develop the head once the lead has done his job.
 
@@ -61,7 +62,7 @@ Will also have to back up his lead if the lead is unable to get shots in the hea
 
 As this is a "head building" role, a second must be a fantastic draw player.
 
-The lead
+### The lead
 
 The basic jobs of the lead are to:
 Roll the jack
@@ -73,27 +74,33 @@ Once the jack is in place, the lead needs to get shots in the head. This builds 
 
 In this role you doesn't necessarily need to get the shot from your opposite number, but you should look to build good position.
 
-Roles by game format
+## Roles by game format
 
 So we've gone over the roles, but how do you cover each role when you're playing pairs? How best do you divide the roles between the players you do have?
 
 Let's take a look at the most common formats, and how we could split up the roles.
-Fours
+
+### Fours
 
 Let's start with the easy one! Fours is the format with the most specialised roles. We can take the definitions above and assign them out to each team member.
-Triples
+
+### Triples
 
 In triples the role of the skip will remain the same, with the number 2 in the triples team acting like a "Number 3" outlined above.
 
 We will have to split the role of the "Number 2" across the lead and 2.
 
 The role of a triples "Number 2" is therefore quite demanding and the role will vary from end to end.
-Pairs
+
+### Pairs
 
 At face value assigning roles across the the pair should be straight forward. However, it's not as simple as the lead taking the role of the number two and the skip taking the role of the number three.
 
 The number three role will be split amongst the pair. The skip will need to play more positional shots to help later, more aggressive, shots.
-Singles
+
+### Singles
+
+## Overview
 
 When you're playing singles you really are on your own! You have responsibility for all the roles, and with so few bowls per end you need to choose your shots wisely.
 
