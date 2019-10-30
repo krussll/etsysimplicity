@@ -100,9 +100,9 @@ The number three role will be split amongst the pair. The skip will need to play
 
 ### Singles
 
-## Overview
-
 When you're playing singles you really are on your own! You have responsibility for all the roles, and with so few bowls per end you need to choose your shots wisely.
+
+## Overview
 
 This was a brief look at team play, and roles needed. Much more could be written for each specific role, as well as how they interact with each other, however we just wanted to provide a high level view on how we think bowls is played 
 
