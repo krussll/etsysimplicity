@@ -22,6 +22,9 @@ Being early will also give you a chance to help organize the equipment and famil
 
 Ensure that you know the dress code for the game to avoid looking confused. Stay informed and pack your gear in good time to avoid forgetting the essentials. Remember not to arrive in your bowling shoes in case you carry harmful fungus to the greens.
 
+
+<img src="/assets/images/lawn_bowls_etiquette_one.jpg" height="200px" />
+
 ### 3. Stand Still When Someone is About to Bowl
 
 Lawn bowling is a game of concentration. Distractions are of least importance when playing, and for this reason, you should avoid moving around when someone else is playing. If you are at the head, wait until the person playing is done bowling, then move. If you are at the same end as the player delivering the bowl, stay away from the mat and the player’s line of vision. You are expected to stand at least one meter behind the mat.
@@ -37,6 +40,9 @@ Restrict all walking to the steps provided to avoid walking across other people 
 According to the rules, after you have delivered a bowl, you have two choices. If you desire to track your bowl, you must be at the head when it stops. If you choose to stay at the mat, you must be there when the bowl stops.
 By observing this rule, you ensure that the next player gets to play immediately when your turn is over. Avoid frustrating other players by following the rules. The rules also state that the rink shall belong to the team whose bowl is being played. While playing, players in possession of the rink shall not be disturbed or interfered with. If you have business to conduct at the clubhouse, wait till after the game and start a conversation over drinks.
 
+
+<img src="/assets/images/lawn_bowls_etiquette_two.jpg" height="200px" />
+
 ### 6. Acknowledgments are in Order
 
 Competition is a critical ingredient in enjoying a game, but so is acknowledgment. Good bowling is the appreciation of skill to keep the congenial spirit alive. Congratulating an opponent, or tapping a player in the back for making an exceptional move is always in order. Also, take note of lucky shots and acknowledge them whenever necessary.
@@ -49,6 +55,9 @@ Dropping or throwing bowls on lawns for no particular reason is considered impol
 
 The rules are simple. Once it is your time to bowl, come into the mat from the left side and once you are done bowling, step off from the right side of the mat. It is customary to observe this rule to avoid bumping into other players as you exit the mat.
 
+
+<img src="/assets/images/lawn_bowls_etiquette_three.jpg" height="200px" />
+
 ### 9. Send Signals from the Head End
 
 If you have visited a bowling green; you have probably realized that it is difficult to see the results without walking on the green. However, if you are standing at the head end, it is easier for you to observe the game. Signal your team player as necessary. Tap your knee to signal that the struck bowl belongs to the adversary team or tap your shoulder if the struck bowl is yours.
@@ -57,9 +66,12 @@ If you have visited a bowling green; you have probably realized that it is diffi
 
 It is good sportsmanship to shake hands before and after a game, and introduce yourself when necessary. After a game, it is tempting to leave immediately, especially after losing. Ensure that you shake hands. It is also customary to offer to buy drinks after you win a game.
 
-11. Keep the Complaints to yourself
+### 11. Keep the Complaints to yourself
 
 Perhaps your green was not as smooth as you expected, or you are at loggerheads with one of your team players. It would be wise not to complain about any green, including yours, or about other people, especially at the bowl club. As earlier stated, bowling is a game of propriety, and pointless complaining is impolite.
+
+
+<img src="/assets/images/lawn_bowls_etiquette_four.jpg" height="200px" />
 
 ## How to Handle Wrong-Doing
 
