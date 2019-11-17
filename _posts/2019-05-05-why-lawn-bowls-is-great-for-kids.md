@@ -43,6 +43,8 @@ This is great for kids and will undoubtedly help them through their school years
 
 Lawn bowls nurtures many other soft skills. Concentration and focus are required as well as how to win and lose with respect.
 
+We have a whole article on the <a href="https://www.jackhighbowls.com/help/lawn-bowls-rules-and-etiquette">rules and etiqutte of lawn bowls</a>, which is great for anyone (young or old!) who wants to take part.
+
 ## It's fun!
 
 What better reason is there to play bowls other than “it's great fun”! It's such a compelling and addictive game to play, and when you throw in a large slice of luck, it can make for some fascinating and tense gameplay.
