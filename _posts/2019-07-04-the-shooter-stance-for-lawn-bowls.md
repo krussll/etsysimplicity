@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "'The Shooter Stance' for lawn bowls"
+title:  "'The Shooters Stance' for lawn bowls"
 categories: [ help ]
 author: reece
 image: assets/images/the-shooter-stance-for-lawn-bowls.jpg
@@ -50,6 +50,14 @@ By having all of your balance on your right foot, you can put about 90% of your 
 You can watch the full video here.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3b9cKvPeWj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Differences between forehand and backhand
+
+One of the great aspects of the Shooters stance is that there is no difference between forehand and backhand. 
+
+The Shooters stance for the backhand is exactly the same, it's just the aiming point that changes.
+
+This dramatically increases consistency as you are performing the same setup and completion steps every shot. It also makes it much easier to switch between the forehand and backhand, if the game situation requires it.
 
 ## Added Benefits
 
