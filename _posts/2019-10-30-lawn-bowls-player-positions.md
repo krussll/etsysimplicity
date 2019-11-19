@@ -38,7 +38,7 @@ To describe the roles we will look at a team of fours. Each member of a fours te
 
 By looking at a team with its duties spread out we can then see how those will look for other team formats.
 
-### The skip
+### Role of the skip
 
 Leads the team, like a captain in football. They set the tone of how the team plays and will took to guide and encourage his team.
 
@@ -46,7 +46,7 @@ On top of leading the team's mindset, the skip will guide the tactics of the tea
 
 A skip should be one of the best players in the team. He should be able to play any shot. This could include draw shots, or weighted drives to cut down losses, add shots, or to turn the head over.
 
-### The third
+### Role of the third
 
 Acts as the second in command, therefore he must be on the same wavelength as the skip to help guide him through the shots he must play.
 
@@ -54,7 +54,7 @@ Likely look to play good positional shot player. This will be to either build th
 
 As the last player to play before the skip they must look to get the skip into the best position possible.
 
-### The second
+### Role of the second
 
 The second will work in tandem with the lead. His role is to further develop the head once the lead has done his job.
 
@@ -62,7 +62,7 @@ Will also have to back up his lead if the lead is unable to get shots in the hea
 
 As this is a "head building" role, a second must be a fantastic draw player.
 
-### The lead
+### Role of the lead
 
 The basic jobs of the lead are to:
 Roll the jack
