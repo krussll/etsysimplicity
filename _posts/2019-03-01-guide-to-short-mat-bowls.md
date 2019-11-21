@@ -22,7 +22,7 @@ The only major difference is the size of the playing area. Whilst an outdoor gre
 
 These differences have many benefits, which we will cover later.
 
-The player formats and roles remain largely the same from the "full size" game. If you want to find out more about player roles see our guide to player positions and roles.
+The player formats and roles remain largely the same from the "full size" game. If you want to find out more about player roles see our <a href="https://www.jackhighbowls.com/help/lawn-bowls-player-positions">guide to player positions and roles</a>.
 
 
 ## Benefits
@@ -49,6 +49,6 @@ As you can see, short mat bowls is a game accessible to all.
 
 There are several sites that list short mat bowls clubs. We suggest checking out the following pages:
 
-* <a href=" www.bowls.co.uk/short-mat" target="_blank">bowls.co.uk</a>
+* <a href="www.bowls.co.uk/short-mat" target="_blank">bowls.co.uk</a>
 * <a href="http://www.sports-clubs.net/Sport/Clubs.aspx?SportID=790&Sport=Bowls%20(Short%20Mat)" target="_blank">sports-clubs.net</a>
 * <a href="http://www.bowlsclub.info/uk" target="_blank">bowlsclub.info</a> (includes all types of bowls clubs including outdoor, indoor and crown green)
