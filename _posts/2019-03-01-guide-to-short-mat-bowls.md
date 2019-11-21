@@ -41,14 +41,14 @@ Due to the compact nature of the game, and how easily storable, short mat bowls 
 
 Examples in our area of Wiltshire include:
 
-* Trowbridge Short Mat Bowls Club (https://www.paxcroftmead.org.uk/bowls.shtml) who play in their local community centre
-* Melksham & Shaw Short Mat Bowls Club (https://www.bgvh.co.uk/regular-users/short-mat-bowls/) who play in a local village hall
-* Keynsham Short Mat Bowls Club (https://www.keynshammethodistchurch.co.uk/church-life/fellowship-and-community/short-mat-bowls-club/) who play in a local church!
+* <a href="https://www.paxcroftmead.org.uk/bowls.shtml" target="_blank">Trowbridge Short Mat Bowls Club</a> who play in their local community centre
+* <a href="https://www.bgvh.co.uk/regular-users/short-mat-bowls/" target="_blank">Melksham & Shaw Short Mat Bowls Club</a> who play in a local village hall
+  * <a href="https://www.keynshammethodistchurch.co.uk/church-life/fellowship-and-community/short-mat-bowls-club/" target="_blank">Keynsham Short Mat Bowls Club</a> who play in a local church!
 
 As you can see, short mat bowls is a game accessible to all.
 
 There are several sites that list short mat bowls clubs. We suggest checking out the following pages:
 
-* www.bowls.co.uk/short-mat
-* http://www.sports-clubs.net/Sport/Clubs.aspx?SportID=790&Sport=Bowls%20(Short%20Mat)
-* http://www.bowlsclub.info/uk (includes all types of bowls clubs including outdoor, indoor and crown green)
+* <a href=" www.bowls.co.uk/short-mat" target="_blank">bowls.co.uk</a>
+* <a href="http://www.sports-clubs.net/Sport/Clubs.aspx?SportID=790&Sport=Bowls%20(Short%20Mat)" target="_blank">sports-clubs.net</a>
+* <a href="http://www.bowlsclub.info/uk" target="_blank">bowlsclub.info</a> (includes all types of bowls clubs including outdoor, indoor and crown green)
