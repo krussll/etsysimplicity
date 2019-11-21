@@ -51,3 +51,4 @@ There are several sites that list short mat bowls clubs. We suggest checking out
 
 * www.bowls.co.uk/short-mat
 * http://www.sports-clubs.net/Sport/Clubs.aspx?SportID=790&Sport=Bowls%20(Short%20Mat)
+* http://www.bowlsclub.info/uk (includes all types of bowls clubs including outdoor, indoor and crown green)
