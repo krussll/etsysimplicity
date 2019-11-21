@@ -39,6 +39,15 @@ Finally, as it's played indoors it is great for outdoor players to move to durin
 
 Due to the compact nature of the game, and how easily storable, short mat bowls can be played in any public space. Often clubs will play in village halls, social clubs, and sports halls.
 
+Examples in our area of Wiltshire include:
+
+* Trowbridge Short Mat Bowls Club (https://www.paxcroftmead.org.uk/bowls.shtml) who play in their local community centre
+* Melksham & Shaw Short Mat Bowls Club (https://www.bgvh.co.uk/regular-users/short-mat-bowls/) who play in a local village hall
+* Keynsham Short Mat Bowls Club (https://www.keynshammethodistchurch.co.uk/church-life/fellowship-and-community/short-mat-bowls-club/) who play in a local church!
+
+As you can see, short mat bowls is a game accessible to all.
+
 There are several sites that list short mat bowls clubs. We suggest checking out the following pages:
 
 * www.bowls.co.uk/short-mat
+* http://www.sports-clubs.net/Sport/Clubs.aspx?SportID=790&Sport=Bowls%20(Short%20Mat)
