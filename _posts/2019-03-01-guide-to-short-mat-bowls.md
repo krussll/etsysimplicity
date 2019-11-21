@@ -43,7 +43,7 @@ Examples in our area of Wiltshire include:
 
 * <a href="https://www.paxcroftmead.org.uk/bowls.shtml" target="_blank">Trowbridge Short Mat Bowls Club</a> who play in their local community centre
 * <a href="https://www.bgvh.co.uk/regular-users/short-mat-bowls/" target="_blank">Melksham & Shaw Short Mat Bowls Club</a> who play in a local village hall
-  * <a href="https://www.keynshammethodistchurch.co.uk/church-life/fellowship-and-community/short-mat-bowls-club/" target="_blank">Keynsham Short Mat Bowls Club</a> who play in a local church!
+ * <a href="https://www.keynshammethodistchurch.co.uk/church-life/fellowship-and-community/short-mat-bowls-club/" target="_blank">Keynsham Short Mat Bowls Club</a> who play in a local church!
 
 As you can see, short mat bowls is a game accessible to all.
 
