@@ -21,11 +21,13 @@ Before we get close to getting our weight right on a green we must first underst
 
 As I understand it, weight control is “the ability to consistently get within an acceptable distance in front of behind the jack”.
 
-There are a few things to point out from this definition. Firstly, the use of “consistently” doesn't mean “every time’. There will be an accepted margin of error, however, 50% is a good place to start.
+There are a few things to point out from this definition. Firstly, the use of “consistently” doesn't mean “every time". There will be an accepted margin of error, however, 50% is a good place to start.
 
 Secondly I added the term “acceptable distance” because a good weight doesn't have to be jack high. I would consider an acceptable distance to be 1 mat length in front of the jack, to 2 mat lengths behind the jack. This measure is used on the “land the mat” exercise below.
 
 Finally I only mention “in front and behind the jack” in my definition. Whilst good line helps good weight (see more on this below) it is not important when measuring good weight.
+
+Weight control can also cover the ability to adjust weight accordingly. By learning the theories and applying them correctly you can learn to adjust your length appropriately when required.
 
 ## How to decide what weight to use
 
@@ -77,7 +79,15 @@ Consistent position on the mat - by keeping this the same you are training your 
 
 Repeatability is the key to weight control. Regardless of which technique you choose, make sure you can repeat the action again and again. Remember, simple delivery techniques are easiest to repeat (note we didn't say easy!)
 
-### What stops good weight control
+## Adjusting length
+
+Weight control theories are great at helping bowlers find, and maintain a specific length. Unfortunately jack lengths don't stay the same! Jacks can be rolled different lengths on new ends, or jacks can be moved mid-end. Often we also find we are either just short, or just too long, and finding that elusive yard-on or yard-off can really make the difference.
+
+Adjusting your length in lawn bowls will depend on which of the theories you will subscribe to. As outlined above, the pendulum swing should help you more at adjusting your length. Often when we try to adjust length purposely (i.e. we are thinking about it) we often over compensate - and we've all been there.
+
+Following the exercises in this guide should help you learn to adjust your length. These exercises are great at learning the "feel" of a yard-on or a yard-off.
+
+## What stops good weight control
 
 Now we have an idea on what helps weight control, we must also look at what hinders it.
 
