@@ -37,11 +37,11 @@ Now that is a proper endorsement we can all get behind.
 >>
 >> Nev Roda
 
-## The technique
+## The delivery stance
 
 Traditionally we are taught to point your feet directly out towards that target, and aim with your right foot (if your right handed).
 
-With The Shooter Stance we stop aiming with your right foot rand we turn that foot completely, so it points perpendicular from our body. In doing so we completely eliminate your right foot from aiming and its focus is all about balance.
+When you prepare for your delivery in The Shooter Stance we stop aiming with your right foot and we turn that foot completely to a right angle, so it points perpendicular from our body. In doing so we completely eliminate your right foot from aiming and its focus is all about balance.
 
 As with a pole in the ground, if you double its width you will dramatically increase its ability to keep the top stable.
 
