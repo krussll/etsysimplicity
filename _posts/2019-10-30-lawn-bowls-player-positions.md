@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Lawn bowls player positions guide"
+title:  "Lawn bowls player positions guide. Player Roles and Duties"
 author: reece
 categories: [ help ]
 image: assets/images/lawn-bowls-player-positions.jpg
-description: "A guide to the different positions in a lawn bowls team. Improve your game by doing the things that matter for your team"
+description: "A guide to the different positions in a lawn bowls team. Covering all roles and duties for each position  Improve your game by doing the things that matter for your team."
 ---
 
 When we take up bowls and start playing league games we all look to do what we can for our team. But how do you know what you're "supposed" to be doing? And how do you know if you're doing it well enough?
@@ -13,7 +13,7 @@ Today we hope to clarify what roles are required for a successful team, so you k
 
 Obviously there is more than one way to be successful, and roles can (and will) be interchangeable, however this is the likeliest team format you will see.
 
-## Defining player roles
+## Defining player roles and duties
 
 When moving into a team format it's important to have defined player roles. By working together you can operate as a single unit, moving together towards the goal - winning.
 
