@@ -33,7 +33,7 @@ Superior grip
 </div>
 
 
-<a href="https://www.amazon.co.uk/gp/product/B0055ZU6FY/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B0055ZU6FY&linkCode=as2&tag=jackhighbowls-21&linkId=0f6eceda169d1419eb28bf6d677a8117" class="btn more"  target="_blank">See current deals</a>
+<a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338508612&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_sop%3D1%26_osacat%3D117104%26_odkw%3Ddrakes%2Bpride%2Bd-tec%2Blawn%2Bbowls%26_from%3DR40%26_trksid%3Dm570.l1313%26_nkw%3Dtaylor%2Blegacy%2Bsl%2Blawn%2Bbowls%26_sacat%3D117104" class="btn more"  target="_blank">See current deals</a>
 
 </div>
 
