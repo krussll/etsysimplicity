@@ -147,7 +147,9 @@ jQuery(document).ready(function($){
     if (jumptopageof.length) {
         $('body,html').animate({ scrollTop: $(jumptopageof).offset().top  - 0 }, 800);
     }
-
-
-
 });
+
+    
+function geoip(json){
+    console.log(json.country_code);
+}
