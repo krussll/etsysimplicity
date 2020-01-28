@@ -25,20 +25,20 @@ description: "What are the best lawn bowls for beginners? We break down the most
     <tr>
       <td>Drakes Pride</td>
       <td>Professional</td>
-      <td>£255.00</td>
-      <td><a href="https://www.amazon.co.uk/gp/product/B07BY2MM4L/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B07BY2MM4L&linkCode=as2&tag=jackhighbowls-21&linkId=221174933a36c240ce4eb5653e558d8f" class="btn more"  target="_blank">See more</a></td>
+      <td>£50-£120 (used)</td>
+      <td><a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338650038&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_from%3DR40%26_nkw%3Ddrakes%2Bpride%2Bprofessional%2Bbowls%26_sacat%3D117103%26_sop%3D1" class="btn more"  target="_blank">See more</a></td>
     </tr>
     <tr>
       <td>Taylor</td>
       <td>Vector VS</td>
-      <td>£350.00 </td>
-      <td><a href="https://www.amazon.co.uk/gp/product/B07J65XHNH/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B07J65XHNH&linkCode=as2&tag=jackhighbowls-21&linkId=557db82f901a42b6c37cf02416e9f52b" class="btn more"  target="_blank">See more</a></td>
+      <td>£80-£120 (used)</td>
+      <td><a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338508612&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_sop%3D1%26_osacat%3D117103%26_odkw%3Dtaylor%2Bace%2Bbowls%26_from%3DR40%26_trksid%3Dp2334524.m570.l2632.R2.TR2.TRC1.A0.H0.Xtaylor%2Bvector%2Bvs%2Bbowls.TRS0%26_nkw%3Dtaylor%2Bvector%2Bvs%2Bbowls%26_sacat%3D117103" class="btn more"  target="_blank">See more</a></td>
     </tr>
     <tr>
       <td>Aero</td>
       <td>Quantum</td>
-      <td>£335.00</td>
-      <td><a href="" class="btn more"  target="_blank">See more</a></td>
+      <td>£130-£180 (used)</td>
+      <td><a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338542401&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2F117104%2Fi.html%3F_sop%3D1%26_from%3DR40%26_nkw%3DAero%2BQuantum%2Blawn%2Bbowls" class="btn more"  target="_blank">See more</a></td>
     </tr>
   </tbody>
 </table>
