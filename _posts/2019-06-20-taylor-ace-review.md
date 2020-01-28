@@ -53,7 +53,7 @@ Grip style: Dimple
 
 Sizes available: 00-5
 
-Price: £244
+Price: £244 (new)/ £70-£120 (used)
 
 It's a crowded marketplace for "all-round" bowls. Every manufacturer has at least two models to fit this purpose. Today we will be diving into the Taylor's Ace model. Let's see how it stacks up to the stiff competition.
 
