@@ -25,26 +25,26 @@ description: "What are the best rated lawn bowls woods for leads? Check out our 
     <tr>
       <td>Drakes Pride</td>
       <td>D-Tec</td>
-      <td>£246.00 </td>
-      <td><a href="https://www.amazon.co.uk/gp/product/B01JOQBTNM/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01JOQBTNM&linkCode=as2&tag=jackhighbowls-21&linkId=c5a6a26de5112bf2308c36d6e917be1a" class="btn more"  target="_blank">See more</a></td>
+      <td>£125 (used) </td>
+      <td><a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338508612&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_sop%3D1%26_osacat%3D117104%26_odkw%3DAero%2BQuantum%2Blawn%2Bbowls%26_from%3DR40%26_trksid%3Dm570.l1313%26_nkw%3Ddrakes%2Bpride%2Bd-tec%2Blawn%2Bbowls%26_sacat%3D117104" class="btn more"  target="_blank">See more</a></td>
     </tr>
     <tr>
       <td>Drakes Pride</td>
       <td>Professional</td>
-      <td>£255.00</td>
-      <td><a href="https://www.amazon.co.uk/gp/product/B07BY2MM4L/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B07BY2MM4L&linkCode=as2&tag=jackhighbowls-21&linkId=221174933a36c240ce4eb5653e558d8f" class="btn more"  target="_blank">See more</a></td>
+      <td>£50-£120 (used)</td>
+      <td><a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338650038&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_from%3DR40%26_nkw%3Ddrakes%2Bpride%2Bprofessional%2Bbowls%26_sacat%3D117103%26_sop%3D1" class="btn more"  target="_blank">See more</a></td>
     </tr>
     <tr>
       <td>Taylor</td>
       <td>Vector VS</td>
-      <td>£350.00 </td>
-      <td><a href="https://www.amazon.co.uk/gp/product/B07J65XHNH/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B07J65XHNH&linkCode=as2&tag=jackhighbowls-21&linkId=557db82f901a42b6c37cf02416e9f52b" class="btn more"  target="_blank">See more</a></td>
+      <td>£80-£120 (used) </td>
+      <td><a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338508612&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_sop%3D1%26_osacat%3D117103%26_odkw%3Dtaylor%2Bace%2Bbowls%26_from%3DR40%26_trksid%3Dp2334524.m570.l2632.R2.TR2.TRC1.A0.H0.Xtaylor%2Bvector%2Bvs%2Bbowls.TRS0%26_nkw%3Dtaylor%2Bvector%2Bvs%2Bbowls%26_sacat%3D117103" class="btn more"  target="_blank">See more</a></td>
     </tr>
     <tr>
       <td>Aero</td>
       <td>Quantum</td>
-      <td>£335.00</td>
-      <td><a href="" class="btn more"  target="_blank">See more</a></td>
+      <td>£130-£180 (used)</td>
+      <td><a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338542401&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2F117104%2Fi.html%3F_sop%3D1%26_from%3DR40%26_nkw%3DAero%2BQuantum%2Blawn%2Bbowls" class="btn more"  target="_blank">See more</a></td>
     </tr>
   </tbody>
 </table>
@@ -71,7 +71,7 @@ Finally, where are you planning on playing? Some models focus either on indoor, 
 
 ## Drakes Pride D-Tec
 
-<a href="https://www.amazon.co.uk/gp/product/B01JOQBTNM/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01JOQBTNM&linkCode=as2&tag=jackhighbowls-21&linkId=c5a6a26de5112bf2308c36d6e917be1a" class="btn more"  target="_blank">See more</a>
+<a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338508612&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_sop%3D1%26_osacat%3D117104%26_odkw%3DAero%2BQuantum%2Blawn%2Bbowls%26_from%3DR40%26_trksid%3Dm570.l1313%26_nkw%3Ddrakes%2Bpride%2Bd-tec%2Blawn%2Bbowls%26_sacat%3D117104" class="btn more"  target="_blank">See more</a>
 
 The d-tec is Drakes Pride's flagship narrow biased model. It hits many of the attributes that we outlined above, specifically a good narrow line, a smooth flat finish and all for a better-than-average price. You can read our full review of the d-tec here.
 
@@ -81,7 +81,7 @@ There is a strong second hand market for all of the Drakes Pride range, making t
 
 ## Drakes Pride Professional
 
-<a href="https://www.amazon.co.uk/gp/product/B07BY2MM4L/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B07BY2MM4L&linkCode=as2&tag=jackhighbowls-21&linkId=221174933a36c240ce4eb5653e558d8f" class="btn more"  target="_blank">See more</a>
+<a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338650038&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_from%3DR40%26_nkw%3Ddrakes%2Bpride%2Bprofessional%2Bbowls%26_sacat%3D117103%26_sop%3D1" class="btn more"  target="_blank">See more</a>
 
 Drakes Pride is such a mainstay of the bowls world that they actually appear twice on this list! The Professional model is the most popular of all the Drakes Pride models and is a great option for outdoor bowlers. Whilst it doesn't have such a narrow line as the d-tec, it is designed specifically for outdoor play, so will play better on heavier, early season greens.
 
@@ -93,7 +93,7 @@ As this model was designed for general outdoor play it does have a hooked finish
 
 ## Taylor Vector VS
 
-<a href="https://www.amazon.co.uk/gp/product/B07J65XHNH/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B07J65XHNH&linkCode=as2&tag=jackhighbowls-21&linkId=557db82f901a42b6c37cf02416e9f52b" class="btn more"  target="_blank">See more</a>
+<a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338508612&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_sop%3D1%26_osacat%3D117103%26_odkw%3Dtaylor%2Bace%2Bbowls%26_from%3DR40%26_trksid%3Dp2334524.m570.l2632.R2.TR2.TRC1.A0.H0.Xtaylor%2Bvector%2Bvs%2Bbowls.TRS0%26_nkw%3Dtaylor%2Bvector%2Bvs%2Bbowls%26_sacat%3D117103" class="btn more"  target="_blank">See more</a>
 
 With a clean, narrow line and a smooth finish, you’d do well to find a better lead bowl than the Taylor Vector VS. You can read our full review of the Vector VS here.
 
@@ -107,7 +107,7 @@ The Vector VS comes in at a slightly higher price point, so could be considered 
 
 ## Aero Quantum
 
-<a href="" class="btn more"  target="_blank">See more</a>
+<a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338542401&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2F117104%2Fi.html%3F_sop%3D1%26_from%3DR40%26_nkw%3DAero%2BQuantum%2Blawn%2Bbowls" class="btn more"  target="_blank">See more</a>
 
 Next we have another outdoor specialist. The Quantum is one of Aero’s midline models, so is perfect for those tricky early season greens. Despite not being as narrow as some of the other bowls on our list, it does have a clean finish which will aid your lead play.
 
