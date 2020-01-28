@@ -11,13 +11,6 @@ description: "9 reasons to buy/NOT buy Drakes Pride PRO-50 lawn bowls"
 
 We spent 9 hours reading reviews from experts and users. In summary, this is what other bowlers think:
 
- reasons to buy:
-
-* 
-
- reasons to not buy:
-* 
-
 <div class="stars">
   <i class="fas fa-star"></i>
   <i class="fas fa-star"></i>
@@ -27,7 +20,7 @@ We spent 9 hours reading reviews from experts and users. In summary, this is wha
 </div>
 
 
-<a href=""  class="btn more"  target="_blank">See current deals</a>
+<a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338650038&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_from%3DR40%26_nkw%3Ddrakes%2Bpride%2Bprofessional%2Bbowls%26_sacat%3D117103%26_sop%3D1"  class="btn more"  target="_blank">See current deals</a>
 
 </div>
 
