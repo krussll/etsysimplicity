@@ -117,7 +117,7 @@ As long as the bowls don’t have any major chunks or gauges, they will be fine 
 
 Taylor Bowls offer a great selection on models for the beginner. If you are playing on faster greens the Blaze may be a good choice. If you plan on playing in multiple different positions (e.g. a number 2, or a skip) in the not-to-distant future the Ace is ideal.
 
-However, for its consistency and clean narrow line, we recommend the Vector VS. The Vetor VS is <a href="https://www.amazon.co.uk/gp/product/B07J65XHNH/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B07J65XHNH&linkCode=as2&tag=jackhighbowls-21&linkId=557db82f901a42b6c37cf02416e9f52b" class="btn more"  target="_blank">available on Amazon</a> for a great price, if you are interested.
+However, for its consistency and clean narrow line, we recommend the Vector VS. The Vetor VS model are <a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338508612&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_sop%3D1%26_osacat%3D117103%26_odkw%3Dtaylor%2Bace%2Bbowls%26_from%3DR40%26_trksid%3Dp2334524.m570.l2632.R2.TR2.TRC1.A0.H0.Xtaylor%2Bvector%2Bvs%2Bbowls.TRS0%26_nkw%3Dtaylor%2Bvector%2Bvs%2Bbowls%26_sacat%3D117103" class="btn more"  target="_blank">available on eBay</a> for a great price, if you are interested.
 
 #### Henselite 
 
