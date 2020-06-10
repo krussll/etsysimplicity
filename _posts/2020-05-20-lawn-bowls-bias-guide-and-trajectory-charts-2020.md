@@ -24,6 +24,9 @@ Aero has specific models designed for indoor and outdoor greens, as well as a co
 
 For this purpose we have split Aero models into two separate charts. You will find both GrooVe and Quantum models on each chart, playing wider on indoor rinks, and narrower on outdoor rinks.
 
+<img src="/assets/images/aero-outdoor-uk-trajectory-guide-2020.png" height="200px" />
+<img src="/assets/images/aero-indoor-uk-trajectory-guide-2020.png" height="200px" />
+
 
 On the draw shot every Aero Model starts to turn approximately halfway between the mat and the jack.
 
@@ -33,8 +36,14 @@ Drakes Pride models can be played both indoor and outdoor, with the exception of
 
 The wider trajectory makes this perfect for play as a skip, or for playing on heavy early season greens.
 
+
+<img src="/assets/images/drakes-pride-trajectory-guide-2020.png" height="200px" />
+
 ## Taylor trajectory chart
 
 Taylor offer a wide range of models. Whilst they don't explicitly split their models between indoor and outdoor, we would recommend not going beyond and Ace for indoor play. You may be able to play with a Vector VS on an outdoor rink, however this will be on the narrow side.
+
+
+<img src="/assets/images/thomas-taylor-trajectory-guide-2020.png" height="200px" />
 
 
