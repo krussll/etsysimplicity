@@ -17,6 +17,11 @@ Trajectory guides are essential to help make an informed decision on what model 
 
 Many bowlers have a preference for a specific brand, so we have split our charts accordingly. Below you will find a chart for each of the major UK brands - Aero, Drakes Pride and Taylor.
 
+Before we look at the different charts, lets review what bias is, and how it works.
+
+## Lawn bowls bias explained
+
+Lawn bowls are not perfectly round. One side will be slightly heavier than the other, leading the bowl to curve in that direction. A bias can be manipulated by a manufacture to give a specific trajectory, depending on the goal of the player.
 
 ## Aero trajectory chart
 
