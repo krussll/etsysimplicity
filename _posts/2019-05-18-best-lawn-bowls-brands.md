@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "7 Best lawn bowls brands 2019"
+title:  "7 Best lawn bowls brands 2020"
 author: reece
 categories: [ guide ]
 image: assets/images/best-lawn-bowls-brands.jpeg
-description: "What are the best lawn bowls brands in 2019? Which brands should you be using?"
+description: "What are the best lawn bowls brands in 2020? Which brands should you be using?"
 ---
 
 ## #7 Dek
