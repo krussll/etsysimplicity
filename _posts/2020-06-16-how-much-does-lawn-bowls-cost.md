@@ -3,7 +3,7 @@ layout: post
 title:  "How much does lawn bowls cost?"
 author: reece
 categories: [ help ]
-image: assets/images/how-much-does-lawn-bowls-cost.jpg
+image: "assets/images/how-much-does-lawn-bowls-cost.jpg"
 description: "Is lawn bowls expensive? How much do I need to start playing lawn bowls? This cost guide will tell you how much you will need as a beginner"
 ---
 
