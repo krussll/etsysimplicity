@@ -9,14 +9,15 @@ jQuery(function () {
     console.log('data loaded')
     console.log(loaded_data)
     var idx = lunr(function () {
-      this.field('title');
-      this.field('content', { boost: 10 });
-      this.field('author');
-      this.field('categories');
+      lunrRef = this
+      lunrRef.field('title');
+      lunrRef.field('content', { boost: 10 });
+      lunrRef.field('author');
+      lunrRef.field('categories');
       
       $.each(loaded_data, function(index, value){
-        this.add(value);
-      }, this);   
+        lunrRef.add(value);
+      }, lunrRef);   
     });
     console.log('doing test search')
     var results = idx.search('reece'); // Get lunr to perform a search
