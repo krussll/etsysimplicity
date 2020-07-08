@@ -15,4 +15,3 @@ title: Search
 
 <ul id="search_results"></ul>
 
-<script src="{{ site.baseurl }}/assets/js/search.js"></script>
