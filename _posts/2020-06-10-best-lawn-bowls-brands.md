@@ -59,10 +59,12 @@ Aero can be considered one of the big names in world bowls, and rightly so.
 
 <div class="overview">
   
+  {% markdown %}
   ### Related Articles
   
   * <a href="/guide/used-aero-bowls-for-sale" target="_blank">Used Aero bowls for sale</a>
   * <a href="/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020" target="_blank">Lawn bowls bias guide and trajectory charts</a>
+  {% endmarkdown %}
   
 </div> 
 
