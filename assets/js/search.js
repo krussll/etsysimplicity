@@ -10,6 +10,7 @@ jQuery(function () {
     console.log(loaded_data)
     var idx = lunr(function () {
       lunrRef = this
+      lunrRef.ref('ref');
       lunrRef.field('title');
       lunrRef.field('content', { boost: 10 });
       lunrRef.field('author');
