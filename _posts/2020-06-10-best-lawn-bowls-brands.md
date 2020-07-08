@@ -14,6 +14,12 @@ I've added them to this list as they offer great value. They stick to what they 
 
 It's great having the premium brands that go above and beyond, as well as those who push the boundaries of technology. However, there is always space for a brand that does the basics well.
 
+<div class="overview">
+  
+  * <a href="/review/shoes/dek-unisex-bowls-shoes-review">Dek Unisex Bowls Shoes Review</a>
+  
+</div> 
+
 ## #6 Acclaim
 
 Acclaim are much like Dek, in so much as they do one thing and they do it well. Acclayare well known for their superior bowls bags.
