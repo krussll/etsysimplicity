@@ -7,7 +7,7 @@ jQuery(function () {
   // Wait for the data to load and add it to lunr
   const idx = window.data.then(function(loaded_data) {
     console.log(loaded_data)
-    return lunr(function () {
+    var idx = lunr(function () {
       this.field('title');
       this.field('content', { boost: 10 });
       this.field('author');
@@ -17,6 +17,9 @@ jQuery(function () {
         this.add(value);
       }, this);   
     });
+    
+    var results = idx.search('dek'); // Get lunr to perform a search
+    console.log(results)
   });
   
 
