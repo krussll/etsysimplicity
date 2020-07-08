@@ -11,7 +11,9 @@ jQuery(function () {
       this.field('content', { boost: 10 });
       this.field('author');
       this.field('categories');
-      this.add(loaded_data);      
+      loaded_data.forEach(function (doc) {
+        this.add(doc)
+      }, this)     
     });
   });
   
