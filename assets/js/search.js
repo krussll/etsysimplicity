@@ -5,17 +5,18 @@ jQuery(function() {
 
     console.log('loading data')
   // Wait for the data to load and add it to lunr
-  window.data.then(function(loaded_data) {
+  const blogData = await window.data.then(function(loaded_data) {
     console.log('data loaded')
-    // Initialize lunr with the fields to be searched, plus the boost.
-    const idx = lunr(function () {
+    return loaded_data
+  });
+  
+  const idx = lunr(function () {
       this.field('title');
       this.field('content', { boost: 10 });
       this.field('author');
       this.field('categories');
-      this.add(loaded_data);      
+      this.add(blogData);      
     });
-  });
 
   // Event when the form is submitted
   $("#site_search").submit(function(event){
