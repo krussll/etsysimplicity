@@ -9,7 +9,6 @@ jQuery(function() {
     console.log('data loaded')
     // Initialize lunr with the fields to be searched, plus the boost.
     var idx = lunr(function () {
-      this.field('id');
       this.field('title');
       this.field('content', { boost: 10 });
       this.field('author');
