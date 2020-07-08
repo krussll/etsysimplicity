@@ -10,6 +10,8 @@ jQuery(function () {
     return loaded_data
   });
   
+  console.log('build lunr')
+  console.log(blogData)
   const idx = lunr(function () {
       this.field('title');
       this.field('content', { boost: 10 });
