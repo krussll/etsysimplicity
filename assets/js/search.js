@@ -1,22 +1,23 @@
 jQuery(function() {
-  // Initialize lunr with the fields to be searched, plus the boost.
-  window.idx = lunr(function () {
-    this.field('id');
-    this.field('title');
-    this.field('content', { boost: 10 });
-    this.field('author');
-    this.field('categories');
-  });
 
   // Get the generated search_data.json file so lunr.js can search it locally.
   window.data = $.getJSON('/search_data.json');
 
   // Wait for the data to load and add it to lunr
   window.data.then(function(loaded_data){
-    $.each(loaded_data, function(index, value){
-      window.idx.add(
-        $.extend({ "id": index }, value)
-      );
+    
+    // Initialize lunr with the fields to be searched, plus the boost.
+    window.idx = lunr(function () {
+      this.field('id');
+      this.field('title');
+      this.field('content', { boost: 10 });
+      this.field('author');
+      this.field('categories');
+      $.each(loaded_data, function(index, value){
+        this.add(
+          $.extend({ "id": index }, value)
+        );
+      });      
     });
   });
 
