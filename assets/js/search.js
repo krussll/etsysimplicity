@@ -1,11 +1,11 @@
-jQuery(async function () {
+jQuery(function () {
 
   // Get the generated search_data.json file so lunr.js can search it locally.
   window.data = $.getJSON('/search_data.json');
 
     console.log('loading data')
   // Wait for the data to load and add it to lunr
-  const blogData = await window.data.then(function(loaded_data) {
+  const blogData = window.data.then(function(loaded_data) {
     console.log('data loaded')
     return loaded_data
   });
