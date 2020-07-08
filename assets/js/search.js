@@ -17,8 +17,8 @@ jQuery(function () {
         this.add(value);
       }, this);   
     });
-    
-    var results = idx.search('dek'); // Get lunr to perform a search
+    console.log('doing test search')
+    var results = idx.search('reece'); // Get lunr to perform a search
     console.log(results)
   });
   
