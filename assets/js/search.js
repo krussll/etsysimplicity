@@ -12,9 +12,10 @@ jQuery(function () {
       this.field('content', { boost: 10 });
       this.field('author');
       this.field('categories');
-      loaded_data.parse().forEach(function (doc) {
-        this.add(doc)
-      }, this)     
+      
+      $.each(loaded_data, function(index, value){
+        this.add(value);
+      }, this);   
     });
   });
   
