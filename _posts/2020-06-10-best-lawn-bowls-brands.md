@@ -14,7 +14,7 @@ I've added them to this list as they offer great value. They stick to what they 
 
 It's great having the premium brands that go above and beyond, as well as those who push the boundaries of technology. However, there is always space for a brand that does the basics well.
 
-<div class="overview">
+<div class="overview"  markdown="1">
   
   ### Related Articles
   
