@@ -1,4 +1,4 @@
-jQuery(function() {
+jQuery(function async () {
 
   // Get the generated search_data.json file so lunr.js can search it locally.
   window.data = $.getJSON('/search_data.json');
