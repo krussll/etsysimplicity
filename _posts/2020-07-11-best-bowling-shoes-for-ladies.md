@@ -23,7 +23,7 @@ description: "Which bowls shoes are the best? Check out our list of the 6 best a
     <tr>
       <td>Dek</td>
       <td>Lace Up</td>
-      <td>£20-£35  </td>
+      <td>£20-£35</td>
       <td><a href="https://www.amazon.co.uk/gp/product/B06Y67P3FT/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B06Y67P3FT&linkCode=as2&tag=jackhighbowls-21&linkId=042db14bdeee0de79298b6272cab8ccd" class="btn more"  target="_blank">See more</a></td>
     </tr>
     <tr>
