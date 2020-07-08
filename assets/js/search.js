@@ -23,6 +23,25 @@ jQuery(function () {
     console.log('doing test search')
     var results = idx.search('reece'); // Get lunr to perform a search
     console.log(results)
+    
+    var $search_results = $("#search_results");
+    if (results.length) {
+        $search_results.empty(); // Clear any old results
+
+        // Iterate over the results
+        results.forEach(function(result) {
+          var item = loaded_data[result.ref];
+
+          // Build a snippet of HTML for this result
+          var appendString = '<li><a href="' + item.url + '">' + item.title + '</a></li>';
+
+          // Add the snippet to the collection of results.
+          $search_results.append(appendString);
+        });
+      } else {
+        // If there are no results, let the user know.
+        $search_results.html('<li>No results found.<br/>Please check spelling</li>');
+      }
   });
 
   function display_search_results(results) {
