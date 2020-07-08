@@ -6,6 +6,7 @@ jQuery(function () {
     console.log('loading data')
   // Wait for the data to load and add it to lunr
   window.data.then(function(loaded_data) {
+    console.log('data loaded')
     console.log(loaded_data)
     var idx = lunr(function () {
       this.field('title');
