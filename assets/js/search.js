@@ -6,12 +6,13 @@ jQuery(function () {
     console.log('loading data')
   // Wait for the data to load and add it to lunr
   const idx = window.data.then(function(loaded_data) {
+    console.log(loaded_data)
     return lunr(function () {
       this.field('title');
       this.field('content', { boost: 10 });
       this.field('author');
       this.field('categories');
-      loaded_data.forEach(function (doc) {
+      loaded_data.parse().forEach(function (doc) {
         this.add(doc)
       }, this)     
     });
