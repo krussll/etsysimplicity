@@ -6,9 +6,6 @@ jQuery(function () {
     console.log('loading data')
   // Wait for the data to load and add it to lunr
   const idx = window.data.then(function(loaded_data) {
-    console.log('data loaded')
-    console.log('build lunr')
-    
     return lunr(function () {
       this.field('title');
       this.field('content', { boost: 10 });
@@ -19,9 +16,11 @@ jQuery(function () {
   });
   
 
+    console.log(idx)
   // Event when the form is submitted
   $("#site_search").submit(function(event){
       event.preventDefault();
+    console.log(idx)
       var query = $("#search_box").val(); // Get the value for the text field
       var results = idx.search(query); // Get lunr to perform a search
       display_search_results(results); // Hand the results off to be displayed
