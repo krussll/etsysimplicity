@@ -5,20 +5,19 @@ jQuery(function () {
 
     console.log('loading data')
   // Wait for the data to load and add it to lunr
-  const blogData = window.data.then(function(loaded_data) {
+  const idx = window.data.then(function(loaded_data) {
     console.log('data loaded')
-    return loaded_data
-  });
-  
-  console.log('build lunr')
-  console.log(blogData)
-  const idx = lunr(function () {
+    console.log('build lunr')
+    
+    return lunr(function () {
       this.field('title');
       this.field('content', { boost: 10 });
       this.field('author');
       this.field('categories');
-      this.add(blogData);      
+      this.add(loaded_data);      
     });
+  });
+  
 
   // Event when the form is submitted
   $("#site_search").submit(function(event){
