@@ -15,4 +15,4 @@ title: Search
 
 <ul id="search_results"></ul>
 
-<script defer src="{{ site.baseurl }}/assets/js/search.js"></script>
+<script src="{{ site.baseurl }}/assets/js/search.js"></script>
