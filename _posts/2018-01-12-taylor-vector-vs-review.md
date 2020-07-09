@@ -17,7 +17,7 @@ Overview: The Taylor Vector VS are a premium, narrow lined bowl. Ideal for indoo
 
 <p>
   
-Price: £80-£120 (used)
+Price: £279.90 (£80-£120 used)
 
 </p>
 
