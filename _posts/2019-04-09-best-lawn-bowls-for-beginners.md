@@ -26,13 +26,13 @@ description: "What are the best lawn bowls for beginners? We break down the most
       <td>Drakes Pride</td>
       <td>Professional</td>
       <td>£50-£120 (used)</td>
-      <td><a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338650038&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_from%3DR40%26_nkw%3Ddrakes%2Bpride%2Bprofessional%2Bbowls%26_sacat%3D117103%26_sop%3D1" class="btn more"  target="_blank">See more</a></td>
+      <td><a href="https://www.amazon.co.uk/gp/product/B005MI2YE0/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B005MI2YE0&linkId=fb5c41c051c9e6b228526c411ebe6742" class="btn more"  target="_blank">See more</a></td>
     </tr>
     <tr>
       <td>Taylor</td>
       <td>Vector VS</td>
       <td>£80-£120 (used)</td>
-      <td><a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338508612&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_sop%3D1%26_osacat%3D117103%26_odkw%3Dtaylor%2Bace%2Bbowls%26_from%3DR40%26_trksid%3Dp2334524.m570.l2632.R2.TR2.TRC1.A0.H0.Xtaylor%2Bvector%2Bvs%2Bbowls.TRS0%26_nkw%3Dtaylor%2Bvector%2Bvs%2Bbowls%26_sacat%3D117103" class="btn more"  target="_blank">See more</a></td>
+      <td><a href="https://www.amazon.co.uk/gp/product/B07YXT8JNG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B07YXT8JNG&linkId=aaacdf1052d99758560d3703fcbf8cd4" class="btn more"  target="_blank">See more</a></td>
     </tr>
     <tr>
       <td>Aero</td>
@@ -117,17 +117,5 @@ As long as the bowls don’t have any major chunks or gauges, they will be fine 
 
 Taylor Bowls offer a great selection on models for the beginner. If you are playing on faster greens the Blaze may be a good choice. If you plan on playing in multiple different positions (e.g. a number 2, or a skip) in the not-to-distant future the Ace is ideal.
 
-However, for its consistency and clean narrow line, we recommend the Vector VS. The Vetor VS model are <a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338508612&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_sop%3D1%26_osacat%3D117103%26_odkw%3Dtaylor%2Bace%2Bbowls%26_from%3DR40%26_trksid%3Dp2334524.m570.l2632.R2.TR2.TRC1.A0.H0.Xtaylor%2Bvector%2Bvs%2Bbowls.TRS0%26_nkw%3Dtaylor%2Bvector%2Bvs%2Bbowls%26_sacat%3D117103" class="btn more"  target="_blank">available on eBay</a> for a great price, if you are interested.
+However, for its consistency and clean narrow line, we recommend the Vector VS. The Vetor VS model are <a href="https://www.amazon.co.uk/gp/product/B07YXT8JNG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B07YXT8JNG&linkId=aaacdf1052d99758560d3703fcbf8cd4" class="btn more"  target="_blank">available on Amazon</a> for a great price, if you are interested.
 
-#### Henselite 
-
-* Dreamline
-* Tiger II
-* Classic II
-
-#### Drakes Pride 
-
-* Professional
-* PRO-50
-
- 
