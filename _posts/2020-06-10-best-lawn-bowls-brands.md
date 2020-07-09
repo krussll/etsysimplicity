@@ -18,7 +18,7 @@ It's great having the premium brands that go above and beyond, as well as those 
   
   <h3>Related Articles</h3>
   
-  * <a href="/review/shoes/dek-unisex-bowls-shoes-review" target="_blank">Dek Unisex Bowls Shoes Review</a>
+  * <a href="/review/shoes/dek-unisex-bowls-shoes-review">Dek Unisex Bowls Shoes Review</a>
   
 </div> 
 
@@ -34,7 +34,7 @@ They cover all styles and tastes and are truly masters of their field.
   
   <h3>Related Articles</h3>
   
-  * <a href="/guide/best-wheeled-trolleys" target="_blank">Best Wheeled Trolleys for Lawn Bowls 2020</a>
+  * <a href="/guide/best-wheeled-trolleys">Best Wheeled Trolleys for Lawn Bowls 2020</a>
   
 </div> 
 
@@ -61,8 +61,8 @@ Aero can be considered one of the big names in world bowls, and rightly so.
   
   <h3>Related Articles</h3>
   
-  * <a href="/guide/used-aero-bowls-for-sale" target="_blank">Used Aero bowls for sale</a>
-  * <a href="/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020" target="_blank">Lawn bowls bias guide and trajectory charts</a>
+  * <a href="/guide/used-aero-bowls-for-sale">Used Aero bowls for sale</a>
+  * <a href="/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020">Lawn bowls bias guide and trajectory charts</a>
   
 </div> 
 
@@ -82,10 +82,10 @@ The family run element of Taylor bowls is a huge factor when considering their e
   
   <h3>Related Articles</h3>
   
-  * <a href="/review/bowls/taylor-ace-review" target="_blank">Taylor Ace Review</a>
-  * <a href="/review/bowls/taylor-vector-vs-review" target="_blank">Taylor Vector VS Review</a>
-  * <a href="/review/bowls/taylor-legacy-sl-review" target="_blank">Taylor Legacy SL Review</a>
-  * <a href="/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020" target="_blank">Lawn bowls bias guide and trajectory charts</a>
+  * <a href="/review/bowls/taylor-ace-review">Taylor Ace Review</a>
+  * <a href="/review/bowls/taylor-vector-vs-review">Taylor Vector VS Review</a>
+  * <a href="/review/bowls/taylor-legacy-sl-review">Taylor Legacy SL Review</a>
+  * <a href="/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020">Lawn bowls bias guide and trajectory charts</a>
   
 </div> 
 
@@ -99,10 +99,10 @@ Drakes Pride match their forward facing approach to other aspects of their range
   
   <h3>Related Articles</h3>
   
-  * <a href="/review/bowls/drakes-pride-professional-review" target="_blank">Drakes Pride Professional Review</a>
-  * <a href="/review/bowls/drakes-pride-d-tec-review" target="_blank">Drakes Pride d-tec Review</a>
-  * <a href="/review/bowls/drakes-pride-pro-50-review" target="_blank">Drakes Pride PRO-50 Review</a>
-  * <a href="/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020" target="_blank">Lawn bowls bias guide and trajectory charts</a>
+  * <a href="/review/bowls/drakes-pride-professional-review">Drakes Pride Professional Review</a>
+  * <a href="/review/bowls/drakes-pride-d-tec-review">Drakes Pride d-tec Review</a>
+  * <a href="/review/bowls/drakes-pride-pro-50-review">Drakes Pride PRO-50 Review</a>
+  * <a href="/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020">Lawn bowls bias guide and trajectory charts</a>
   
 </div> 
 
@@ -124,8 +124,8 @@ Now overseen by the 4th generation of Hensell's Henselite is the biggest manufac
   
   <h3>Related Articles</h3>
   
-  * <a href="/review/shoes/henselite-tiger-sport-bowls-shoes-review" target="_blank">Henselite Tiger Sport Bowls Shoes Review</a>
-  * <a href="/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020" target="_blank">Lawn bowls bias guide and trajectory charts</a>
+  * <a href="/review/shoes/henselite-tiger-sport-bowls-shoes-review">Henselite Tiger Sport Bowls Shoes Review</a>
+  * <a href="/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020">Lawn bowls bias guide and trajectory charts</a>
   
 </div> 
 
