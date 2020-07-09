@@ -29,7 +29,7 @@ Price: £80-£120 (used)
   <i class="fas fa-star"></i>
 </div>
 
-<a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338508612&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_sop%3D1%26_osacat%3D117103%26_odkw%3Dtaylor%2Bace%2Bbowls%26_from%3DR40%26_trksid%3Dp2334524.m570.l2632.R2.TR2.TRC1.A0.H0.Xtaylor%2Bvector%2Bvs%2Bbowls.TRS0%26_nkw%3Dtaylor%2Bvector%2Bvs%2Bbowls%26_sacat%3D117103" class="btn more"  target="_blank">See more</a>
+<a href="https://www.amazon.co.uk/gp/product/B07YXT8JNG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B07YXT8JNG&linkId=aaacdf1052d99758560d3703fcbf8cd4" class="btn more"  target="_blank">See more</a>
 
 </div>
 
@@ -61,4 +61,4 @@ The Vector VS comes in at a slightly higher price point, so could be considered 
 
 If you are a lead bowler who plays predominantly indoors, you'd be hard pushed to find a better bowl. With its clean narrow line you can make some real improvements in your draw.
 
-<a href="https://www.amazon.co.uk/gp/product/B07J65XHNH/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B07J65XHNH&linkCode=as2&tag=jackhighbowls-21&linkId=557db82f901a42b6c37cf02416e9f52b" class="btn more"  target="_blank">See more</a>
+<a href="https://www.amazon.co.uk/gp/product/B07YXT8JNG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B07YXT8JNG&linkId=aaacdf1052d99758560d3703fcbf8cd4" class="btn more"  target="_blank">View Deals</a>
