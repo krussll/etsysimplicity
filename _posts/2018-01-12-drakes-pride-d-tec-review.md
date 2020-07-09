@@ -17,7 +17,7 @@ Overview: The d-tec is one of the best narrow line bowls available. Ideal for ei
 
 <p>
   
-Price: £125.00 (used)
+Price: £289.99 (£125.00 used)
 
 </p>
 
@@ -29,7 +29,7 @@ Price: £125.00 (used)
   <i class="fas fa-star"></i>
 </div>
 
-<a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338508612&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2Fi.html%3F_sop%3D1%26_osacat%3D117104%26_odkw%3DAero%2BQuantum%2Blawn%2Bbowls%26_from%3DR40%26_trksid%3Dm570.l1313%26_nkw%3Ddrakes%2Bpride%2Bd-tec%2Blawn%2Bbowls%26_sacat%3D117104" class="btn more"  target="_blank">See more</a>
+<a href="https://www.amazon.co.uk/gp/product/B07VF5RJH8/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B07VF5RJH8&linkId=e5b90d4e6fd7c6bf5c239d43a275d8da" class="btn more"  target="_blank">See more</a>
 
 </div>
 
@@ -61,4 +61,4 @@ You can pick these bowls up in one of a number of different colours, our persona
 ## Overall Verdict
 Although it is marketed as “the ideal indoor bowl” it could quite easily be used outdoor if you require a slightly tighter line, if you are playing lead for example. I can highly recommend the d-tec bowl, with the only blemish being the lack of PR50 grip options.
 
-<a href="https://www.amazon.co.uk/gp/product/B01JOQBTNM/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01JOQBTNM&linkCode=as2&tag=jackhighbowls-21&linkId=c5a6a26de5112bf2308c36d6e917be1a" class="btn more"  target="_blank">See more</a>
+<a href="https://www.amazon.co.uk/gp/product/B07VF5RJH8/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B07VF5RJH8&linkId=e5b90d4e6fd7c6bf5c239d43a275d8da" class="btn more"  target="_blank">See more</a>
