@@ -45,7 +45,7 @@ The Taylor Ace black bowl is a fantastic mid biased bowl. Ideally suited for wid
 
 ## Facts
 
-Playing surface: Outdoor
+Playing surface: Indoor/Outdoor
 
 Line guide: mid-to-wide
 
@@ -67,6 +67,9 @@ It will be perfectly playable from any team position. It has a clean "hook free"
 
 
  The Taylor Ace is a great all-round bowl which offers a reliable line regardless of shot selection. This reliability makes the Ace ideal for beginners. It's very forgiving, unlike wider biased bowls (such as the Taylor Lignoid).
+ 
+ 
+<img src="/assets/images/thomas-taylor-trajectory-guide-2020.png" alt="Trajecotry guide/bias guide for Thomas Taylor lawn bowl models"  height="200px" />
 
 
 
@@ -74,7 +77,7 @@ It will be perfectly playable from any team position. It has a clean "hook free"
 
 Taylor offers all their models in the full range of sizes  (00 to 5) as well as a good selection of weights, including medium, heavy and extra heavy.
 
->> Great bowl,for indoor and outdoor playing.very pleased with them.
+>> Great bowl,for indoor and outdoor playing. Very pleased with them.
 >>
 >> Amazon verified customer
 
