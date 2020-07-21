@@ -77,11 +77,11 @@ Good places to find different bowls to try is either in your local bowls store (
 
 Which is best? It can sometimes be a bit like asking “how long is a piece of string”, however it will likely come down to two factors. Where you play your bowls, and what position you will be playing in.
 
-Firstly, will you be playing indoor or outdoor bowls? Often indoor rinks are much faster, which requires a narrower (i.e. a bowl that doesn’t swing as much) bowl. This will make controlling your line much easier. If you are playing outdoor yu will need a slightly wider biased bowl to contend with the slower, heavier greens e get in the UK - but do note that if you are lucky enough to be playing in sunnier climates you will find the greens to be as fast as indoor rinks, so narrower bowl will be best.
+Firstly, will you be playing indoor or outdoor bowls? Often indoor rinks are much faster, which requires a narrower (i.e. a bowl that doesn’t swing as much) bowl. This will make controlling your line much easier. If you are playing outdoor you will need a slightly wider biased bowl to contend with the slower, heavier greens you get in the UK - but do note that if you are lucky enough to be playing in sunnier climates you will find the greens to be as fast as indoor rinks, so narrower bowl will be best.
 
 Different positions in a bowls team will require different bowls. For example a lead will want to have a much narrower bowl, to help get a consistent line to draw to the jack, whereas a skip will want a much wider bias to help navigate through a busy head. That being said, you will often find yourself as a beginner playing in either the lead or number 2 position, as these roles help develop you line and weight, therefore a narrow to medium bias would be best
 
-So you know what type of model you want. Great! How do you know which model does what? Thankfully each manufacturer have their own “bias charts” (try googling a few brands and “bias chart” to see what we mean), this will give you a list of models to try.
+So you know what type of model you want. Great! How do you know which model does what? Thankfully each manufacturer have their own “bias charts”. You can see our list of <a href="/guide/lawn-bowls-bias-guide-and-trajectory-charts-2020">bias charts for all major brands here</a>, this will give you a list of models to try.
 
 Finally, it comes down to personal preference. Get down your club and ask around. Also see below for our full list of recommended models!
 
