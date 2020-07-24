@@ -32,6 +32,8 @@ A good grip enhancer helps with both these issues. They provide a solid, reliabl
 
 ### Grip-it Cloth
 
+<a href="https://www.amazon.co.uk/gp/product/B07HQSSMLH/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B07HQSSMLH&linkId=14bae9b7b748392b500ef8286fa8058a"  class="btn more"  target="_blank">See current deals</a>
+
 Grip-It is a “tackifying cloth”, which you keep in your pocket when you play. If you are having trouble with your grip you simply rub it between your fingers. 
 
 Its main benefit is that it’s mess free. Many other products require rubbing wax onto your bowls, which can get everywhere. Not nice!
@@ -46,6 +48,7 @@ Grip-It is also great for indoor bowls. Many clubs ban the use of bowl polishers
 
 ### Grippo
 
+<a href="https://www.amazon.co.uk/gp/product/B004UQV7YS/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B004UQV7YS&linkId=94116a280d33baff3a73915f3c5d616c"  class="btn more"  target="_blank">See current deals</a>
 
 Grippo is produced by Henselite, and is currently the most popular bowls polish in the world. When used regularly it can help keep your bowls in great shape, as well as providing some tackiness to help with your grip.
 
@@ -59,6 +62,8 @@ It isn’t advisable to use Grippo if you play indoors as this is a polishing pr
 
 ### Crack-A-Jack Wax
 
+<a href="https://www.amazon.co.uk/gp/product/B0027Y62KO/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B0027Y62KO&linkId=499566ac22901d2a99d98cba7960345e"  class="btn more"  target="_blank">See current deals</a>
+
 Crack-A-Jack is another popular bowls polish. Made by Drake’s Pride, it comes in a small yellow tube and can be applied to the bowl with a clean cloth.
 
 Unlike Grippo, Crack-A-Jack is only available in tubs which can lead to a bit of a mess when you try and get some onto a cloth. All that aside, Crack-A-Jack is ideal for any outdoor bowler.
@@ -69,6 +74,8 @@ Again, we must note that this is a bowls polish, so will be restricted to outdoo
 >> Amazon verified customer
 
 ### Bulldog Bowls Grip Wax
+
+<a href="https://www.amazon.co.uk/Henselite-Bulldog-Sports-Grip/dp/B07HB4SCZ3/ref=as_li_ss_tl?dchild=1&keywords=Bulldog+Bowls+Grip+Wax&qid=1595588930&sr=8-1-fkmr0&linkCode=ll1&tag=jackhighbow0a-21&linkId=a1a649b1ee01ac8f8a1c27b3cdf8c1b6"  class="btn more"  target="_blank">See current deals</a>
 
 These are small blocks that you keep in your pocket as you play. Simply soften one up in your hands, and then roll it between your fingers. This leaves a thin layer over your fingers to help grip the bowl.
 
