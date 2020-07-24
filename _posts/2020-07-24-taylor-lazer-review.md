@@ -3,7 +3,7 @@ layout: post
 title:  "Taylor Lazer Review"
 author: reece
 categories: [ review, bowls ]
-image: assets/images/taylor-lazer-review.jpeg
+image: assets/images/taylor-lazer-review.jpg
 description: "6 reasons to buy/NOT buy Taylor Lazer lawn bowls"
 ---
 
