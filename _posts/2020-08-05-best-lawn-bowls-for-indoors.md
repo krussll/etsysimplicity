@@ -3,7 +3,7 @@ layout: post
 title:  "Best Lawn Bowls for Indoors"
 author: reece
 categories: [ guide ]
-image: assets/images/best-bowls-for-leads.jpg
+image: assets/images/best-lawn-bowls-for-indoors.jpeg
 description: "What are the best rated lawn bowls woods for indoor carpets? Check out our top 6. Are yours on the list?"
 ---
 
