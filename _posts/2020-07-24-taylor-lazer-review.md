@@ -62,7 +62,7 @@ The Taylor Lazer Bowl has the narrowest running bias in the Taylor range, this m
 
 The line profile is on the narrow side, even in indoor rinks, so lends itself more towards lead play, but is perfectly playable in any team position.
 
-<img src="/assets/images/thomas-taylor-trajectory-guide-2020.png" alt="Trajecotry guide/bias guide for Thomas Taylor lawn bowl models"  height="200px" />
+<img src="/assets/images/thomas-taylor-trajectory-guide-2020.png" alt="Trajectory guide/bias guide for Thomas Taylor lawn bowl models"  height="200px" />
 
 
 ## Sizes and Weights
