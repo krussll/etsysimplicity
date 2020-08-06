@@ -33,6 +33,10 @@ We spent  8.5 hours reading reviews from experts and users. In summary, this is 
   <i class="fas fa-star"></i>
 </div>
 
+<a href="https://www.amazon.co.uk/gp/product/B07L5NC66P/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B07L5NC66P&linkId=914744cf2972eafc0cd25405c1cbfcc8"  class="btn more"  target="_blank">See current deals</a>
+
+</div>
+
 ## Bottom line
 A bowl designed specifically for outdoor play. If you have used the Professional model before, you will find the feel of the XP very familiar. Fantastic option for those moving to higher level singles play, or for those who regularly play skip in triples/4 wood.
 
