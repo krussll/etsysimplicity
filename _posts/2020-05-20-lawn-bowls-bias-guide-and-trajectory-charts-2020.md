@@ -23,7 +23,7 @@ Before we look at the different charts, lets review what bias is, and how it wor
 
 Lawn bowls are not perfectly round. One side will be slightly heavier than the other, leading the bowl to curve in that direction. A bias can be manipulated by a manufacture to give a specific trajectory, depending on the goal of the player.
 
-## Aero trajectory chart
+## Aero bowls bias chart
 
 Aero has specific models designed for indoor and outdoor greens, as well as a couple of models  overlapping both.
 
@@ -35,7 +35,7 @@ For this purpose we have split Aero models into two separate charts. You will fi
 
 On the draw shot every Aero Model starts to turn approximately halfway between the mat and the jack.
 
-## Drakes Pride trajectory chart
+## Drakes Pride bowls bias chart
 
 Drakes Pride models can be played both indoor and outdoor, with the exception of the XP model.
 
@@ -44,7 +44,7 @@ The wider trajectory makes this perfect for play as a skip, or for playing on he
 
 <img src="/assets/images/drakes-pride-trajectory-guide-2020.png" alt="Trajecotry guide/bias guide for Drakes Pride lawn bowl models"  height="200px" />
 
-## Taylor trajectory chart
+## Taylor Bowls bias chart
 
 Taylor offer a wide range of models. Whilst they don't explicitly split their models between indoor and outdoor, we would recommend not going beyond and Ace for indoor play. You may be able to play with a Vector VS on an outdoor rink, however this will be on the narrow side.
 
