@@ -861,3 +861,7 @@ iframe {
     .form-group .col-md-6:first-child {   margin-bottom: 1rem;}
     
 }
+
+.content__monkeyRewards {
+	display: none;
+}
