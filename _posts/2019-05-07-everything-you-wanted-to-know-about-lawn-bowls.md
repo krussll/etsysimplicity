@@ -29,7 +29,11 @@ Bowls do need to be “stamped” every couple of years if you want to compete a
 
 ## What is the best brand of lawn bowls?
 
-The 4 major brands of lawn bowls are Aero, Drakes Pride, Thomas Taylor, and Henselite. These 4 brands produce nearly all of the lawn bowls sold Worldwide. The best one will come down to personal preference.
+The best lawn bowls brands are Aero, Drakes Pride, Thomas Taylor, and Henselite. These 4 brands produce nearly all of the lawn bowls sold Worldwide. Aero and Henselite are the best brands found in Australia, whereas Drakes Pride and Thmas Taylor are the best UK brands.
 
 If you want to find out more about what brands and models suit you, check out our <a href="/review">lawn bowl reviews</a>, otherwise, you can see our <a href="/guide/best-lawn-bowls-brands">top lawn bowls brands of 2020</a>.
+
+## How long to lawn bowls last?
+
+Lawn bowls, if cared for correctly, can last 20-30 years - if not longer. Lawn bowls can be put through a process called "stamping", which is a series of tests and repairs. You can see when a bowl was last "stamped" by looking at the markings on the bowl. 
 
