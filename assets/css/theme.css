@@ -873,3 +873,9 @@ iframe {
 #mc_embed_signup form {
 	padding: 0 !important;
 }
+
+#mc-embedded-subscribe {
+background-color: #675bff;
+    border-color: #675bff;
+    float: right;
+}
