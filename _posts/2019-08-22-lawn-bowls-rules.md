@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Lawn bowls rules - for beginners"
+title:  "Lawn bowling rules - for beginners"
 categories: [ help ]
 author: reece
 image: assets/images/lawn-bowls-rules-for-beginners.jpg
 featured: true
-description: "Our guide for the rules of lawn bowls is aimed at beginners who just want the basics, without any extra complication. Read our guide, get out on the greens and get playing."
+description: "Our guide for the rules of lawn bowls is aimed at beginners who just want the basics of lawn bowling, without any extra complication. Read our guide, get out on the greens and get playing."
 ---
 
 The best way to learn lawn bowls is by playing it. Here is our rundown of the basic rules of the game, once you understand these you can get out into the greens and learn the rest as you go!
 
 ## The Object
 
-The aim of bowls is to roll your bowl as close to a smaller white ball (known as the jack) as possible
+The aim of lawn bowling is to roll your bowl as close to a smaller white ball (known as the jack) as possible
 You want to get one or more of your bowls closer to the jack than your opponent
 
 ## The Equipment
