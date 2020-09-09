@@ -875,7 +875,7 @@ iframe {
 }
 
 #mc-embedded-subscribe {
-background-color: #675bff;
-    border-color: #675bff;
+background-color: #675bff !important;
+    border-color: #675bff !important;
     float: right;
 }
