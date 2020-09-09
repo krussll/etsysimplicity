@@ -865,3 +865,7 @@ iframe {
 .content__monkeyRewards {
 	display: none;
 }
+
+#mc_embed_signup input.email {
+	width: 100% !important;
+}
