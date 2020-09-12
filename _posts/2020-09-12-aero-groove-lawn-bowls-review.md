@@ -56,6 +56,10 @@ Price: £356
 
 For comparison for those in the UK, the Groove has a line profile similar to the Taylor Ace.
 
+
+<img src="/assets/images/aero-outdoor-uk-trajectory-guide-2020.png" alt="Trajecotry guide/bias guide for Aero lawn bowl outdoor models" height="200px" />
+<img src="/assets/images/aero-indoor-uk-trajectory-guide-2020.png" alt="Trajecotry guide/bias guide for Aero lawn bowl indoor models"  height="200px" />
+
 It’s suitable for middle and back end playing positions on average indoor surfaces, and can easily be played from most outdoor positions - however it may be a tad narrow for skips who like to draw around short bowls, so would lean towards lead/front-end roles.
 
 Aero has designed their models to follow a unique arc trajectory. This “mid point” trajectory bends at the centre point between the mat and jack and is designed to give the most consistent draw arc possible.
@@ -80,16 +84,21 @@ Three unique grips only available with Aero:
 
 ### Z Scoop Grip
 
+<img src="/assets/images/z-scoop-grip-aero.png" alt="Aero Z Scoop Grip" height="200px" />
+
 The Z Scoop grip is Aero's unique grip offering. This is a grip embedded within the shoulder of the bowl. A small channel is carved out for the grip pattern to sit in. This means that your fingers will sit slightly within the bowl making it feel smaller. This feeling, paired with Aero's unique half sizes, means that many bowlers can play with a larger bowl.
 
 The pattern itself isn't just a generic dimple grip, but a zig zag design. If you are used to the classic grip patterns this may take some getting used to, but we think it's well worth the effort in adapting.
 
 ### Zig-Zag Grip
 
+<img src="/assets/images/zig-zag-grip-aero.png" alt="Aero Zig-Zag Grip" height="200px" />
 
 The Zig Zap grip option is the same design for the Z Scoop, but without the shoulder adjustment. This is a great choice for many bowlers, as the embedded shoulders don't work for everyone.
 
 ### Dentations Grip
+
+<img src="/assets/images/dentations-grip-aero.png" alt="Aero Dentations Grip" height="200px" />
 
 The Dentations Grip is a relatively new design from Aero, and we haven't seen anything like this from any other manufacturer! 
 
