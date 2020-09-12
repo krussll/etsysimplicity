@@ -73,7 +73,7 @@ When you buy directly from Taylor you will only be able to get their Premier gri
 
 ### The Premier Grip
 
-<img src="/assets/images/premier-grip-taylor.png" alt="Taylor Premier Grip" height="200px" />
+<img src="/assets/images/premier-grip-taylor.png" alt="Taylor Premier Grip" height="100px" />
 
 The premier grip is similar to a standard dimple grip found on most models, however the indents are a more oblong shape. 
 
@@ -81,7 +81,7 @@ Whilst this is the standard choice, if you buy from certain retailers you can ge
 
 ### The Progrip
 
-<img src="/assets/images/progrip-grip-taylor.png" alt="Taylor Progrip Grip" height="200px" />
+<img src="/assets/images/progrip-grip-taylor.png" alt="Taylor Progrip Grip" height="100px" />
 
 
 Until recently the Progrip was Taylor’s only premium grip. If you have come across the Ace or Vector VS models you may be familiar with it, as it comes as standard on these models.
@@ -92,7 +92,7 @@ It can cost upwards of £40 on new bowls, however, we think it is a solid invest
 
 ### The Xtreme Grip
 
-<img src="/assets/images/xtreme-grip-taylor.png" alt="Taylor Xtreme Grip" height="200px" />
+<img src="/assets/images/xtreme-grip-taylor.png" alt="Taylor Xtreme Grip" height="100px" />
 
 The Xtreme grip is new to Taylor in 2020. This is brought out to compete with the Aero Z-Scoop and the Drakes Pride PRO-50.
 
