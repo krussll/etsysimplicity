@@ -80,21 +80,20 @@ Three unique grips only available with Aero:
 
 ### Z Scoop Grip
 
+The Z Scoop grip is Aero's unique grip offering. This is a grip embedded within the shoulder of the bowl. A small channel is carved out for the grip pattern to sit in. This means that your fingers will sit slightly within the bowl making it feel smaller. This feeling, paired with Aero's unique half sizes, means that many bowlers can play with a larger bowl.
 
-The revolutionary Z Scoop® grip will make the bowl feel smaller in the hand as the grip sits in the bowl rather than around the bowl. This unique feature means that bowlers can now go up half a size, and ONLY Aero make a full range of half sizes. Going up a full size is a big step and is not something we suggest without contacting us for advice.
-The cleverly designed Z Scoop® grip enables bowlers to hold their bowl in the same way every time helping to ensure a smooth release on each delivery.
-It is particularly effective in wet conditions and it gives extra confidence and control when holding the bowl.
-
+The pattern itself isn't just a generic dimple grip, but a zig zag design. If you are used to the classic grip patterns this may take some getting used to, but we think it's well worth the effort in adapting.
 
 ### Zig-Zag Grip
 
 
-The registered design and perfectly placed ZIG ZAG grips give excellent reference for effective handling of the bowl without being too prominent on a bowlers fingers. The grip is designed wide, to suit those who place fingers on the top or sides of the bowl. In wet weather this cleverly designed grip assists in holding the bowl and the grip is chip proof. 
+The Zig Zap grip option is the same design for the Z Scoop, but without the shoulder adjustment. This is a great choice for many bowlers, as the embedded shoulders don't work for everyone.
 
 ### Dentations Grip
 
+The Dentations Grip is a relatively new design from Aero, and we haven't seen anything like this from any other manufacturer! 
 
+The Dentations Grip consists of three rings of dimple-like grips on each shoulder. We haven;t tried these yet, so we can't vouch for how they feel in the hand, however Aero say this grip offers great protection from the affects of wind. Again, as we haven't tried this out we can't say how much of an impact this might have on your game.
 
-This registered design was developed for wind control. Besides the stunning appearance, the first thing you notice is the feel…there’s nothing quite like it in the hand. The subtle but sure grip gives you maximum confidence. On the green, it is designed to deflect wind away from the bowl, thanks to the turbulent flow effect caused by the precision Aero Dentations.
+So, in conclusion the Aero Groove is a fantastic model, and one I believe will/should be seen far more often on British greens. We love it's even draw, as well as the boundry pushing colours and grips. We highly recommend you try these out in person, as they may not be to everyone's taste, but do give them a good go!
 
-Wind hits the Dentations and is directed away from the bowl. Much like the Zig Zag does in the Z Scoop® designed grip.
