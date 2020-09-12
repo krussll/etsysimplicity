@@ -17,8 +17,6 @@ We spent  8.5 hours reading reviews from experts and users. In summary, this is 
 * Innovative colour and grip choices
 
 
-
-
 1 reason to not buy:
 * Very small second hand market for Aero models, so you will have to buy new
 
