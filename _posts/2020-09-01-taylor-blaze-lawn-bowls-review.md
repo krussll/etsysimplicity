@@ -12,7 +12,7 @@ description: "6 reasons to buy/NOT buy Taylor Blaze lawn bowls"
 We spent  11.5 hours reading reviews from experts and users. In summary, this is what other bowlers think:
 
 4 reasons to buy:
-* Ideally suited to indoor players
+* Ideally suited to indoor players 
 * Can be played outdoors
 * Smooth, consistent draw line
 * Great brand with a history of making quality, and consistent bowls
