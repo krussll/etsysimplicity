@@ -33,7 +33,7 @@ The best lawn bowls brands are Aero, Drakes Pride, Thomas Taylor, and Henselite.
 
 If you want to find out more about what brands and models suit you, check out our <a href="/review">lawn bowl reviews</a>, otherwise, you can see our <a href="/guide/best-lawn-bowls-brands">top lawn bowls brands of 2020</a>.
 
-## How long to lawn bowls last?
+## How long do lawn bowls last?
 
 Lawn bowls, if cared for correctly, can last 20-30 years - if not longer. Lawn bowls can be put through a process called "stamping", which is a series of tests and repairs. You can see when a bowl was last "stamped" by looking at the markings on the bowl. 
 
