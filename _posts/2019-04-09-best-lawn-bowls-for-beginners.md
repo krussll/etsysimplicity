@@ -57,10 +57,10 @@ Buying lawn bowls isn’t cheap with an average set costing in the region of £2
 
 ## What size bowl to choose?
 
-Bowls come in a set one of eight standard sizes (00 - 6). This is the most important element of selecting your bowls, too large and you won’t be able to hold it properly, too small and you’ll see them flying all over the green.
-
-As a general rule of thumb, the gentlemen will often use a size between 3 and 5 - with 3 being the smaller size - and the ladies using 00 and 2, however the only way to find what works for you is to see how the different sizes feel in your hands.
+Bowls come in a set one of eight standard sizes (00 - 6). As a general rule of thumb, the gentlemen will often use a size between 3 and 5 - with 3 being the smaller size - and the ladies using 00 and 2, however the only way to find what works for you is to see how the different sizes feel in your hands.
  
+This is the most important element of selecting your bowls, too large and you won’t be able to hold it properly, too small and you’ll see them flying all over the green.
+
 Sizes are standard across all brands so you don’t need to worry about finding a specific brand to compare bowls.
 
 The tests you can try include:
@@ -106,14 +106,7 @@ As long as the bowls don’t have any major chunks or gauges, they will be fine 
 
 ## Recommended Models
 
-### Bowls best for outdoor bowls
-
-#### Taylor Bowls 
-
-* Lazer
-* Vector VS
-* Blaze
-* Ace
+### Taylor Vector VS
 
 Taylor Bowls offer a great selection on models for the beginner. If you are playing on faster greens the Blaze may be a good choice. If you plan on playing in multiple different positions (e.g. a number 2, or a skip) in the not-to-distant future the Ace is ideal.
 
