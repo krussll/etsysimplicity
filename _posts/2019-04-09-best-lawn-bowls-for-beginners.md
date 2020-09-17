@@ -111,7 +111,7 @@ As long as the bowls don’t have any major chunks or gauges, they will be fine 
 
 Taylor Bowls offer a great selection on models for the beginner. If you are playing on faster greens the Blaze may be a good choice. If you plan on playing in multiple different positions (e.g. a number 2, or a skip) in the not-to-distant future the Ace is ideal.
 
-However, for its consistency and clean narrow line, we recommend the Vector VS. The Vetor VS model are <a href="https://www.amazon.co.uk/gp/product/B07YXT8JNG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B07YXT8JNG&linkId=aaacdf1052d99758560d3703fcbf8cd4" class="btn more"  target="_blank">available on Amazon</a> for a great price, if you are interested.
+However, for its consistency and clean narrow line, we recommend the Vector VS. The Vetor VS model are <a href="https://www.amazon.co.uk/gp/product/B07YXT8JNG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B07YXT8JNG&linkId=aaacdf1052d99758560d3703fcbf8cd4" target="_blank">available on Amazon</a> for a great price, if you are interested.
 
 <div class="overview"  markdown="1">
   
@@ -130,7 +130,7 @@ However, for its consistency and clean narrow line, we recommend the Vector VS. 
 
 ### Drakes Pride Professional
 
-The Professional model is the perfect model for any bowler who wants a versatile bowl. It's just as comfortable on the indoor rinks as it is outdoors. With quality grip options and colours you can be guaranteed to find something to your tastes. The Professional is <a href="https://www.amazon.co.uk/gp/product/B005MI2YE0/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B005MI2YE0&linkId=fb5c41c051c9e6b228526c411ebe6742" class="btn more"  target="_blank">also available on Amazon</a>
+The Professional model is the perfect model for any bowler who wants a versatile bowl. It's just as comfortable on the indoor rinks as it is outdoors. With quality grip options and colours you can be guaranteed to find something to your tastes. The Professional is <a href="https://www.amazon.co.uk/gp/product/B005MI2YE0/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B005MI2YE0&linkId=fb5c41c051c9e6b228526c411ebe6742" target="_blank">also available on Amazon</a>
 
 <div class="overview"  markdown="1">
   
@@ -149,7 +149,7 @@ The Professional model is the perfect model for any bowler who wants a versatile
 
 ### Aero Quantum
 
-We are huge fans of Aero bowls. They have a wide range of bowls for all environments and ability types, however we believe the Quantum has the best scope for a beginner. The Quantum will play narrow on outdoor rinks, making it ideal for lead players. It is also perfect for indoor bowls, making it duel purpose. Aero bowls are on the expensive side, so we would recommend finding a set <a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338542401&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2F117104%2Fi.html%3F_sop%3D1%26_from%3DR40%26_nkw%3DAero%2BQuantum%2Blawn%2Bbowls" class="btn more"  target="_blank">on eBay second hand</a>.
+We are huge fans of Aero bowls. They have a wide range of bowls for all environments and ability types, however we believe the Quantum has the best scope for a beginner. The Quantum will play narrow on outdoor rinks, making it ideal for lead players. It is also perfect for indoor bowls, making it duel purpose. Aero bowls are on the expensive side, so we would recommend finding a set <a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338542401&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2F117104%2Fi.html%3F_sop%3D1%26_from%3DR40%26_nkw%3DAero%2BQuantum%2Blawn%2Bbowls" target="_blank">on eBay second hand</a>.
 
 <div class="overview"  markdown="1">
   
