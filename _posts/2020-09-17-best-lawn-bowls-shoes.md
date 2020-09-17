@@ -75,6 +75,8 @@ Here are our 6 best lawn bowls shoes. We have selected the best from each style,
 
 This is one of the most popular trainer styles around. There is a reason why I see these most when out on the greens!
 
+<img src="/assets/images/best-lawn-bowls-shoes/henselite-hm74.png" alt="Henselite HM74 shoe" height="200px" />
+
 The HM74 has a memory foam inner (the bottom of the inside of the shoe) for extra comfort. It basically acts like a pillow for your foot. This is great at avoiding foot cramps and reduces the impact of your leading foot.
 
 Like a lot of modern trainer styles, the HM74 has a breathable upper (the bit that goes over the top of your foot). This helps keep your feet cool, and dry. It’s not a great feeling when you’ve been playing for a few hours in the sun and you take your shoe off only to find your socks drenched! This isn’t great for your feet, especially if you’re playing several days a week. This design of upper will prevent this moisture build-up - ensuring you can keep your feet in the best condition possible.
@@ -88,6 +90,8 @@ Many bowlers who I’ve spoken to about these are quick to mention how light the
 ## Henselite Blade34
 
 The HM74 is a great option for those looking for a lightweight comfortable shoe, however, a lot of us need a bit more support. And this requires a different approach.
+
+<img src="/assets/images/best-lawn-bowls-shoes/henselite-blade34.png" alt="Henselite Blade34 shoe" height="200px" />
 
 The Henselite Blade34 is a far more substantial shoe. It has extra ankle support for comfort and stability, and will generally help support your delivery stride.
 
@@ -103,6 +107,8 @@ As with many modern trainer footwear, the upper has been designed to keep your f
 
 Yes. Another trainer. However, this one makes it onto our list as a great “best of both” option.
 
+<img src="/assets/images/best-lawn-bowls-shoes/aero-sprint.png" alt="Aero Sprint shoe" height="200px" />
+
 The shoe has been designed with a flexible front/midsole, but with a sturdier heel to help soften the impact, and to help support your ankle.
 
 Whilst Aero claim this is designed for indoor bowling, we feel it’s versatile enough for the outdoor game too.
@@ -117,6 +123,8 @@ Another “feather in the cap” is the fact the Sprint was the official shoe us
 
 Moccasin styles are quite rare these days, however, one that does shine is Henselite’s model.
 
+<img src="/assets/images/best-lawn-bowls-shoes/henselite-moccasin.png" alt="Henselite moccasin shoe" height="200px" />
+
 The main body of this shoe is made of leather, which is a change from the composite materials used on most modern trainer styles. These are designed for durability and should last years.
 
 These, like most moccasin shoes, are ideal for those looking for a wide fit, with many mentioning the increased comfort after struggling with other models previous.
@@ -125,6 +133,8 @@ These, like most moccasin shoes, are ideal for those looking for a wide fit, wit
 
 Henselite has recently introduced the HM75. This has all the benefits of Henseliete’s HM trainer range, but with no laces, effectively making these a modern slip-on.
 
+<img src="/assets/images/best-lawn-bowls-shoes/henselite-hm75.png" alt="Henselite HM75 shoe" height="200px" />
+
 This is one of our favourite models and is ideal for those with flexibility and movement range issues.
 
 These do come with an additional 2 fastening options:
@@ -132,10 +142,13 @@ These do come with an additional 2 fastening options:
 * Lace-up - these come with standard trainer laces so they can be fastened like a classic trainer
 * Toggle - this is an innovative idea from Henseliete. This option consists of a toggle that you would normally find on a backpack. Again, this is great for those with mobility issues, but also allows some extra control over the fit
 
+<img src="/assets/images/best-lawn-bowls-shoes/henselite-hm75-toggle.png" alt="Henselite HM75 with toggle shoe" height="200px" />
 
 ## Drakes Pride Astro
 
 Our final choice is from Drakes Pride. Their spin on the trainer style is their focus on the grip.
+
+<img src="/assets/images/best-lawn-bowls-shoes/drakes-pride-astro.png" alt="Drakes Pride Astro shoe" height="200px" />
 
 The grip is one of the most important factors in a bowls shoe. Slipping can be very common, especially in wet conditions (which happens far more than we’d like to admit). This is even more important when considering the general rule of “flat-soled shoes”. 
 
