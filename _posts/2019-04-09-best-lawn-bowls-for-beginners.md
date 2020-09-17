@@ -112,3 +112,11 @@ Taylor Bowls offer a great selection on models for the beginner. If you are play
 
 However, for its consistency and clean narrow line, we recommend the Vector VS. The Vetor VS model are <a href="https://www.amazon.co.uk/gp/product/B07YXT8JNG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B07YXT8JNG&linkId=aaacdf1052d99758560d3703fcbf8cd4" class="btn more"  target="_blank">available on Amazon</a> for a great price, if you are interested.
 
+<div class="overview"  markdown="1">
+  
+  <h3>Related Articles</h3>
+  
+  * <a href="/review/bowls/taylor-vector-vs-review">Full Vector VS Bowls Review</a>
+  
+</div> 
+
