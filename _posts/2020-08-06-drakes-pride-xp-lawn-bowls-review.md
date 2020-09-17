@@ -67,8 +67,9 @@ Whilst not specifically designed for short mat bowls, the XP excels in the forma
 
 The XP comes in all of the expected sizes - 00 through to 5. The XP is available in both heavyweight, and medium, which is rare. If you are used to medium weight bowls, the XP could be a good choice for you
 
-
 >> The XP bowls are fantastic and provide a consistent line whilst the extra bias gives me plenty of options in any position in triples or rinks play
+>>
+>> Customer Review
 
 ## Grips and colours
 
