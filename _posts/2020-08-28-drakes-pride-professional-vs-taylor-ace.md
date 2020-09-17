@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Drakes Pride XP  Review"
+title:  "Drakes Pride vs Taylor Ace - Which to choose?"
 author: reece
 categories: [ review, bowls ]
 image: assets/images/drakes-pride-vs-taylor-ace.jpeg
