@@ -116,6 +116,8 @@ Taylor Bowls offer a great selection on models for the beginner. If you are play
 
 However, for its consistency and clean narrow line, we recommend the Vector VS. The Vetor VS model are <a href="https://www.amazon.co.uk/gp/product/B07YXT8JNG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B07YXT8JNG&linkId=aaacdf1052d99758560d3703fcbf8cd4" target="_blank">available on Amazon</a> for a great price, if you are interested.
 
+Here's what Taylor has to say about the Vector VS: _"The Vector-VS is perfect for fast surfaces and indoor greens, having a lenient, gentle draw to the jack with no hook at the end, making it ideal for front end bowlers."_
+
 <div class="overview"  markdown="1">
   
   <h3>Related Articles</h3>
@@ -136,7 +138,9 @@ However, for its consistency and clean narrow line, we recommend the Vector VS. 
 
 <img src="/assets/images/bowls/drakes-pride/drakes-pride-professional-display.jpg" alt="Drakes Pride Professional lawn bowls" />
 
-The Professional model is the perfect model for any bowler who wants a versatile bowl. It's just as comfortable on the indoor rinks as it is outdoors. With quality grip options and colours you can be guaranteed to find something to your tastes. The Professional is <a href="https://www.amazon.co.uk/gp/product/B005MI2YE0/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B005MI2YE0&linkId=fb5c41c051c9e6b228526c411ebe6742" target="_blank">also available on Amazon</a>
+The Professional model is the perfect model for any bowler who wants a versatile bowl. It's just as comfortable on the indoor rinks as it is outdoors. With quality grip options and colours you can be guaranteed to find something to your tastes. The Professional is <a href="https://www.amazon.co.uk/gp/product/B005MI2YE0/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jackhighbow0a-21&creative=6738&linkCode=as2&creativeASIN=B005MI2YE0&linkId=fb5c41c051c9e6b228526c411ebe6742" target="_blank">also available on Amazon</a>.
+
+Here's what Drakes Pride have to say about the Professional: _"A phenomenally successful and popular model of bowl used by many top ranking players. The Professional is a mid bias bowl with a gradual and consistent finish offering a wide range of shot options, making it superb for both indoor and outdoor use."_
 
 <div class="overview"  markdown="1">
   
@@ -158,6 +162,8 @@ The Professional model is the perfect model for any bowler who wants a versatile
 <img src="/assets/images/bowls/aero/aero-quantum-display.jpg" alt="Aero Quantum lawn bowls" />
 
 We are huge fans of Aero bowls. They have a wide range of bowls for all environments and ability types, however we believe the Quantum has the best scope for a beginner. The Quantum will play narrow on outdoor rinks, making it ideal for lead players. It is also perfect for indoor bowls, making it duel purpose. Aero bowls are on the expensive side, so we would recommend finding a set <a href="http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=4&pub=5575495824&toolid=10001&campid=5338542401&customid=&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fsch%2F117104%2Fi.html%3F_sop%3D1%26_from%3DR40%26_nkw%3DAero%2BQuantum%2Blawn%2Bbowls" target="_blank">on eBay second hand</a>.
+
+Here's what Aero have to say about the Quantum: _"The Aero QUANTUM is the most popular all round model for indoor play in the Aero range. A mid bias bowl. Ideal for all playing positions on all types of indoor surface but particularly suitable for back end players. For outdoor players who prefer a narrower draw line. Suitable for front end playing positions on average to quick paced surfaces."_
 
 <div class="overview"  markdown="1">
   
