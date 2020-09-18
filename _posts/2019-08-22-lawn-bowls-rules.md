@@ -25,7 +25,7 @@ Here are the basic items needed for a game of bowls:
 ## Playing the Game
 
 * A coin is tossed to decide which team bowl first. 
-* The first bowler places the mat. It must be placed centrally - so it lines up with the rink number markers - and at least 2 meters from the rink edge.
+* The first bowler places the mat. It must be placed centrally - see below for more details on how to place the mat
 * When playing any shot the player bowling must always have one foot on the mat
 * The first bowler rolls the jack to whatever distance they like. The only restrictions is it must be at least 25 meters from the mat, and must stay out of the ditch. There is usually a marker on the rink to show where the minimum distance is
 * Once the jack has come to rest it is placed centrally by the marker with the help of the bowler. The jack now becomes the target
@@ -35,6 +35,11 @@ Here are the basic items needed for a game of bowls:
 * Once all players have finished their shots the game is scored (see below for details on how to score)
 * The winning team will get to go first on the next "end" (or leg). This will be played in the opposite direction to the previous end
 * The game continues until a predetermined number of ends are played - usually 18 or 21 
+
+## Placing the mat
+
+**The mat must be placed by the bowler about to roll the jack. The mat must be placed centrally and squarely in line with the rink markers, with the back edge of the mat being at least 2 meters (6ft 6in) away from the ditch and the front edge no more than 25 meters (82ft) from the ditch.**
+
 
 ## Scoring the Game
 
