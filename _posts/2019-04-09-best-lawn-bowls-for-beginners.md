@@ -99,7 +99,7 @@ More experienced bowlers may have personal preference, as certain brands offer u
 
 ## How much do a set of lawn bowls cost?
 
-With brand new bowls costing upto £350 it is recommended to purchase a set of second hand bowls for your first set. Second hand bowls usually cost in the region of £30 - £120 making it a cost effective solution.
+**New bowls cost up to £350 so it is recommended to purchase a set of second hand bowls for your first set. Second hand bowls usually cost in the region of £30 - £120 making it a cost effective solution.**
 
 You can get second hand bowls from a variety of sources (<a href="/guide/second-hand-and-pre-loved-lawn-bowls">see our guide to second hand bowls</a>), however we recommend eBay as there is always a wide variety of stock, and you will get a better selection of models.
 
