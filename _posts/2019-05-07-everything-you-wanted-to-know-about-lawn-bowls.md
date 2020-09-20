@@ -15,7 +15,7 @@ This not only makes the bowls last longer, but also allows for manufacturers to 
 
 ## Why do lawn bowls curve?
 
-Lawn bowls are not perfectly round - at least not to the naked eye. One side will be slightly bigger than the other, this is known as the “bias”. 
+**Lawn bowls are not perfectly round - at least not to the naked eye. One side will be slightly bigger than the other, this is known as the “bias”.**
 
 It's the extra weight on one side of the bowl that generates the curve.
 
@@ -23,7 +23,7 @@ Different models will have different biases, the bigger the bias the more the bo
 
 ## Do bowls expire?
 
-No, bowls do not have an expiry date. As long as there is no visible damage they should be fine to use regardless of age.
+**No, bowls do not have an expiry date. As long as there is no visible damage they should be fine to use regardless of age.**
 
 Bowls do need to be “stamped” every couple of years if you want to compete at a high level. The stamp shows the bowls have been tested to a high standard and can be used in competitive games.
 
@@ -35,5 +35,9 @@ If you want to find out more about what brands and models suit you, check out ou
 
 ## How long do lawn bowls last?
 
-Lawn bowls, if cared for correctly, can last 20-30 years - if not longer. Lawn bowls can be put through a process called "stamping", which is a series of tests and repairs. You can see when a bowl was last "stamped" by looking at the markings on the bowl. 
+**Lawn bowls, if cared for correctly, can last 20-30 years - if not longer. Lawn bowls can be put through a process called "stamping", which is a series of tests and repairs. You can see when a bowl was last "stamped" by looking at the markings on the bowl.**
+
+## What is jack high in lawn bowls?
+
+**"Jack High" refers to a bowl that finishes directly parallel to the jack. Both the jack and the bowl were delivered with the exact same force (or "weight"). This is the ideal result for a delivery in lawn bowl.**
 
