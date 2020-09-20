@@ -9,6 +9,12 @@ description: "Find the best deals on used Aero lawn bowls. Best list of used Aer
 
 Get great deals on all models of Aero bowls. 
 
+## Are Aero bowls good?
+
+**Rated: Excellent**
+
+**We rate Aero bowls excellent, based on our reviews of their most pospular models. Aero bowls is the world's leading manufacturer of lawn bols for good reason. Compared to their competitors, including Taylor, Drakes Pride and Henseliete, Aero bowls are far and away the most forward thinking and ground breaking in their development of lawn bowls""
+
 ## GrooVe
 
 <img src="/assets/images/bowls/aero/aero-groove.jpg" title="Aero GrooVe" />
