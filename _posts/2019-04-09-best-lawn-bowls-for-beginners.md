@@ -121,7 +121,7 @@ As long as the bowls don’t have any major chunks or gauges, they will be fine 
 
 ## Recommended Models
 
-### OUR #1 PICK Taylor Vector VS
+### OUR #1 PICK FOR UK Taylor Vector VS
 
 <img src="/assets/images/bowls/taylor/taylor-vector-vs-display.jpg" alt="Taylor Vector VS lawn bowls" />
 
