@@ -17,7 +17,7 @@ Are you a beginner in lawn bowling? This article presents critical lawn bowls pr
 
 ## What is lawn bowls etiquette?
 
-**Lawn bowls etiquette refers to guidlelines which control the way responsible players behave when bowling. This ensures a enjoyable experience for everyone playing, and watching. They are simple, common-sense rules which can be followed easily.**
+**Lawn bowls etiquette refers to guidlelines which control the way responsible players behave when bowling. They ensure an enjoyable experience for everyone playing, and watching. They are simple, common-sense rules which can be followed easily.**
 
 ### 1. Be on Time
 
