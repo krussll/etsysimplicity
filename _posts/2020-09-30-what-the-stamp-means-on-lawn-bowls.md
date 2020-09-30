@@ -65,6 +65,7 @@ Below is a list of all bowl testing companies, along with their stamp codes.
 | V  | NSW BOWLS TESTING  |
 | X  | DRAKES PRIDE  |
 | Z  | AEROBOWLS PTY LTD TRADING AS WALROD PTY LTD  |
+
 >> SOURCE: World Bowls (http://www.worldbowls.com/equipment/manufactures-testers/)
 
 You may come across other manufacturer stamps not on this list, this is because many are now no longer testing, however, their stamp code remains.
@@ -85,4 +86,5 @@ You may come across other manufacturer stamps not on this list, this is because 
 | R (pre June 2014  | FRED FERN’S BOWLS CENTRE PTY LTD, AUSTRALIA  |
 | T  | E S HALLIWELL BOWLS CO, BIRKENHEAD  |
 | Y  | RILEY LEISURE LTD (GREENMASTER), BURNLEY  |
+
 >> SOURCE: World Bowls (http://www.worldbowls.com/equipment/manufactures-testers/)
