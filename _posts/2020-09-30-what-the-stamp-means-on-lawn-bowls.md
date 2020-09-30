@@ -13,6 +13,11 @@ description: "What does the stamp means on lawn bowls? The stamp holds vital inf
 
 Depending on the age of your bowl you may see a stamp that looks like one of these:
 
+<img src="/assets/images/lawn-bowls-stamp/new-stamp.png" alt="" height="200px" />
+
+
+<img src="/assets/images/lawn-bowls-stamp/old-stamp.png" alt="" height="200px" />
+
 They will look different depending on when the bowl was manufactured, or when it was last tested.
 
 The latest style, and the most common, is the first. This was brought in in 2013 to co-inside with the latest regulations from World Bowls.
@@ -21,17 +26,25 @@ Regardless of the look, the components are the same.
 
 ## The Expiry Year
 
+<img src="/assets/images/lawn-bowls-stamp/new-stamp-expiry.png" alt="" height="200px" />
+
 We suggest competitive bowlers get their bowls checked regularly as wear on the running surface of the bowl will straighten the run of the bowl.
 
 ## The Trademark
+
+<img src="/assets/images/lawn-bowls-stamp/new-stamp-registered.png" alt="" height="200px" />
 
 The “R” shows that the stamp is a registered trademark.
 
 ## The Standard
 
+<img src="/assets/images/lawn-bowls-stamp/new-stamp-standard.png" alt="" height="200px" />
+
 Prior to the 2002 introduction of the World Bowls stamp, bowls were stamped with the stamps of the International Bowling Board and prior to 1988 bowls had the stamp of the major countries.
 
 ## The Manufacturer/Tester
+
+<img src="/assets/images/lawn-bowls-stamp/new-stamp-tester.png" alt="" height="200px" />
 
 Companies need to be licenced by World Bowls in order to officially stamp bowls. Each one is given a unique letter code which is included on the stamp. This way, if there is a fault from the test it can be traced back.
 
