@@ -51,3 +51,17 @@ Companies need to be licenced by World Bowls in order to officially stamp bowls.
 Companies can either be stand-alone testers who specialise in re-stamping bowls, or they can be the original manufacturer of the bowl - as the original stamp will be done by the source manufacturer.
 
 Below is a list of all bowl testing companies, along with their stamp codes.
+
+|  Stamp Code |  Manufacturer |
+|---|---|
+| A  | THOMAS TAYLOR (BOWLS) LTD  |
+| C  | GEORGE MACKAY  |
+| G  | THE BOWLS DOCTOR  |
+| N  | HENSELITE (AUSTRALIA) PTY LTD  |
+| P  | PERSHORE BOWLS CENTRE  |
+| Q  | SYDNEY BOWLS CENTRE  |
+| S  | THE BOWLING ARM & BOWLS TEST CENTRE BENDIGO  |
+| U  | BAYEUMAS BOWLS TEST CENTRE  |
+| V  | NSW BOWLS TESTING  |
+| X  | DRAKES PRIDE  |
+| Z  | AEROBOWLS PTY LTD TRADING AS WALROD PTY LTD  |
