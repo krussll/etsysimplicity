@@ -18,7 +18,7 @@ Depending on the age of your bowl you may see a stamp that looks like one of the
 
 <img src="/assets/images/lawn-bowls-stamp/old-stamp.png" alt="" height="200px" style="max-height: 200px;" />
 
-They will look different depending on when the bowl was manufactured, or when it was last tested.
+They will look different depending on when the bowl was manufactured, or when it was last tested, as different designs have been brought out over the years.
 
 The latest style, and the most common, is the first. This was brought in in 2013 to co-inside with the latest regulations from World Bowls.
 
@@ -28,19 +28,23 @@ Regardless of the look, the components are the same.
 
 <img src="/assets/images/lawn-bowls-stamp/new-stamp-expiry.png" alt="" height="200px" style="max-height: 200px;" />
 
-We suggest competitive bowlers get their bowls checked regularly as wear on the running surface of the bowl will straighten the run of the bowl.
+This is the year the bowl requires re-testing. It is the last two digits of the year, so in this example, our bowl would need to be re-tested in 2021.
+
+I would recommend that competitive bowlers get their bowls checked regularly, as wear on the running surface of the bowl can make the bowl run slightly staighter.
 
 ## The Trademark
 
 <img src="/assets/images/lawn-bowls-stamp/new-stamp-registered.png" alt="" height="200px" style="max-height: 200px;" />
 
-The “R” shows that the stamp is a registered trademark.
+The “R” shows that the stamp is a registered trademark. This will always be present, but doesn't have any baring on the use of the bowl.
 
 ## The Standard
 
 <img src="/assets/images/lawn-bowls-stamp/new-stamp-standard.png" alt="" height="200px" style="max-height: 200px;" />
 
-Prior to the 2002 introduction of the World Bowls stamp, bowls were stamped with the stamps of the International Bowling Board and prior to 1988 bowls had the stamp of the major countries.
+Prior to the 2002 introduction of the World Bowls stamp, bowls were stamped with the stamps of the International Bowling Board, and prior to 1988 bowls had the stamp of the major country from which the tester was from. This was changed in 2013 so that all bowls had the same standard.
+
+All bowls using the new style stamp will Be stamped with "WB" to indicate it was tested to the World Bowls standard. 
 
 ## The Manufacturer/Tester
 
@@ -88,3 +92,17 @@ You may come across other manufacturer stamps not on this list, this is because 
 | Y  | RILEY LEISURE LTD (GREENMASTER), BURNLEY  |
 
 >> SOURCE: World Bowls (http://www.worldbowls.com/equipment/manufactures-testers/)
+
+So from our example, we can see our bowl would have been tested by Thomas Taylor. As this is a well known manufacturer, this will likely be the stamp given when it was first made.
+
+## What happens if my bowls have expired?
+
+You can still use your bowls, even if they have passed the expiry date on the stamp. They will not behave adversely to it, however there may be restrictions on what level you can play to.
+
+Whilst club and local leagues may say it is a requirement to have valid bowls, in reality they are never checked. If you play to this level you should worry too much about being refused to play.
+
+If you which to enter National, or International comeptitons, then you will most definitely need them within their expiry date.
+
+## How much does it cost to re-stamp a set of bowls?
+
+**It will cost between £35-£50 to re-stamp a set of bowls. Once they have been stamped they will be valid for use for another 10 years**
