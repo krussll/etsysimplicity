@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How much does lawn bowls cost?"
+title:  "How much lawn bowls costs"
 author: reece
 categories: [ help ]
 image: "assets/images/how-much-does-lawn-bowls-cost.jpg"
