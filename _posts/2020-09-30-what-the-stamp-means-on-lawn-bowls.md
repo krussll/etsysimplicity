@@ -95,6 +95,10 @@ You may come across other manufacturer stamps not on this list, this is because 
 
 So from our example, we can see our bowl would have been tested by Thomas Taylor. As this is a well known manufacturer, this will likely be the stamp given when it was first made.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cSrekl-JoVA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+>> Here is a visual guide showing these elements
+
 ## What happens if my bowls have expired?
 
 You can still use your bowls, even if they have passed the expiry date on the stamp. They will not behave adversely to it, however there may be restrictions on what level you can play to.
