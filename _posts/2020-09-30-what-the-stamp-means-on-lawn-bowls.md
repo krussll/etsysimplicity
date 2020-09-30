@@ -99,7 +99,7 @@ So from our example, we can see our bowl would have been tested by Thomas Taylor
 
 >> Here is a visual guide showing these elements
 
-## What happens if my bowls have expired?
+## Do bowls need to be stamped?
 
 You can still use your bowls, even if they have passed the expiry date on the stamp. They will not behave adversely to it, however there may be restrictions on what level you can play to.
 
