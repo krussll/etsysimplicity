@@ -81,6 +81,8 @@ Which is best? It can sometimes be a bit like asking “how long is a piece of s
 
 Firstly, will you be playing indoor or outdoor bowls? Often indoor rinks are much faster, which requires a narrower (i.e. a bowl that doesn’t swing as much) bowl. This will make controlling your line much easier. If you are playing outdoor you will need a slightly wider biased bowl to contend with the slower, heavier greens you get in the UK - but do note that if you are lucky enough to be playing in sunnier climates you will find the greens to be as fast as indoor rinks, so narrower bowl will be best.
 
+If you are playing indoors only, then checkout our guide on the <a href="/guide/best-lawn-bowls-for-indoors">best indoor bowls to buy</a>.
+
 ### What position do you play?
 
 Different positions in a bowls team will require different bowls. For example a lead will want to have a much narrower bowl, to help get a consistent line to draw to the jack, whereas a skip will want a much wider bias to help navigate through a busy head. That being said, you will often find yourself as a beginner playing in either the lead or number 2 position, as these roles help develop you line and weight, therefore a narrow to medium bias would be best.
