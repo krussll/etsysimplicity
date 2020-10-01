@@ -41,6 +41,9 @@ The Vector VS is Taylor's main narrow line bowl, so as we'd expect it has a cons
 
 Because of the bias characteristics this model is also suited to your indoor bowling, or when you play fast outdoor greens. Play on anything slow or heavy could affect your game due to the narrow line not being able to navigate around other bowls in the head.
 
+## Taylor Vector VS Trajectory Guide
+ 
+<img src="/assets/images/thomas-taylor-trajectory-guide-2020.png" alt="Trajectory guide/bias guide for Thomas Taylor lawn bowl models"  style="max-height:200px;" height="200px" />
 
 ## Sizes and Weights
 
