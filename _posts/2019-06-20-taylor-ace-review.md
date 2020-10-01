@@ -68,8 +68,9 @@ It will be perfectly playable from any team position. It has a clean "hook free"
 
  The Taylor Ace is a great all-round bowl which offers a reliable line regardless of shot selection. This reliability makes the Ace ideal for beginners. It's very forgiving, unlike wider biased bowls (such as the Taylor Lignoid).
  
+## Taylor Ace Trajectory Guide
  
-<img src="/assets/images/thomas-taylor-trajectory-guide-2020.png" alt="Trajecotry guide/bias guide for Thomas Taylor lawn bowl models"  height="200px" />
+<img src="/assets/images/thomas-taylor-trajectory-guide-2020.png" alt="Trajectory guide/bias guide for Thomas Taylor lawn bowl models"  style="max-height:200px;" height="200px" />
 
 
 
