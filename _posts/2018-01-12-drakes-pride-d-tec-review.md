@@ -43,6 +43,12 @@ Drakes Pride introduced the d-tec to replace their existing Fineline and Advanta
 
 Unlike the Professional range however, it has less as less of a “hook” on the line, providing a much smoother, flatter finish. The added benefit of the cleaner flatter finish as this really helps with “punching” shots as only an extra yard is required, as opposed to 2 or 3 required with the Professional.
 
+
+## Drakes Pride D-TEC Trajectory Guide
+ 
+<img src="/assets/images/drakes-pride-trajectory-guide-2020.png" alt="Trajectory guide/bias guide for Drakes Pride lawn bowl models"  style="max-height:200px;" height="200px" />
+
+
 ## Sizes and Weights
 
 As you’d expect the d-tec comes in sizes 00 to 5, however is only available in “Heavyweight”. If you’re looking for anything else, you will have to try elsewhere!
