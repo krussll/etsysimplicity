@@ -63,6 +63,12 @@ This model is ideal for any bowler who plays lead, or even a 2 in a four rink. T
 
 The line is less of an issue indoors so can be used when playing a variety of team positions.
 
+
+## Drakes Pride PRO-50 Trajectory Guide
+ 
+<img src="/assets/images/drakes-pride-trajectory-guide-2020.png" alt="Trajectory guide/bias guide for Drakes Pride lawn bowl models"  style="max-height:200px;" height="200px" />
+
+
 ## Sizes and Weights
 
 As you’d expect the Drakes Pride PRO-50 comes in sizes 00 to 5, and will be available in “Heavyweight”. The lack of a “Middle weight” option may put some off, however, this is the norm these days, and with Drakes Pride following the World Bowls sizing standards you can be confident in getting the right size.
