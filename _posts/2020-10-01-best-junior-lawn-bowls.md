@@ -34,6 +34,8 @@ description: "What are the best junior lawn bowls? Junior bowls are get to get k
   </tbody>
 </table>
 
+</div>
+
 ## What Junior Bowls are
 
 Junior bowls are lawn bowls designed to be comfortable to hold and use for children and young teens. 
