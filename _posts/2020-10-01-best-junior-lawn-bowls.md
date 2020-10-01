@@ -91,7 +91,7 @@ Both these models have similar draw arcs and come with no grips on the bowls.
 
 Junior bowls will be available from any lawn bowls stockists. It's quite probable that they won't have many (if any) directly in-stock, but they cn be ordered in on your dehalf.
 
-If you are interested in the Taylor Ace in sizes 0000 and 000, then you can order them directly from Taylor yourself at https://www.taylorbowls.com/item/132/Taylor/Ace---Build-a-Bowl.html
+If you are interested in the Taylor Ace in sizes 0000 and 000, then you can order them directly <a href="https://www.taylorbowls.com/item/132/Taylor/Ace---Build-a-Bowl.html">from Taylor Bowls</a>.
 
 ### Junior Bowls - Second Hand
 
