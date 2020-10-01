@@ -4,7 +4,7 @@ title:  "Drakes Pride Professional Review"
 author: reece
 categories: [ review, bowls ]
 image: assets/images/drakes-pride-professional-review.jpeg
-description: "9 reasons to buy/NOT buy Drakes Pride PRO-50 lawn bowls"
+description: "9 reasons to buy/NOT buy Drakes Pride Professional lawn bowls"
 ---
 
 <div class="overview" markdown="1">
@@ -51,6 +51,9 @@ The Professional model is a “Mid biased” bowl, sitting between the d-tec and
 
 This will need to be taken into account if you usually play as a skip, as this may limit your shot options.However, the slightly narrow line, coupled with its gradual and consistent finish makes them ideal for players in early-to-mid positions in a team. 
 
+## Drakes Pride Professional Trajectory Guide
+ 
+<img src="/assets/images/drakes-pride-trajectory-guide-2020.png" alt="Trajectory guide/bias guide for Drakes Pride lawn bowl models"  style="max-height:200px;" height="200px" />
 
 ## Sizes and Weights
 
