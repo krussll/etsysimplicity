@@ -10,6 +10,7 @@ description: "We cover how to fill in a lawn bowls scorecard. This is a helpful 
 
 ## What does a scorecard look like?
 
+<img src="/assets/images/scorecards/scorecard.png" alt="" height="200px" style="max-height: 200px;" />
 
 ### The sections of a scorecard
 
@@ -17,19 +18,27 @@ The scorecard is kept as a record of each game - therefore it will contain every
 
 #### The Game
 
+<img src="/assets/images/scorecards/game-details.png" alt="" height="200px" style="max-height: 200px;" />
+
 The top section normally consists of the game being played. From our example, we would need to add in the competition, the date, who was playing (home team going first), and what number rink they are playing on.
 
 #### The Teams
 
+<img src="/assets/images/scorecards/team-details.png" alt="" height="200px" style="max-height: 200px;" />
+
 Next comes the teams. Each member of the team is listed in position order. If you are playing triples, you would only fill in “1”, “2”, and “SKIP” as no “3” is playing. 
 
 ### The Score
+
+<img src="/assets/images/scorecards/shots-details.png" alt="" height="200px" style="max-height: 200px;" />
 
 Each row represents a single end. After each end, you write the shots scored for the winning team in the SHOTS column and a dash (“-”) for the losing team’s SHOTS column. You write and the cumulative score for each team in the TOTALS column. 
 
 A single scorecard will have space for anywhere up to 40 ends. If your game lasts longer you can always carry on on a second scorecard
 
 #### The Result
+
+<img src="/assets/images/scorecards/result-details.png" alt="" height="200px" style="max-height: 200px;" />
 
 Once the game is completed, either from total ends or total shots, the final score is written in the bottom section.
 
