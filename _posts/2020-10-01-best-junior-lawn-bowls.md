@@ -50,6 +50,8 @@ Junior bowls will have a diameter of 98.5mm  (3 7/8”). This is compared to a s
 
 Junior bowls should be used when a child is unable to hold a size 00 bowl. 
 
+<img src="/assets/images/junior-lawn-bowls/junior-bowlers.png.png" alt="" height="200px" style="max-height: 200px;" />
+
 This will aid their enjoyment of the game and can prevent technical issues that arise when a player is using a set of bowls to big for them.
 
 ## Junior Bowls Recommendations
@@ -60,12 +62,18 @@ Both are based on the hugely popular Ace and Professional adult models.
 
 ### OUR #1 PICK - Junior Ace
 
+<img src="/assets/images/junior-lawn-bowls/junior-taylor-ace.png" alt="" height="200px" style="max-height: 200px;" />
+
 The Junior Ace certianly looks the more "grown-up" of the options. Their colour and stamp options a very similar to their adult Ace range. This makes them ideal for older children and teens as they will help them transition to the adult range down the line.
+
+<img src="/assets/images/junior-lawn-bowls/junior-taylor-ace-colours.png" alt="" height="200px" style="max-height: 200px;" />
 
 They are also helped by the fact that Taylor offers 0000 and 000 sizes in a slection of their adult ranges. This also helps when making the quite substantial jump from junior up to adult.
 
 
 ### Junior Professional	
+
+<img src="/assets/images/junior-lawn-bowls/junior-drakes-pride-professional.png" alt="" height="200px" style="max-height: 200px;" />
 
 These are great for younger children. 
 
