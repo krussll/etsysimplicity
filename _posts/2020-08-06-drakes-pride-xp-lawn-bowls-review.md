@@ -61,7 +61,11 @@ The line was designed specifically for outdoor play, so should offer a variety o
 
 Whilst not specifically designed for short mat bowls, the XP excels in the format. Due to the extra bias many players find them unbeatable in comparison.
 
-<img src="/assets/images/drakes-pride-trajectory-guide-2020.png" alt="Trajectory guide/bias guide for Drakes Pride lawn bowl models"  height="200px" />
+
+## Drakes Pride XP Trajectory Guide
+ 
+<img src="/assets/images/drakes-pride-trajectory-guide-2020.png" alt="Trajectory guide/bias guide for Drakes Pride lawn bowl models"  style="max-height:200px;" height="200px" />
+
 
 ## Sizes and Weights
 
