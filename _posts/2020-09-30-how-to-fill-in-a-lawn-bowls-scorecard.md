@@ -30,7 +30,7 @@ Next comes the teams. Each member of the team is listed in position order. If yo
 
 ### The Score
 
-<img src="/assets/images/scorecards/shots-details.png" alt="" height="200px" style="max-height: 200px;" />
+<img src="/assets/images/scorecards/shots-details.png" alt="" height="50px" style="max-height: 200px;" />
 
 Each row represents a single end. After each end, you write the shots scored for the winning team in the SHOTS column and a dash (“-”) for the losing team’s SHOTS column. You write and the cumulative score for each team in the TOTALS column. 
 
@@ -38,7 +38,7 @@ A single scorecard will have space for anywhere up to 40 ends. If your game last
 
 #### The Result
 
-<img src="/assets/images/scorecards/result-details.png" alt="" height="200px" style="max-height: 200px;" />
+<img src="/assets/images/scorecards/result-details.png" alt="" height="50px" style="max-height: 200px;" />
 
 Once the game is completed, either from total ends or total shots, the final score is written in the bottom section.
 
