@@ -52,9 +52,15 @@ Our example will be for the following game:
 
 ### Before the game
 
+<img src="/assets/images/scorecards/game-details-completed.png" alt="" height="50px" style="max-height: 200px;" />
+
+<img src="/assets/images/scorecards/team-details-completed.png" alt="" height="50px" style="max-height: 200px;" />
+
 We need to fill in the details of the game, and the teams. Here we show the inputs for our example.
 
 ### End 1
+
+<img src="/assets/images/scorecards/scores-details-end1.png" alt="" height="50px" style="max-height: 200px;" />
 
 Team A scores 2. So we put “2” in the left SHOTS column and “-” in the right SHOTS column.
 
@@ -62,44 +68,60 @@ The score is 2-0 so we add that into the TOTALS columns.
 
 ### End 2
 
+<img src="/assets/images/scorecards/scores-details-end2.png" alt="" height="50px" style="max-height: 200px;" />
+
 Team A scores 2. So we put “2” in the left SHOTS column and “-” in the right SHOTS column.
 
-The score is 2-0 so we add that into the TOTALS columns.
+The score is 4-0 so we add that into the TOTALS columns.
 
 ### End 3
 
+<img src="/assets/images/scorecards/scores-details-end3.png" alt="" height="50px" style="max-height: 200px;" />
+
 Team A scores 1. So we put “1” in the left SHOTS column and “-” in the right SHOTS column.
 
-The score is 3-0 so we add that into the TOTALS columns.
+The score is 5-0 so we add that into the TOTALS columns.
 
 ### End 4
 
-Team B scores 3. So we put “-” in the left SHOTS column and “3” in the right SHOTS column.
+<img src="/assets/images/scorecards/scores-details-end4.png" alt="" height="50px" style="max-height: 200px;" />
 
-The score is 3-3 so we add that into the TOTALS columns.
+Team B scores 2. So we put “-” in the left SHOTS column and “2” in the right SHOTS column.
+
+The score is 5-2 so we add that into the TOTALS columns.
 
 ### End 5
 
+<img src="/assets/images/scorecards/scores-details-end5.png" alt="" height="50px" style="max-height: 200px;" />
+
 Team A scores 2. So we put “2” in the left SHOTS column and “-” in the right SHOTS column.
 
-The score is 5-3 so we add that into the TOTALS columns.
+The score is 7-2 so we add that into the TOTALS columns.
 
 ### End 6
 
-Team A scores 3. So we put “3” in the left SHOTS column and “-” in the right SHOTS column.
+<img src="/assets/images/scorecards/scores-details-end6.png" alt="" height="50px" style="max-height: 200px;" />
 
-The score is 8-3 so we add that into the TOTALS columns.
+Team B scores 4. So we put “-” in the left SHOTS column and “4” in the right SHOTS column.
+
+The score is 7-6 so we add that into the TOTALS columns.
 
 ### End 7
 
-Team B scores 3. So we put “-” in the left SHOTS column and “3” in the right SHOTS column.
+<img src="/assets/images/scorecards/scores-details-end7.png" alt="" height="50px" style="max-height: 200px;" />
+
+Team A scores 1. So we put “1” in the left SHOTS column and “-” in the right SHOTS column.
 
 The score is 8-6 so we add that into the TOTALS columns.
 
 ### The result
 
+<img src="/assets/images/scorecards/result-details-completed.png" alt="" height="50px" style="max-height: 200px;" />
+
 Team A wins by 8 shots to 6. So we put the final score in the bottom section, and we’re done!
 
 Some scorecards require the Skips to sign it, however, this will depend on the rules of the competition being played.
+
+<img src="/assets/images/scorecards/scorecard-completed.png" alt="" height="200px" style="max-height: 200px;" />
 
 As you can see the scorecard is pretty straight forward once you’ve got the hang of it! And as always, don’t be afraid to ask if you ever get stuck, there will always be someone experienced around to help.
