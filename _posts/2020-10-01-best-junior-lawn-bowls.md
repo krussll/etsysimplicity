@@ -50,7 +50,7 @@ Junior bowls will have a diameter of 98.5mm  (3 7/8”). This is compared to a s
 
 Junior bowls should be used when a child is unable to hold a size 00 bowl. 
 
-<img src="/assets/images/junior-lawn-bowls/junior-bowlers.png.png" alt="" height="200px" style="max-height: 200px;" />
+<img src="/assets/images/junior-lawn-bowls/junior-bowlers.png" alt="" height="200px" style="max-height: 200px;" />
 
 This will aid their enjoyment of the game and can prevent technical issues that arise when a player is using a set of bowls to big for them.
 
