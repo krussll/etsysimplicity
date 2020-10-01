@@ -64,6 +64,9 @@ The Taylor Legacy SL has a mid-to-wide bias. This produces a wider arch to the j
 
 The wider bias means that you can play skip and other late positions. Also, the smooth draw line means that the Legacy model could be ideal for singles play. 
 
+## Taylor Legacy SL Trajectory Guide
+ 
+<img src="/assets/images/thomas-taylor-trajectory-guide-2020.png" alt="Trajectory guide/bias guide for Thomas Taylor lawn bowl models"  style="max-height:200px;" height="200px" />
 
 ## Sizes and Weights
 
