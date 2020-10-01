@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Indoor lawn bowls | What is the difference between indoor and outdoor bowls? | How long is an indoor bowls green? | What are the rules of indoor bowls? | Who won the World Indoor Bowls Championship 2020? | How can I play indoor bowls better?"
-categories: [ guide ]
+categories: [ help ]
 author: reece
 image: assets/images/indoors-bowls.jpeg
 featured: false
