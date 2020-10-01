@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lawn bowls bias guide and trajectory charts"
+title:  "Lawn bowls bias guide and trajectory charts | A helpful illustrated guide"
 author: reece
 categories: [ guide ]
 image: assets/images/lawn-bowls-trajectory-guide-2020.jpg
