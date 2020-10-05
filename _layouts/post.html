@@ -85,7 +85,6 @@ post_class: post-template
 					<div class="col-md-10">
 						<a target="_blank" class="link-dark" href="#"><span itemprop="name">{{ author.display_name }} </span></a>
 						<span class="author-description">{{ author.description }}</span>
-						<div ITEMPROP="publisher">JACK HIGH BOWLS</div>
 					</div>
 				</div>
                 {% endif %}
@@ -97,7 +96,10 @@ post_class: post-template
         <!-- Right Sidebar -->
         <div class="col-md-4 col-lg-4">
         <div class="sidebar-right">
+	<div itemprop="publisher">JACK HIGH BOWLS</div>
         {% include sidebar.html %}
+		
+		
         </div>
         </div>
 
