@@ -29,7 +29,7 @@ post_class: post-template
                 <!-- End Categories -->
 
                 <!-- Post Title -->
-				<h1 class="posttitle" itemprop="name">{{ page.title }}</h1>
+				<h1 class="posttitle" itemprop="headline name">{{ page.title }}</h1>
 				<h2>{{ page.description }}</h2>
 
 			</div>
@@ -83,8 +83,9 @@ post_class: post-template
 						     alt="{{ author.display_name }}">
 					</div>
 					<div class="col-md-10">
-						<a target="_blank" class="link-dark" href="#" itemprop="name">{{ author.display_name }} </a>
+						<a target="_blank" class="link-dark" href="#"><span itemprop="name">{{ author.display_name }} </span></a>
 						<span class="author-description">{{ author.description }}</span>
+						<div ITEMPROP="publisher">JACK HIGH BOWLS</div>
 					</div>
 				</div>
                 {% endif %}
