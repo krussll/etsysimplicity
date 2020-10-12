@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Drakes Pride vs Taylor Ace - Which to choose?"
+title:  "Drakes Pride Professional vs Taylor Ace - Which to choose?"
 author: reece
 categories: [ review, bowls ]
 image: assets/images/drakes-pride-vs-taylor-ace.jpeg
-description: "We compare the two most popular lawn bowls models to see which one is the best for you"
+description: "We compare the two most popular lawn bowls models - the Taylor Ace v Drakes Pride Professional - to see which one is the best for you"
 ---
 
 ## Taylor Ace vs Drakes Pride Professional
