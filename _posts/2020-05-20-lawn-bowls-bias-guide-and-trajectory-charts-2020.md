@@ -35,6 +35,14 @@ For this purpose we have split Aero models into two separate charts. You will fi
 
 On the draw shot every Aero Model starts to turn approximately halfway between the mat and the jack.
 
+<div class="overview"  markdown="1">
+  
+  <h3>Related Articles</h3>
+  
+  * <a href="/guide/used-aero-bowls-for-sale">Used Aero bowls for sale</a>
+  
+</div> 
+
 ## Drakes Pride bowls bias chart
 
 Drakes Pride models can be played both indoor and outdoor, with the exception of the XP model.
@@ -44,11 +52,31 @@ The wider trajectory makes this perfect for play as a skip, or for playing on he
 
 <img src="/assets/images/drakes-pride-trajectory-guide-2020.png" alt="Trajecotry guide/bias guide for Drakes Pride lawn bowl models"  height="200px" />
 
+<div class="overview"  markdown="1">
+  
+  <h3>Related Articles</h3>
+  
+  * <a href="/review/bowls/drakes-pride-professional-review">Drakes Pride Professional Review</a>
+  * <a href="/review/bowls/drakes-pride-d-tec-review">Drakes Pride d-tec Review</a>
+  * <a href="/review/bowls/drakes-pride-pro-50-review">Drakes Pride PRO-50 Review</a>
+  
+</div> 
+
 ## Taylor Bowls bias chart
 
 Taylor offer a wide range of models. Whilst they don't explicitly split their models between indoor and outdoor, we would recommend not going beyond and Ace for indoor play. You may be able to play with a Vector VS on an outdoor rink, however this will be on the narrow side.
 
 
 <img src="/assets/images/thomas-taylor-trajectory-guide-2020.png" alt="Trajecotry guide/bias guide for Thomas Taylor lawn bowl models"  height="200px" />
+
+<div class="overview"  markdown="1">
+  
+  <h3>Related Articles</h3>
+  
+  * <a href="/review/bowls/taylor-ace-review">Taylor Ace Review</a>
+  * <a href="/review/bowls/taylor-vector-vs-review">Taylor Vector VS Review</a>
+  * <a href="/review/bowls/taylor-legacy-sl-review">Taylor Legacy SL Review</a>
+  
+</div> 
 
 
