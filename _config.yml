@@ -1,13 +1,13 @@
 # Site
-name: "Jack High Bowls"
-title: "Jack High Bowls indoor and lawn bowls"
-description: "Bringing the best reviews and guides for indoor and lawn bowls"
-meta_description: "Bringing the best reviews and guides for indoor and lawn bowls"
+name: "Etsy Simplicity"
+title: ""
+description: ""
+meta_description: ""
 logo: ''
 favicon: "/assets/images/favicon.ico"
-baseurl: "https://www.jackhighbowls.com"
+baseurl: "https://www.etsysimplicity.com"
 permalink: /:categories/:title
-email: "contact@jackhighbowls.com"
+email: "reece@etsysimplicity.com"
 google_analytics: "UA-86474387-5"
 
 # Authors
@@ -16,5 +16,5 @@ authors:
     name: Reece
     display_name: Reece Williams
     gravatar:
-    email: "reece@jackhighbowls.com"
-    description: "I've been a lawn bowler since 2015, and have been around bowls for much longer. I am a very average club player, but I like sharing any information I come across in the hope it might help others!"
+    email: "reece@etsysimplicity.com"
+    description: ""

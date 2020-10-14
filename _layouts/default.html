@@ -1,18 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!-- Ezoic Code -->
-	<script>var ezoicId = 203153;</script>
-	<script type="text/javascript" src="//go.ezoic.net/ezoic/ezoic.js"></script>
-<!-- Ezoic Code --> 
 <meta charset="utf-8">
-<meta name="google-site-verification" content="3hy6rng49LmxKJ53UCGkhh56RmYZTdFZoHEpkktdxOY" />
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="max-image-preview:large">
 <link rel="icon" href="{{ site.baseurl }}/favicon.ico">
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <title>{{ page.title }} | {{site.name}}</title>
-  
+
 <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}" />
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -24,45 +19,8 @@
 
 
 {% if jekyll.environment == 'production' %}
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', '{{site.google_analytics}}', 'auto');
-  ga('send', 'pageview');
-</script>
-<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/7d724106e0c8f1fbc63c0ec38/a8267a840c7c07406e7f692bf.js");</script>
-<!-- Repixel Code -->
-<script>
-  (function(w, d, s, id, src){
-  w.Repixel = r = {
-    init: function(id) {
-      w.repixelId = id;
-    }
-  };
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)){ return; }
-  js = d.createElement(s); 
-  js.id = id;
-  js.async = true;
-  js.onload = function(){
-      Repixel.init(w.repixelId);
-  };
-  js.src = src;
-  fjs.parentNode.insertBefore(js, fjs);
-  }(window, document, 'script', 'repixel', 
-  'https://sdk.repixel.co/r.js'));
-  Repixel.init('5e3d2ca30db7ab000783271a');
-</script>
-<!-- Repixel Code -->
-  
 {% endif %}
-  
-{% unless page.noAds %}
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <script> (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-8543572621618524", enable_page_level_ads: true }); </script>
-{% endunless %}
 </head>
 
 
@@ -114,7 +72,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="{{ site.baseurl }}/contact">Contact</a>
                 </li>
-              
+
                 <li class="nav-item">
                     <a class="nav-link" href="{{ site.baseurl }}/search">Search</a>
                 </li>
@@ -166,14 +124,14 @@
     <footer class="footer">
 
         <div class="container">
-          
+
             <div class="row justify-content-center">
                 <div class="col-md-8">
                   <h5 class="text-center text-white">Search</h5>
                   {% include search-form.html %}
                 </div>
             </div>
-          
+
             <div class="row">
 
                 <div class="col-sm-3">
@@ -215,8 +173,8 @@
                 <div class="col-sm-3">
 			<div class="footer-widget">
                 		<h5 class="title">Subscribe</h5>
-				
-				<p> 
+
+				<p>
 					Subscribe to our maillist and get access to additional FREE articles and guides.
 				</p>
 				<!-- Begin Mailchimp Signup Form -->
@@ -263,7 +221,7 @@
 ================================================== -->
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-  
+
 {% if page.url == "/search" %}
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.8/lunr.min.js"></script>
   <script src="{{ site.baseurl }}/assets/js/search.js"></script>
@@ -278,9 +236,7 @@
 <script type='text/javascript' src='{{ site.baseurl }}/assets/js/masonry.pkgd.min.js'></script>
 
 <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
-<script async src="https://get.geojs.io/v1/ip/geo.js"></script>
 
-	
 	<script>(function(t,e,s,o){var n,a,c;t.SMCX=t.SMCX||[],e.getElementById(o)||(n=e.getElementsByTagName(s),a=n[n.length-1],c=e.createElement(s),c.type="text/javascript",c.async=!0,c.id=o,c.src="https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd_2FQiC6Y6X41vWyU2WCcrZkm3YN_2BTGxgVBzN4cWskXMQs.js",a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");</script>
 </body>
 
