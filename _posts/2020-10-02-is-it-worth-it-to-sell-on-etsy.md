@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Is it worth it to sell on Etsy in 2021?"
-categories: [ qanda ]
+title:  "Is It Worth It To Sell On Etsy in 2021? Here Are My 5 Steps To Find Out" 
+categories: [ q-and-a ]
 author: reece
 image: assets/images/post-banners/is-it-worth-it-to-sell-on-etsy.jpg
 featured: true
-description: ?"
+description: "Is it worth opening an Etsy store in 2021? I'll take you through the 5 steps you can take to find out"
 ---
 
 Is it worth it to sell on Etsy in 2021? **Yes, it is still worth selling on Etsy. A good part-time income is very achievable, and many stores can earn enough for a full-time income. Etsy currently has 70 million active buyers per year so there will be opportunities for new stores.**
@@ -98,11 +98,11 @@ Make 5 units, one after another. Use the average of this to calculate how long i
 
 For example, let’s assume it takes me 30 minutes to produce 5 units of superhero PJs.
 
-5 units in 30 mins (30/5) = 1 unit takes 6 minutes.
+>> 5 units in 30 mins (30/5) = 1 unit takes 6 minutes.
 
 In my example, I need to make and sell 100 units a month.
 
-6 minutes x 100 units = 600 minutes = 10 hours.
+>> 6 minutes x 100 units = 600 minutes = 10 hours.
 
 To hit my target I would need roughly 10 hours per month just in unit production. Plus 3 hours a week in shop maintenance = 22 hours a month.
 
