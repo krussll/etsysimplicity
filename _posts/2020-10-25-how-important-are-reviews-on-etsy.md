@@ -24,7 +24,7 @@ There is a reason why new stores struggle to make sales. A store with plenty of 
 
 >>  Honest reviews from real customers can help shoppers feel more secure they are making the right choice, as they can read the good and bad points of each product.
 >>
->>  https://www.feefo.com/en/business/resources/blog/five-reasons-why-product-reviews-are-important
+>>  [feefo.com](https://www.feefo.com/en/business/resources/blog/five-reasons-why-product-reviews-are-important)
 
 
 In marketing terms, reviews provide what is known as “social proof”. Customers can see others have enjoyed the product, and therefore they might like it too. 
@@ -49,7 +49,7 @@ It’s not known how strong a signal this is, but it is mentioned in their docum
 
 >>  Great reviews, completed About section, and completed shop policies can all help your placement in search.
 >>
->> https://help.etsy.com/hc/en-gb/articles/115015745428-How-Etsy-Search-Works?segment=selling#Q2
+>> [Etsy](https://help.etsy.com/hc/en-gb/articles/115015745428-How-Etsy-Search-Works?segment=selling#Q2)
 
 Having great reviews can only help your ranking. Etsy sees it as a signal of not only how good the product is, but also the service you provide.
 Helping you create better, more valuable products
