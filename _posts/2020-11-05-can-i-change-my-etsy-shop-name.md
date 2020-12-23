@@ -9,12 +9,12 @@ description: "Changing your Etsy store name can have huge benefits. Follow our s
 ---
 
 Can I change my Etsy store name? **Yes, you can change your Etsy store name by following these steps:**
-**1. Go to your Shop Manager page**
-**2. Click on “Settings” in the left-hand navigation**
-**3. Click on “Info and Appearance”**
-**4. Click “Change” next to your current store name**
-**5. Enter your new store name**
-**6. Click “Save”**
+1. **Go to your Shop Manager page**
+2. **Click on “Settings” in the left-hand navigation**
+3. **Click on “Info and Appearance”**
+4. **Click “Change” next to your current store name**
+5. **Enter your new store name**
+6. **Click “Save”**
 
 It is not possible to update your store name from the mobile Etsy app.
 
@@ -87,7 +87,7 @@ Etsy’s exact guideline for this is as follows:
 
 >> Once your shop is open, you can change your shop name in Info & Appearance up to five times. If you need to change it again, use the same form to submit a name change request to Etsy Support. Etsy Support will then review the request.
 >>
->> https://help.etsy.com/hc/en-gb/articles/115015710568-How-to-Change-Your-Shop-Name
+>> [Etsy.com](https://help.etsy.com/hc/en-gb/articles/115015710568-How-to-Change-Your-Shop-Name)
 
 Once you have used your 5 changes it is incredibly difficult to get it changed again through Etsy support. A store must have an exceptional reason for a name change.
 
