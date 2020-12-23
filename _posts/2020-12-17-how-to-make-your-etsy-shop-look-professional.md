@@ -22,11 +22,11 @@ The key to this is being consistent with the fonts and colours you use. Having a
 
 ### Selecting Brand fonts
 
-As a general rule, I’d recommend selecting 2 fonts. One for headings, and one for sub-titles and descriptions. This is known as a “font pair”.
+As a general rule, I’d recommend selecting 2 fonts. One for headings, and one for sub-titles and descriptions. This is known as a **“font pair”**.
 
 >> A font pair is a combination of two complementary fonts that you can use to blend your branded assets. This pairing can go for the heading-copy and body-copy… The best practices and strategy on using the combination of two fonts can help you achieve readability, engagement, contrast and visual hierarchy for your brand.
 >>
->> https://www.builderfly.com/7-perfect-font-pairing-for-your-ecommerce-website
+>> [builderfly.com](https://www.builderfly.com/7-perfect-font-pairing-for-your-ecommerce-website)
 
 When selecting a pair, always remember “opposites attract”. Heading fonts can be bolder, or more decorative. Whereas sub-titles need to be simpler, and more readable.
 
@@ -55,13 +55,13 @@ This will come down to two things. Lighting and staging. I’ll cover these now.
 
 >> The perceived value of your products and the trustworthiness of your brand is often judged based on the quality of your visual presentation. That means having high-quality, beautiful product photography can go a long way.
 >>
->> https://www.shopify.co.uk/blog/12206313-the-ultimate-diy-guide-to-beautiful-product-photography
+>> [shopify.co.uk](https://www.shopify.co.uk/blog/12206313-the-ultimate-diy-guide-to-beautiful-product-photography)
 
 This quote sums this up for me. Great product photography will sell better and sell for a higher price. Lighting is a huge part of making photos look better.
 
 >> The reality is that the most important thing you can have isn’t the top camera or most expensive lens — it’s a good understanding of light.
 >>
->> https://www.karltayloreducation.com/top-product-photography-tips
+>> [karltayloreducation.com](https://www.karltayloreducation.com/top-product-photography-tips)
 
 Lighting will show your products in their best light (pardon the pun). They will show off the colours correctly and will put emphasis on the most important features.
 
@@ -130,4 +130,4 @@ Buyers will feel the same way. If you went to an online store and there was no r
 
 Etsy has a great guide on how to set up your policies. They are the experts on their system so I will hand over to them on this one!
 
-https://help.etsy.com/hc/en-gb/articles/115014372467-How-to-Set-Up-Your-Shop-Policies?segment=selling
+Etsy's guide to filling out policies can be [found here](https://help.etsy.com/hc/en-gb/articles/115014372467-How-to-Set-Up-Your-Shop-Policies?segment=selling).
