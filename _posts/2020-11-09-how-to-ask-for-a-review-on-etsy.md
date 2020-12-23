@@ -10,7 +10,7 @@ description: "Reviews are hugely important for Etsy stores. Read our guide on ho
 
 How do you ask for reviews on Etsy? **Sellers are allowed to request reviews from customers who have purchased. The only restriction is that they cannot incentivise a buyer to leave a review through coupons or offers. It’s best to lead with why a buyer should leave a review, focusing on benefits to them, and other buyers, as opposed to you the store owner.**
 
-## Why reviews are important
+## Why reviews are important 
 
 Before we get into the “How” it's always good to understand the “Why?”. There is a lot of work involved in preparing your processes so that they are geared towards getting more reviews, it’s always good to know what the reward is for the hard work.
 
