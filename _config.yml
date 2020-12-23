@@ -6,7 +6,7 @@ meta_description: ""
 logo: ''
 favicon: "/assets/images/favicon.ico"
 baseurl: "https://www.etsysimplicity.com"
-permalink: /:categories/:title
+permalink: /:title
 email: "reece@etsysimplicity.com"
 google_analytics: "UA-86474387-5"
 
