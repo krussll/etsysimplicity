@@ -1,14 +1,13 @@
 # Site
 name: "Etsy Simplicity"
-title: ""
-description: ""
-meta_description: ""
+title: "Helping Etsy sellers to grow their business"
+description: "Helping Etsy sellers to grow their business"
+meta_description: "Helping Etsy sellers to grow their business"
 logo: ''
 favicon: "/assets/images/favicon.ico"
 baseurl: "https://www.etsysimplicity.com"
 permalink: /:title
 email: "reece@etsysimplicity.com"
-google_analytics: "UA-86474387-5"
 
 # Authors
 authors:
