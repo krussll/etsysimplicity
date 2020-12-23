@@ -42,7 +42,7 @@ From personal experience I’ve seen new listings jump to top category-wide page
 
 >> To keep search results fresh for frequent shoppers, Etsy’s search algorithm reviews how recently an item was listed or relisted.
 >>
->> https://help.etsy.com/hc/en-gb/articles/115015745428-How-Etsy-Search-Works?segment=selling
+>> [Etsy.com](https://help.etsy.com/hc/en-gb/articles/115015745428-How-Etsy-Search-Works?segment=selling)
 
 ### More data
 
