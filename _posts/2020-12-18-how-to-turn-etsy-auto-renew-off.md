@@ -10,9 +10,9 @@ description: "Auto-renew can be a real bug bare for new Etsy store owners. Find 
 
 How do you turn off auto-renew on Etsy Listings? **You can bulk edit renewal options in the listing manager.  Go to your “shop manager” > “listings” then:
 
-1. select all listings checkbox
-2. click 'editing options' up the top of page
-3. select 'change renewal options' from drop-down**
+1. **select all listings checkbox**
+2. **click 'editing options' up the top of page**
+3. **select 'change renewal options' from drop-down**
 
 
 A question I hear a lot from newer sellers is “why was I charged this fee? I didn’t even sell anything!”. After explaining the basics of auto-renewing I get the follow-up question “How do I avoid the auto-renew fee?”.
