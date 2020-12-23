@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Can I change my Etsy store name?" 
-categories: [ q-and-a ]
+title:  "How to change your Etsy store name | A helpful guide" 
+categories: [ how-to ]
 author: reece
 image: assets/images/post-banners/can-i-change-my-etsy-shop-name.jpg
 featured: false
