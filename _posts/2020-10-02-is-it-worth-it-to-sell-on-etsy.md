@@ -50,7 +50,7 @@ I would recommend investigating the following:
 4. how many units do you need to sell
 5. how long will it take to produce those units
 
-#### 1. Investigate what you can sell for
+#### Investigate what you can sell for
 
 Your best source of information is on Etsy itself. Find products that are similar to yours. The top results will be from the most successful sellers in your niche. Use these as a barometer as to what price points sell well.
 
@@ -58,17 +58,17 @@ Make a note of the average, as well as the range of prices you see.
 
 This will also give you an idea of what competition is out there. This leads us nicely onto...
 
-#### 2. Investigate competitiveness
+#### Investigate competitiveness
 
 If you find 1000s of products like yours, now is the time to rethink your products.
 
 There is no such thing as zero competition, however, you want to aim for 6 pages of listings or less.
 
-If you find too many products to compete against then try “niching down”. For example, if you make “Superhero PJs” you will find thousands. If you try “Superhero PJs for boys for the summer”, or maybe try the path less trodden. If you take the same example, maybe try some of the lesser-known superheroes. Everyone and their cousin will make Spiderman PJs, but far fewer will make “Sentry Superhero PJs” (yes, that is a superhero, and yes, I did have to google him https://www.wonderslist.com/top-10-lesser-known-superheroes/).
+If you find too many products to compete against then try “niching down”. For example, if you make “Superhero PJs” you will find thousands. If you try “Superhero PJs for boys for the summer”, or maybe try the path less trodden. If you take the same example, maybe try some of the lesser-known superheroes. Everyone and their cousin will make Spiderman PJs, but far fewer will make “Sentry Superhero PJs” (yes, that is a superhero, and yes, I did have to [google him](https://www.wonderslist.com/top-10-lesser-known-superheroes/).
 
 There may still be demand for these “niched-down” products, and they will be great to build up your store. You can still go for the bigger names once you have an established-store with loads of great reviews.
 
-#### 3. Investigate your profit margin
+#### Investigate your profit margin
 
 Work out how much you are likely to make on each product. Bare in mind that you will have to consider much more than just materials. Also, consider the following:
 
@@ -76,7 +76,7 @@ Etsy fees. Etsy will take a share of the sale for listing, and from the payment
 Tax. You are likely going to need to pay tax. I’m not a tax expert for the US but here in the UK, you will need to register for Self-Assessment. Keep some money behind for the taxman
 Returns and missed shipments. Stuff gets lost in the post. Customers can be jerks and return items. It happens. Expect to lose 2-3% of items you post to either of these factors. You will need to recoup the losses from your other sales.
 
-#### 4. How many units do you need to sell?
+#### How many units do you need to sell?
 
 Now you have your target income, and your likely profit margin, you can make a rough calculation on how many units you will need to sell.
 
@@ -88,7 +88,7 @@ You can extend this idea by going back to the top stores you found in step 1. On
 
 If the top stores have done 1000 sales in 5 years, that’s roughly 200 sales a year. Using my scenario above, that wouldn’t be enough. My target income calculation projected 100 sales a MONTH. At this point, you would need to consider how you would make up for this. Options include higher prices, a wider range of products or a better job of converting sales.
 
-#### 5. How long will it take to produce those units?
+#### How long will it take to produce those units?
 
 You need to make 100 units a month. Can you make that many and still have a life? Etsy stores should enhance your life, not take it away from you. 
 
