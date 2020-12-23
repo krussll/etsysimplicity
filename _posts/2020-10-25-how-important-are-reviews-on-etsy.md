@@ -4,8 +4,8 @@ title:  "How important are reviews on Etsy?"
 categories: [ q-and-a , reviews]
 author: reece
 image: assets/images/post-banners/how-important-are-reviews-on-etsy.jpg
-featured: fals
-description: ""
+featured: false
+description: "Just how important are reviews to your Etsy store? Find out the hidden influences reviews are having on your store, and how you can take advantage of them"
 ---
 
 How important are reviews on Etsy? **Reviews on your Etsy listings are very important. Reviews are a major ranking factor in the Etsy search algorithm. Reviews will also act as the main source of “Social Proof” for prospective buyers. Multiple 5-star reviews will boost your ranks in Etsy search and will also improve your sale conversion rate.**
