@@ -9,14 +9,15 @@ description: "Sometimes you need to close your Etsy store. How can you do it? An
 ---
 
 How do you close your Etsy shop temporarily? **To close your Etsy shop temporarily follow these steps:**
-**1. Sign in to Etsy.com.**
-**2. Click the Your Account icon, then click Shop Manager.**
-**3. Click Settings.**
-**4. Click Options.**
-**5. Click the Holiday mode tab.**
-**6. Change the setting to On.**
-**7. Fill in a temporary shop announcement and Message auto-reply.**
-**8. Click Save.**
+
+1. **Sign in to Etsy.com.**
+2. **Click the Your Account icon, then click Shop Manager.**
+3. **Click Settings.**
+4. **Click Options.**
+5. **Click the Holiday mode tab.**
+6. **Change the setting to On.**
+7. **Fill in a temporary shop announcement and Message auto-reply.**
+8. **Click Save.**
 
 ## What is Vacation Mode?
 
@@ -43,7 +44,7 @@ Other Etsy members who visit your shop can sign up to be notified by email of yo
 You’ll have access to your orders, cases, and Messages.
 You can issue refunds, cancel orders, and print Etsy postage labels.
 
-[https://help.etsy.com/hc/en-gb/articles/115015662947-How-to-Turn-On-Holiday-mode?segment=selling]
+[Etsy.com]([https://help.etsy.com/hc/en-gb/articles/115015662947-How-to-Turn-On-Holiday-mode?segment=selling])
 
 ### Can customers still see my shop and listings?
 
