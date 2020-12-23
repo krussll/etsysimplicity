@@ -93,7 +93,7 @@ A clear CTA (call to action) is important. Make it as easy as possible for them 
 
 Make a note to send a message to a buyer 2 days after their estimated delivery date. Here is an example.
 
->> >> Hi [CUSTOMER NAME],
+>> Hi [CUSTOMER NAME],
 >> 
 >> Once again, thanks for your order. I hope you have found a new home for it already!
 >> 
