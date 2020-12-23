@@ -36,7 +36,7 @@ This is very rare, however, if you were to name your store “The Disney Store�
 
 If your store is named after a trademarked term then expect there to be a problem down the line. If you are asked to change your name for any legal reason, then it’s best to go ahead and do it.
 
-If you are based in the US then you can check the database of trademarked names (http://tess2.uspto.gov/) on the United States Patent and Trademark Office’s site. For those, like me, how aren’t then you can track down your local Trademark Authority (https://www.tmdn.org/tmview/welcome#/tmview).
+If you are based in the US then you can check the [database of trademarked names](http://tess2.uspto.gov/) on the United States Patent and Trademark Office’s site. For those, like me, how aren’t then you can track down your local [Trademark Authority](https://www.tmdn.org/tmview/welcome#/tmview).
 
 ### Translation issues
 
