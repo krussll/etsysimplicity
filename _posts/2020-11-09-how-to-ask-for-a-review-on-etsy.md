@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "How to ask for a review on Etsy | A helpful guide" 
+title:  "How to ask for a review on Etsy | A Helpful Guide With Examples" 
 categories: [ how-to, reviews ]
 author: reece
 image: assets/images/post-banners/how-to-ask-for-a-review-on-etsy.jpg
 featured: true
-description: "Reviews are hugely important for Etsy stores. Read our guide on how to get more reviews for your store and build more sales today!"
+description: "Get more Etsy reviews using our example email templates. Reviews are hugely important for Etsy stores. Read our guide on how to get more reviews for your store and build more sales today!"
 ---
 
 How do you ask for reviews on Etsy? **Sellers are allowed to request reviews from customers who have purchased. The only restriction is that they cannot incentivise a buyer to leave a review through coupons or offers. It’s best to lead with why a buyer should leave a review, focusing on benefits to them, and other buyers, as opposed to you the store owner.**
@@ -34,6 +34,8 @@ This is the time to set your stall out. You should set the expectation that you 
 This can be a simple as a note at the bottom of the message to say “if you like the product please leave a review as it helps other buyers”. I would recommend keeping this mention of reviews brief at this point. It’s important to set expectations for the whole process for now. The expectations you set now will be the basis of their future review. Be sure you can meet and exceed these with your packing and delivery!
 
 The focus should be kept on what the buyer has ordered, when are they likely to get updates, and of course, when will they get the item. Something like the following will be ideal.
+
+#### Email Confirmation Example
 
 >> Hi,
 >> 
@@ -92,6 +94,8 @@ This is the most important time to ask. This is now the time the customer can ac
 A clear CTA (call to action) is important. Make it as easy as possible for them to leave a review. Tell them HOW and tell them WHEN i.e. Leave a review by FOLLOWING THIS LINK, and do it NOW.
 
 Make a note to send a message to a buyer 2 days after their estimated delivery date. Here is an example.
+
+#### Follow up email example
 
 >> Hi [CUSTOMER NAME],
 >> 
