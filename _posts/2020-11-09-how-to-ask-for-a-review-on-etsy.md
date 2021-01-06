@@ -52,6 +52,7 @@ The focus should be kept on what the buyer has ordered, when are they likely to 
 >> If you have any questions or concerns please drop me a message and I’ll get back to you as soon as possible!
 >> 
 >> Thanks,
+>>
 >> Reece
 
 From this example, I have kept the focus on the product, the delivery, and quality. A simple 2 sentence mention of a review is kept until the end. 
