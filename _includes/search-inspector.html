@@ -1,6 +1,133 @@
 <p>Try our Etsy Listing Checker. Get a glimpse into how other sellers are ranking</p>
 
 <div>
-  <input type="text" placeholder="Enter your keyword" id="keyword" />
-  <button type="submit" id="getKeywords">Go!</button>
+    <input type="text" placeholder="Enter your keyword" id="keyword" />
+    <button type="submit" id="getKeywords">Go!</button>
 </div>
+<div id="result" class="hide">
+    <div class="row">
+        <div>
+            <div>Listings Analysed</div>
+            <div data-analysed-listings></div>
+        </div>
+        <div>
+            <div>Competiton</div>
+            <div data-competiton></div>
+        </div>
+        <div>
+            <div>Unique Competing Stores</div>
+            <div data-unique-stores></div>
+        </div>
+    </div>
+
+    <div data-top-ranking>
+        <h3>Ranking Listings</h3>    
+
+        <div class="row">
+            <div>
+                <div>Average Age</div>       
+                <div data-avg-age></div>  
+            </div>
+
+            <div>
+                <div>Average Views (Monthly)</div>           
+                <div data-avg-monthly-views></div>
+            </div>
+
+            <div>
+                <div>Strong Keyword Matches</div>   
+                <div data-strong-keyword-match></div>
+            </div>
+
+            <div>                        
+                <div>Partial Keyword Matches</div> 
+                <div data-partial-keyword-match></div>
+            </div>
+
+            <div>
+                <div>Common Tags</div>
+                <div data-tags></div>
+            </div>
+
+            <div>
+                <div>Images</div>
+                <div data-images></div>
+            </div>
+        </div>
+    </div>
+
+    <div data-top-performing>
+        <h3>Performing Listings</h3> 
+
+        <div class="row">
+            <div>
+                <div>Average Age</div>       
+                <div data-avg-age></div>  
+            </div>
+
+            <div>
+                <div>Average Views (Monthly)</div>           
+                <div data-avg-monthly-views></div>
+            </div>
+
+            <div>
+                <div>Strong Keyword Matches</div>   
+                <div data-strong-keyword-match></div>
+            </div>
+
+            <div>                        
+                <div>Partial Keyword Matches</div> 
+                <div data-partial-keyword-match></div>
+            </div>
+
+            <div>
+                <div>Common Tags</div>
+                <div data-tags></div>
+            </div>
+
+            <div>
+                <div>Images</div>
+                <div data-images></div>
+            </div>
+        </div>
+    </div>
+
+    <div data-top-listings>
+        <h3>All Analysed Listings</h3>   
+
+        <div class="row">
+            <div>
+                <div>Average Age</div>       
+                <div data-avg-age></div>  
+            </div>
+
+            <div>
+                <div>Average Views (Monthly)</div>           
+                <div data-avg-monthly-views></div>
+            </div>
+
+            <div>
+                <div>Strong Keyword Matches</div>   
+                <div data-strong-keyword-match></div>
+            </div>
+
+            <div>                        
+                <div>Partial Keyword Matches</div> 
+                <div data-partial-keyword-match></div>
+            </div>
+
+            <div>
+                <div>Common Tags</div>
+                <div data-tags></div>
+            </div>
+
+            <div>
+                <div>Images</div>
+                <div data-images></div>
+            </div>
+        </div>
+    </div>
+
+<div id="word-cloud"  style="width: 550px; height: 350px;"></div>
+</div>
+<div id="loading" class="hide">LOADING</div>
