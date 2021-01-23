@@ -79,8 +79,7 @@ const getKeywords = () => {
       allRankingStrongMatch.innerText = data.totalResults.targeting_keyword
       allRankingPartial.innerText = data.totalResults.strong_partial
     
-      console.log(data.totalResults.common_tags.map(({count, tag}) => { return { text: tag, weight: count }}))
-      $("#word-cloud").jQCloud(cloudTags);
+      $("#word-cloud").jQCloud(data.totalResults.common_tags.map(({count, tag}) => { return { text: tag, weight: count }}));
     
       results.classList.remove("hide")
       loadMessage.classList.add("hide")
