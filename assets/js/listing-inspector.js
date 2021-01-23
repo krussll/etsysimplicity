@@ -13,12 +13,16 @@ const getKeywords = () => {
   const topRankingViews = document.querySelector("[data-top-ranking] [data-avg-monthly-views]")
   const topRankingStrongMatch = document.querySelector("[data-top-ranking] [data-strong-keyword-match]")
   const topRankingPartial = document.querySelector("[data-top-ranking] [data-partial-keyword-match]")
+  const topRankingTags = document.querySelector("[data-top-ranking] [data-tags]")
+  const topRankingImages = document.querySelector("[data-top-ranking] [data-images]")
 
   //top performing elements
   const topPerformingAge = document.querySelector("[data-top-performing] [data-avg-age]")
   const topPerformingViews = document.querySelector("[data-top-performing] [data-avg-monthly-views]")
   const topPerformingStrongMatch = document.querySelector("[data-top-performing] [data-strong-keyword-match]")
   const topPerformingPartial = document.querySelector("[data-top-performing] [data-partial-keyword-match]")
+  const topPerformingTags = document.querySelector("[data-top-performing] [data-tags]")
+  const topPerformingImages = document.querySelector("[data-top-performing] [data-images]")
 
   //all listing elements
   const allRankingAge = document.querySelector("[data-top-listings] [data-avg-age]")
@@ -40,11 +44,31 @@ const getKeywords = () => {
       topRankingViews.innerText = data.topResults.monthly_avg_views
       topRankingStrongMatch.innerText = data.topResults.targeting_keyword
       topRankingPartial.innerText = data.topResults.strong_partial
+    
+      data.topResults.common_tags.forEach(element => {
+        topRankingTags.appendChild(document.createElement("div").appendChild(document.createTextNode(element.tag)));
+      });
+
+      data.topPerformers.sample_images.forEach(element => {
+        let img = document.createElement("img")
+        img.src = element
+        topRankingImages.appendChild(img);
+      });
       
       topPerformingAge.innerText = data.topPerformers.average_age
       topPerformingViews.innerText = data.topPerformers.monthly_avg_views
       topPerformingStrongMatch.innerText = data.topPerformers.targeting_keyword
       topPerformingPartial.innerText = data.topPerformers.strong_partial
+    
+      data.topPerformers.common_tags.forEach(element => {
+        topPerformingTags.appendChild(document.createElement("div").appendChild(document.createTextNode(element.tag)));
+      });
+
+      data.topPerformers.sample_images.forEach(element => {
+        let img = document.createElement("img")
+        img.src = element
+        topPerformingImages.appendChild(img);
+      });
 
       allRankingAge.innerText = data.totalResults.average_age
       allRankingViews.innerText = data.totalResults.monthly_avg_views
