@@ -26,7 +26,6 @@ const getKeywords = () => {
   const allRankingStrongMatch = document.querySelector("[data-top-listings] [data-strong-keyword-match]")
   const allRankingPartial = document.querySelector("[data-top-listings] [data-partial-keyword-match]")
 
-  const keyword = document.getElementById("keyword").value
   console.log(keyword)
   fetch('https://us-central1-mythic-rain-390.cloudfunctions.net/function-1?keyword=' + keyword)
     .then(response => response.json())
