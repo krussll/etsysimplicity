@@ -47,3 +47,7 @@ div.jqcloud {
   }
   
   div.jqcloud span { padding: 0; }
+
+.hide {
+    display: none;
+}
