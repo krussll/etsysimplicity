@@ -31,10 +31,14 @@ const getKeywords = () => {
   const allRankingPartial = document.querySelector("[data-top-listings] [data-partial-keyword-match]")
 
   console.log(keyword)
+  
+  loadMessage.classList.remove("hide")
+  results.classList.add("hide")
+  
   fetch('https://us-central1-mythic-rain-390.cloudfunctions.net/function-1?keyword=' + keyword)
     .then(response => response.json())
     .then(data => {
-  console.log(data)
+      console.log(data)
             
       analysedListings.innerText = data.listingsAnalysed
       competiton.innerText = data.competiton
@@ -74,13 +78,11 @@ const getKeywords = () => {
       allRankingViews.innerText = data.totalResults.monthly_avg_views
       allRankingStrongMatch.innerText = data.totalResults.targeting_keyword
       allRankingPartial.innerText = data.totalResults.strong_partial
-      const cloudTags = data.totalResults.common_tags.map(({count, tag}) => { return { text: tag, weight: count }})
-
-      console.log(cloudTags)
+    
+      console.log(data.totalResults.common_tags.map(({count, tag}) => { return { text: tag, weight: count }}))
       $("#word-cloud").jQCloud(cloudTags);
     
       results.classList.remove("hide")
-  
       loadMessage.classList.add("hide")
   });
 }
