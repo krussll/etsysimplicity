@@ -7,7 +7,7 @@ image: assets/images/post-banners/is-it-worth-it-to-sell-on-etsy.jpg
 featured: true
 description: "Is it worth opening an Etsy store in 2021? I'll take you through the 5 steps you can take to find out"
 ---
-
+ 
 Is it worth it to sell on Etsy in 2021? **Yes, it is still worth selling on Etsy. A good part-time income is very achievable, and many stores can earn enough for a full-time income. Etsy currently has 70 million active buyers per year so there will be opportunities for new stores.**
 
 ## Setting expectations
