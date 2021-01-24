@@ -49,11 +49,13 @@ const getKeywords = () => {
       topRankingStrongMatch.innerText = data.topResults.targeting_keyword
       topRankingPartial.innerText = data.topResults.strong_partial
     
+      topRankingTags.innerHTML = '';
       data.topResults.common_tags.forEach(element => {
         topRankingTags.appendChild(document.createElement("div").appendChild(document.createTextNode(element.tag)));
       });
 
-      data.topPerformers.sample_images.forEach(element => {
+      topRankingImages.innerHTML = '';
+      data.topResults.sample_images.forEach(element => {
         let img = document.createElement("img")
         img.src = element
         topRankingImages.appendChild(img);
@@ -64,10 +66,12 @@ const getKeywords = () => {
       topPerformingStrongMatch.innerText = data.topPerformers.targeting_keyword
       topPerformingPartial.innerText = data.topPerformers.strong_partial
     
+      topPerformingTags.innerHTML = '';
       data.topPerformers.common_tags.forEach(element => {
         topPerformingTags.appendChild(document.createElement("div").appendChild(document.createTextNode(element.tag)));
       });
 
+      topPerformingImages.innerHTML = '';
       data.topPerformers.sample_images.forEach(element => {
         let img = document.createElement("img")
         img.src = element
