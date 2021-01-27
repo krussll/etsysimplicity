@@ -896,3 +896,14 @@ section.word-cloud,
 section.loading {
 	margin-bottom: 20px;
 }
+
+.stat > h3 {
+	font-size: 1rem;
+	font-weight: 400;
+	margin-bottom: 8px;
+}
+
+.stat > .stat-value {
+	font-size: 30px;
+}
+	
