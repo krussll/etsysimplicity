@@ -885,3 +885,14 @@ background-color: #675bff !important;
     border-color: #675bff !important;
     float: right;
 }
+
+section.heading,
+section.search,
+section.overview,
+section.top-ranking,
+section.top-performing,
+section.all-listings,
+section.word-cloud,
+section.loading {
+	margin-bottom: 20px;
+}
