@@ -897,6 +897,13 @@ section.loading {
 	margin-bottom: 20px;
 }
 
+section.overview,
+section.top-ranking,
+section.top-performing,
+section.all-listings {
+	padding: 30px;
+}
+
 .stat > h3 {
 	font-size: 1rem;
 	font-weight: 400;
