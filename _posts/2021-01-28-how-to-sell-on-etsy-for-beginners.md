@@ -141,7 +141,7 @@ Market research on Etsy can be tackled from two angles:
 
 Both of these attack the same problem from two opposing sides.
 
- #### Investigating what already sells
+#### Investigating what already sells
 
 Most successful stores have a handful of products that sell well. The 80/20 rule is usually in play.
 
@@ -298,7 +298,7 @@ You will be prompted to add your bank details. This way you will get your funds 
 
 The aim of this step is to get things LIVE. Your listings won’t be perfect, however, we will be refining them in the coming weeks.
 
-Go to your (Etsy dashboard)[https://www.etsy.com/uk/your/shops/me/dashboard] and select **Listings**
+Go to your [Etsy dashboard](https://www.etsy.com/uk/your/shops/me/dashboard) and select **Listings**
 
 Here is a great tutorial on how  the new listing manager works
 
@@ -381,7 +381,7 @@ Now is the time to focus on your photography. See our guide on how to make your 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZFqvFP4GsvI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Etsy provides some great guidelines on how to make the most of your photos. You can see Etsy’s “Best Practices” guide here (https://help.etsy.com/hc/en-gb/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop?segment=selling#h_1bdd9555-1d9a-4f20-9f03-75c96814f44b)
+Etsy provides some great guidelines on how to make the most of your photos. You can see [Etsy’s “Best Practices” guide here](https://help.etsy.com/hc/en-gb/articles/115015663347-Requirements-and-Best-Practices-for-Images-in-Your-Etsy-Shop?segment=selling#h_1bdd9555-1d9a-4f20-9f03-75c96814f44b)
 
 ### Ongoing
 
