@@ -4,7 +4,7 @@ title:  "How often should you list on Etsy? | A Helpful Guide"
 categories: [ q-and-a ]
 author: reece
 image: assets/images/post-banners/how-often-should-you-list-on-etsy.jpg
-featured: true
+featured: false
 description: "How often should you be listing? Your listing schedule could be holding your store's success. Read our guide to help get your store on the right track."
 ---
 
