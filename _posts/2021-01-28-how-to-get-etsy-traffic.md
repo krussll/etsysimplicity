@@ -29,8 +29,6 @@ Visits from the mobile app include listing clicks from search, any click through
 The visits tracked here include any click from non-search pages on the desktop site. This includes listing clicks on category pages, the home page, Etsy’s blog, favourites, and forums.
 
 
-https://help.etsy.com/hc/en-gb/articles/115015628207?segment=selling#traffic
-
 ### Etsy Search
 
 This section covers any visit to a listing from the Etsy search bar on Etsy.com. SImple.
@@ -70,7 +68,7 @@ The order of these platforms is no coincidence. The biggest drivers of social me
 
 The last of the Etsy based sources is Etsy ads. This is all traffic coming from Etsy ads campaigns on Etsy.com.
 
-This number should tally up with the numbers you have in your seller dashboard (see under Marketing => Etsy Ads).
+This number should tally up with the numbers you have in your seller dashboard (see under **Marketing** > **Etsy Ads**).
 
 >> Visits from ads in Etsy search and on Google. This doesn't include visits from ads on the Etsy app. All app activity is included in the “Etsy app and other Etsy pages” traffic source.
 >>
