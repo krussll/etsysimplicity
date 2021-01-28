@@ -141,17 +141,23 @@ Here are a few of my favourite tools. There is a mix of free and paid services a
 
 ### eRank.com
 
+[eRank.com](https://erank.com/)
+
 One of the original search tools for Etsy. Offers AI driven search estimation. Has a traffic light system on areas such as traffic, and competition. Great insights into buyer search behaviour.
 
 Has a great listing grading service. Once your store is hooked up erank will make suggested improvements to get more search impressions, and more sales.
 
 ### Marmalead.com
 
+[Marmalead.com](https://marmalead.com/)
+
 Another AI driven search volume estimation tool. Has the same “Listing grading” feature as erank
 
 Tools such as “Tag Storm” and “Pinterest Trends” are great additions.
 
 ### Etsy Simplicity Search Inspector (FREE)
+
+[Etsy Simplicity Search Inspector](https://www.etsysimplicity.com/etsy-listing-inspector)
 
 I may be a bit biased, but my very own search inspector tool offers the core features from paid services such as erank and marmalead, but for free!
 
@@ -163,13 +169,19 @@ Etsy will show your listing in related searches, so long as you get the basics r
 
 ### CRAFTCOUNT.COM (FREE)
 
-Lists the most successful stores in each category. Find the stores in your niche, and have a deep dive into what they are selling. Learn from the best of the best!
+[craftcount.com](https://www.craftcount.com/)
+
+Lists the most successful stores in each category. Find the stores in your niche, and have a deep dive into what they are selling. Learn from the best of the best.
 
 ### Etsy Forums (FREE)
+
+[Etsy Forums](https://community.etsy.com/t5/Etsy-Forums/ct-p/forums)
 
 Forums are a great place to check out customers' real opinions. Check to see for recurring issues, both from sellers and buyers
 
 ### Etsy Search (FREE)
+
+[Etsy.com](https://www.etsy.com/)
 
 The tools above are great - however nothing beats getting stuck into the search bar and browsing categories.
 
