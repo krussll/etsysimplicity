@@ -4,7 +4,7 @@ title:  "Is It Worth It To Sell On Etsy in 2021? Here Are My 5 Steps To Find Out
 categories: [ q-and-a ]
 author: reece
 image: assets/images/post-banners/is-it-worth-it-to-sell-on-etsy.jpg
-featured: true
+featured: false
 description: "Is it worth opening an Etsy store in 2021? I'll take you through the 5 steps you can take to find out"
 ---
  
