@@ -4,7 +4,7 @@ title:  "How to make your Etsy shop look professional | A helpful guide"
 categories: [ how-to ]
 author: reece
 image: assets/images/post-banners/how-to-make-your-etsy-shop-look-professional.jpg
-featured: true
+featured: false
 description: "We all want our Etsy stores to look professional. Professional looking stores sell more. It's not as hard as you think. Follow our guide get your store to look better than ever before"
 ---
 
