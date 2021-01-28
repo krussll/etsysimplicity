@@ -4,7 +4,7 @@ title:  "How to ask for a review on Etsy | A Helpful Guide With Examples"
 categories: [ how-to, reviews ]
 author: reece
 image: assets/images/post-banners/how-to-ask-for-a-review-on-etsy.jpg
-featured: true
+featured: false
 description: "Get more Etsy reviews using our example email templates. Reviews are hugely important for Etsy stores. Read our guide on how to get more reviews for your store and build more sales today!"
 ---
 
