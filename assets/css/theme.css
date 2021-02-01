@@ -900,7 +900,8 @@ section.loading {
 section.overview,
 section.top-ranking,
 section.top-performing,
-section.all-listings {
+section.all-listings,
+section.tool-features {
 	padding: 30px;
 }
 
