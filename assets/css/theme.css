@@ -951,6 +951,14 @@ section.search > div > input {
 	margin-right: 20px;
 }
 
+section.search > div > input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #fff;
+}
+
+section.search > div > input::focus {
+	outline: none;
+}
+
 section.search > div > button {
 	width: 162px;
 	height: 60px;
