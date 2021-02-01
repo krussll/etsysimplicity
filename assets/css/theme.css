@@ -931,7 +931,7 @@ section.heading > h1 {
 section.search > div {
 	display: flex;
 	padding: 10px;
-	background-color: #F0B85D;
+	background-color: #EE9670;
 	max-width: 1010px;
 }
 
@@ -949,4 +949,10 @@ section.search > div > input {
 section.search > div > button {
 	width: 162px;
 	height: 60px;
+	background-color: #fff;
+	border: 0;
+	border-radius: 2px;
+	font-weight: 700;
+	color: #EE9670;
+	font-size: 21px;
 }
