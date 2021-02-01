@@ -933,6 +933,7 @@ section.search > div {
 	padding: 10px;
 	background-color: #EE9670;
 	max-width: 1010px;
+	margin: auto;
 }
 
 section.search > div > input {
