@@ -927,3 +927,18 @@ section.heading > h1 {
 	font-size: 74px;
 	margin-bottom: 8px;
 }
+
+section.search > div {
+	display: flex;
+	padding: 10px;
+	background-color: #F0B85D;
+	max-width: 1010px;
+}
+
+section.search > div > input {
+	width: 100%;
+}
+
+section.search > div > button {
+	width: 162px;
+}
