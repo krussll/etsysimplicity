@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Etsy Listing Inspector
+title: EtsySuggest
 ---
 
 {% include search-inspector.html %}
