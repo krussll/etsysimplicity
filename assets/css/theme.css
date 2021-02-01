@@ -979,7 +979,7 @@ section.search > div > button:hover {
 }
 
 section.search.searching > div {
-	width: 100%;
+	max-width: 100%;
 }
 
 section.search.searching > div > button,
