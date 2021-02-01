@@ -914,3 +914,14 @@ section.all-listings {
 	font-size: 30px;
 }
 	
+section.heading {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
+
+section.heading > h1 {
+	font-weight: 600;
+	font-size: 84px;
+}
