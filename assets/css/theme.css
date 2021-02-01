@@ -925,7 +925,7 @@ section.heading {
 section.heading > h1 {
 	font-weight: 600;
 	font-size: 74px;
-	margin-bottom: 8px;
+	margin-bottom: 2em;
 }
 
 section.search > div {
