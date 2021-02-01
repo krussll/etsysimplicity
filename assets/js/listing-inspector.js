@@ -2,6 +2,7 @@ const getKeywords = () => {
   const loadMessage = document.getElementById("loading")
   const results = document.getElementById("result")
   const heading = document.getElementById("search-heading")
+  const features = document.getElementById("tool-features")
   const keyword = document.getElementById("keyword").value
 
   // top level elements
@@ -89,6 +90,7 @@ const getKeywords = () => {
       results.classList.remove("hide")
       loadMessage.classList.add("hide")
       heading.classList.add("hide")
+      features.classList.add("hide")
   });
 }
 
