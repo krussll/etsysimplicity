@@ -3,6 +3,7 @@ const getKeywords = () => {
   const results = document.getElementById("result")
   const heading = document.getElementById("search-heading")
   const features = document.getElementById("tool-features")
+  const search = document.getElementById("search-bar")
   const keyword = document.getElementById("keyword").value
 
   // top level elements
@@ -91,6 +92,7 @@ const getKeywords = () => {
       loadMessage.classList.add("hide")
       heading.classList.add("hide")
       features.classList.add("hide")
+      search.classList.add("searching")
   });
 }
 
