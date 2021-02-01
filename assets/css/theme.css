@@ -977,3 +977,16 @@ section.search > div > button:hover {
 	color: #26282d;    
 	cursor: pointer;
 }
+
+section.search.searching > div {
+	width: 100%;
+}
+
+section.search.searching > div > button,
+section.search.searching > div > input {
+	height: 40px;
+}
+
+section.search.searching > div > button {
+	text-transform: capitalize;
+}
