@@ -958,7 +958,7 @@ section.search > div > input::placeholder { /* Chrome, Firefox, Opera, Safari 10
 section.search > div > input:focus,
 section.search > div > input:active,
 section.search > div > button:hover,
-section.search > div > button:hover {
+section.search > div > button:focus {
 	outline: none;
 }
 
