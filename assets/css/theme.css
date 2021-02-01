@@ -955,7 +955,10 @@ section.search > div > input::placeholder { /* Chrome, Firefox, Opera, Safari 10
   color: #fff;
 }
 
-section.search > div > input::focus {
+section.search > div > input:focus,
+section.search > div > input:active,
+section.search > div > button:hover,
+section.search > div > button:hover {
 	outline: none;
 }
 
@@ -967,5 +970,10 @@ section.search > div > button {
 	border-radius: 2px;
 	font-weight: 700;
 	color: #EE9670;
-	font-size: 21px;
+	font-size: 14px;
+}
+
+section.search > div > button:hover {
+	color: #26282d;    
+	cursor: pointer;
 }
