@@ -104,7 +104,9 @@ Make a note to send a message to a buyer 2 days after their estimated delivery d
 >> 
 >> Just checking in to make sure everything is as you expected and that there are no issues with your order.
 >> 
->> If you have enjoyed your item and we’ve met your expectations then please leave us a review. You can do so by logging into your Etsy account here www.etsy.com/signin. You should see a prompt once you’re in. We’d love to see your photos of how you’re using it! It also gives other buyers ideas for what they can do in their homes too!
+>> If you have enjoyed your item and we’ve met your expectations then please leave us a review. You can do so by going to https://www.etsy.com/your/purchases. You should see a prompt once you’re in. 
+>> 
+>> We’d love to see your photos of how you’re using it! It also gives other buyers ideas for what they can do in their homes too!
 >> 
 >> If you do have any issues or concerns then please let me know and we can see how we can help.
 >> 
