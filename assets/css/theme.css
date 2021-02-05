@@ -886,14 +886,24 @@ background-color: #675bff !important;
     float: right;
 }
 
+
+section.loading {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(255, 255, 255, 0.4);
+    z-index: 10;
+}
+
 section.heading,
 section.search,
 section.overview,
 section.top-ranking,
 section.top-performing,
 section.all-listings,
-section.word-cloud,
-section.loading {
+section.word-cloud {
 	margin-bottom: 20px;
 }
 
