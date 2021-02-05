@@ -96,4 +96,4 @@ const getKeywords = () => {
   });
 }
 
-document.getElementById("getKeywords").onclick = getKeywords;
+document.getElementById("search-form").addEventListener('submit', getKeywords)
