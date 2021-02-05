@@ -931,7 +931,7 @@ section.heading > p {
 	margin-top: 2em;
 }
 
-section.search > div {
+section.search div {
 	display: flex;
 	padding: 10px;
 	background-color: #EE9670;
@@ -939,7 +939,7 @@ section.search > div {
 	margin: auto;
 }
 
-section.search > div > input {
+section.search div > input {
 	width: 100%;
 	height: 60px;
 	background-color: hsla(0,0%,100%,.2);
@@ -951,18 +951,18 @@ section.search > div > input {
 	margin-right: 20px;
 }
 
-section.search > div > input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+section.search div > input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: #fff;
 }
 
-section.search > div > input:focus,
-section.search > div > input:active,
-section.search > div > button:hover,
-section.search > div > button:focus {
+section.search div > input:focus,
+section.search div > input:active,
+section.search div > button:hover,
+section.search div > button:focus {
 	outline: none;
 }
 
-section.search > div > button {
+section.search div > button {
 	width: 162px;
 	height: 60px;
 	background-color: #fff;
@@ -973,20 +973,20 @@ section.search > div > button {
 	font-size: 14px;
 }
 
-section.search > div > button:hover {
+section.search div > button:hover {
 	color: #26282d;    
 	cursor: pointer;
 }
 
-section.search.searching > div {
+section.search.searching div {
 	max-width: 100%;
 }
 
-section.search.searching > div > button,
-section.search.searching > div > input {
+section.search.searching div > button,
+section.search.searching div > input {
 	height: 40px;
 }
 
-section.search.searching > div > button {
+section.search.searching div > button {
 	text-transform: capitalize;
 }
