@@ -33,6 +33,7 @@ const getKeywords = () => {
   const allRankingStrongMatch = document.querySelector("[data-top-listings] [data-strong-keyword-match]")
   const allRankingPartial = document.querySelector("[data-top-listings] [data-partial-keyword-match]")
   const allRankingTags = document.querySelector("[data-top-listings] [data-tags]").getElementsByTagName('tbody')[0]
+  const allRankingImages = document.querySelector("[data-top-listings] [data-images]")
 
   console.log(keyword)
   
@@ -96,6 +97,13 @@ const getKeywords = () => {
         let newRow = allRankingTags.insertRow()
         newRow.insertCell().appendChild(document.createTextNode(element.tag))
         newRow.insertCell().appendChild(document.createTextNode(element.count))
+      });
+           
+      allRankingImages.innerHTML = '';
+      data.totalResults.sample_images.forEach(element => {
+        let img = document.createElement("img")
+        img.src = element
+        allRankingImages.appendChild(img);
       });
     
       $("#word-cloud").jQCloud(data.totalResults.common_tags.map(({count, tag}) => { return { text: tag, weight: count }}));
