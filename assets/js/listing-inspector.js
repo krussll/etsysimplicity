@@ -55,7 +55,7 @@ const getKeywords = () => {
       topRankingTags.innerHTML = '';
       data.topResults.common_tags.forEach(element => {
         
-        topRankingTags.insertRow();
+        let newRow = topRankingTags.insertRow()
         newRow.insertCell().appendChild(document.createTextNode(element.tag))
         newRow.insertCell().appendChild(document.createTextNode(element.tag))
         //topRankingTags.appendChild(document.createElement("div").appendChild(document.createTextNode(element.tag)));
