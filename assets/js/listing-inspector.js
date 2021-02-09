@@ -24,7 +24,7 @@ const getKeywords = () => {
   const topPerformingViews = document.querySelector("[data-top-performing] [data-avg-monthly-views]")
   const topPerformingStrongMatch = document.querySelector("[data-top-performing] [data-strong-keyword-match]")
   const topPerformingPartial = document.querySelector("[data-top-performing] [data-partial-keyword-match]")
-  const topPerformingTags = document.querySelector("[data-top-performing] [data-partial-tags]")
+  const topPerformingTags = document.querySelector("[data-top-performing] [data-partial-tags]").getElementsByTagName('tbody')[0]
   const topPerformingImages = document.querySelector("[data-top-performing] [data-partial-images]")
 
   //all listing elements
@@ -53,12 +53,10 @@ const getKeywords = () => {
       topRankingPartial.innerText = data.topResults.strong_partial
     
       topRankingTags.innerHTML = '';
-      data.topResults.common_tags.forEach(element => {
-        
+      data.topResults.common_tags.forEach(element => {        
         let newRow = topRankingTags.insertRow()
         newRow.insertCell().appendChild(document.createTextNode(element.tag))
-        newRow.insertCell().appendChild(document.createTextNode(element.tag))
-        //topRankingTags.appendChild(document.createElement("div").appendChild(document.createTextNode(element.tag)));
+        newRow.insertCell().appendChild(document.createTextNode(element.count))
       });
 
       topRankingImages.innerHTML = '';
@@ -74,8 +72,10 @@ const getKeywords = () => {
       topPerformingPartial.innerText = data.topPerformers.strong_partial
     
       topPerformingTags.innerHTML = '';
-      data.topPerformers.common_tags.forEach(element => {
-        topPerformingTags.appendChild(document.createElement("div").appendChild(document.createTextNode(element.tag)));
+      data.topPerformers.common_tags.forEach(element => {        
+        let newRow = topPerformingTags.insertRow()
+        newRow.insertCell().appendChild(document.createTextNode(element.tag))
+        newRow.insertCell().appendChild(document.createTextNode(element.count))
       });
 
       topPerformingImages.innerHTML = '';
