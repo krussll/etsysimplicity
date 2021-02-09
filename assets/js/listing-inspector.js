@@ -16,16 +16,16 @@ const getKeywords = () => {
   const topRankingViews = document.querySelector("[data-top-ranking] [data-avg-monthly-views]")
   const topRankingStrongMatch = document.querySelector("[data-top-ranking] [data-strong-keyword-match]")
   const topRankingPartial = document.querySelector("[data-top-ranking] [data-partial-keyword-match]")
-  const topRankingTags = document.querySelector("[data-top-ranking] [data-tags]")
-  const topRankingImages = document.querySelector("[data-top-ranking] [data-images]")
+  const topRankingTags = document.querySelector("[data-top-ranking] [data-top-tags]")
+  const topRankingImages = document.querySelector("[data-top-ranking] [data-top-images]")
 
   //top performing elements
   const topPerformingAge = document.querySelector("[data-top-performing] [data-avg-age]")
   const topPerformingViews = document.querySelector("[data-top-performing] [data-avg-monthly-views]")
   const topPerformingStrongMatch = document.querySelector("[data-top-performing] [data-strong-keyword-match]")
   const topPerformingPartial = document.querySelector("[data-top-performing] [data-partial-keyword-match]")
-  const topPerformingTags = document.querySelector("[data-top-performing] [data-tags]")
-  const topPerformingImages = document.querySelector("[data-top-performing] [data-images]")
+  const topPerformingTags = document.querySelector("[data-top-performing] [data-partial-tags]")
+  const topPerformingImages = document.querySelector("[data-top-performing] [data-partial-images]")
 
   //all listing elements
   const allRankingAge = document.querySelector("[data-top-listings] [data-avg-age]")
