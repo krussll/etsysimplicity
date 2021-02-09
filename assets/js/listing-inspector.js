@@ -16,7 +16,7 @@ const getKeywords = () => {
   const topRankingViews = document.querySelector("[data-top-ranking] [data-avg-monthly-views]")
   const topRankingStrongMatch = document.querySelector("[data-top-ranking] [data-strong-keyword-match]")
   const topRankingPartial = document.querySelector("[data-top-ranking] [data-partial-keyword-match]")
-  const topRankingTags = document.querySelector("[data-top-ranking] [data-top-tags]")
+  const topRankingTags = document.querySelector("[data-top-ranking] [data-top-tags]").getElementsByTagName('tbody')[0]
   const topRankingImages = document.querySelector("[data-top-ranking] [data-top-images]")
 
   //top performing elements
@@ -54,7 +54,11 @@ const getKeywords = () => {
     
       topRankingTags.innerHTML = '';
       data.topResults.common_tags.forEach(element => {
-        topRankingTags.appendChild(document.createElement("div").appendChild(document.createTextNode(element.tag)));
+        
+        topRankingTags.insertRow();
+        newRow.insertCell().appendChild(document.createTextNode(element.tag))
+        newRow.insertCell().appendChild(document.createTextNode(element.tag))
+        //topRankingTags.appendChild(document.createElement("div").appendChild(document.createTextNode(element.tag)));
       });
 
       topRankingImages.innerHTML = '';
