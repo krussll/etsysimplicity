@@ -8,14 +8,15 @@ layout: null
       <lastmod>2020-12-23T00:00:00+00:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
+        <lastmod><lastmod>2021-07-20T00:00:00+00:00</lastmod></lastmod>
     </url>
   {% for post in site.posts %}
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
       {% if post.lastmod == null %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+        <lastmod><lastmod>2021-07-20T00:00:00+00:00</lastmod></lastmod>
       {% else %}
-        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+        <lastmod><lastmod>2021-07-20T00:00:00+00:00</lastmod></lastmod>
       {% endif %}
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -28,6 +29,7 @@ layout: null
         <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
         <changefreq>{{ page.sitemap.changefreq }}</changefreq>
         <priority>{{ page.sitemap.priority }}</priority>
+        <lastmod><lastmod>2021-07-20T00:00:00+00:00</lastmod></lastmod>
        </url>
     {% endif %}
   {% endfor %}
