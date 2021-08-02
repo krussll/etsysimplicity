@@ -5,18 +5,17 @@ layout: null
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
       <loc>{{ site.url }}/</loc>
-      <lastmod>2020-12-23T00:00:00+00:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
-        <lastmod><lastmod>2021-07-20T00:00:00+00:00</lastmod></lastmod>
+      <lastmod><lastmod>2021-07-20T00:00:00+00:00</lastmod></lastmod>
     </url>
   {% for post in site.posts %}
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
       {% if post.lastmod == null %}
-        <lastmod><lastmod>2021-07-20T00:00:00+00:00</lastmod></lastmod>
+      <lastmod><lastmod>2021-07-20T00:00:00+00:00</lastmod></lastmod>
       {% else %}
-        <lastmod><lastmod>2021-07-20T00:00:00+00:00</lastmod></lastmod>
+      <lastmod><lastmod>2021-07-20T00:00:00+00:00</lastmod></lastmod>
       {% endif %}
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -29,7 +28,6 @@ layout: null
         <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
         <changefreq>{{ page.sitemap.changefreq }}</changefreq>
         <priority>{{ page.sitemap.priority }}</priority>
-        <lastmod><lastmod>2021-07-20T00:00:00+00:00</lastmod></lastmod>
        </url>
     {% endif %}
   {% endfor %}
