@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How often should you list on Etsy? | A Helpful Guide" 
+title:  "How often should you list on Etsy? SOLVED! | A Complete Guide" 
 categories: [ q-and-a ]
 author: reece
 image: assets/images/post-banners/how-often-should-you-list-on-etsy.jpg
