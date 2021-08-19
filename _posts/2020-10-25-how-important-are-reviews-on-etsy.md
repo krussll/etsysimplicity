@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "How important are reviews on Etsy?" 
+title:  "How important are reviews on Etsy? EXPLAINED!" 
 categories: [ q-and-a , reviews]
 author: reece
 image: assets/images/post-banners/how-important-are-reviews-on-etsy.jpg
-featured: false
+featured: true
 description: "Just how important are reviews to your Etsy store? Find out the hidden influences reviews are having on your store, and how you can take advantage of them"
 ---
 
