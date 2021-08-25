@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "why Is Your Etsy Listing Not Showing Up? | ANSWERED" 
+title:  "Why Is Your Etsy Listing Not Showing Up? | ANSWERED" 
 categories: [ q-and-a ]
 author: reece
 image: assets/images/post-banners/why-is-my-etsy-listing-not-showing-up.jpg
