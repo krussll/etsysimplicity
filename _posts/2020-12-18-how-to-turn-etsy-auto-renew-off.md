@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to turn off auto-renew on Etsy Listings" 
+title:  "How To Turn Off Auto-Renew On Your Etsy Listings | A COMPLETE GUIDE" 
 categories: [ q-and-a ]
 author: reece
 image: assets/images/post-banners/etsy-turn-off-auto-renew.jpg
