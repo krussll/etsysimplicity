@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How long does it take to be successful on Etsy?" 
+title:  "How Long Does It Take To Be Successful On Etsy? ANSWERED | A COMPLETE GUIDE" 
 categories: [ q-and-a ]
 author: reece
 image: assets/images/post-banners/how-long-does-it-take-to-be-successful-on-etsy.jpg
