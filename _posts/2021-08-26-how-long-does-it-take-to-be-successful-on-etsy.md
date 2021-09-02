@@ -14,6 +14,10 @@ The answer is different for everyone because we're all at different points in ou
 
 You should expect to work on your store for around a year start to see consistent sales. By the 1st year point, you should be making a healthy side income from your Etsy store, which is a good target to aim for.
 
+## Is it hard to be successful on Etsy?
+
+**Yes, it can be difficult to become successful on Etsy. It requires at least a year of consistent effort to become successful, however it is still very achievable for most sellers.**
+
 ## What does “success” mean to you on Etsy?
 
 Defining what you want to achieve is important when setting your goals on Etsy. Success can mean different things to different people, so this is important to define it from the beginning. 
@@ -78,7 +82,7 @@ Some sell on Etsy simply to spread a little joy through their craft - the money 
 
 This is a great reason to sell on Etsy - so you can create something that brings a smile to your face!
 
-## Is it worth the time?
+## Is it worth selling on Etsy?
 
 **Yes, absolutely. Etsy markets are competitive, even if you’re after a full-time income (as opposed to solely creating for enjoyment) then there is plenty of room.**
 
@@ -110,7 +114,7 @@ Very few store succeed on Etsy, but they mainly fail for avoidable reasosns. Man
 
 Many don’t have the time to dedicate to their business or think it will happen overnight. It doesn’t.
 
-## How to improve your chances of success?#
+## How to improve your chances of success
 
 "Research early. Test often." is my advice for all new sellers. If you already have a business from which you can dedicate time to your Etsy store, then great! Work out how much time each week you’ll spend on marketing and selling.
 
